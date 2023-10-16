@@ -79,3 +79,7 @@ html.theme-dark #mermaid .section-root.mindmap-node { fill: #ccc; } html.theme-d
 html.theme-dark #mermaid .mindmap-edges path, html.theme-dark #mermaid .mindmap-node { filter: hue-rotate(180deg) invert(0.9); }
 /** Timeline */
 html.theme-dark #mermaid .timeline text tspan { fill: #eee; } html.theme-dark #mermaid .timeline-node path { fill: #222; }
+
+.footer {
+    display: none;
+}
