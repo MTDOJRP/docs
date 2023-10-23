@@ -51,10 +51,9 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'startedSidebar',
-            position: 'left',
+            href: 'https://docs.mtdojrp.org/docs/intro/',
             label: 'Getting Started',
+            position: 'left',
           },
           {
             href: 'https://mtdojrp.org',
