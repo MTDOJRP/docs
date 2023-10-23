@@ -2,6 +2,20 @@
 sidebar_position: 1
 ---
 
-# Testing intro page!
+# Joining the Server
 
-This is a test!
+Replace Me!
+
+---
+
+# Join us on Discord!
+
+Replace Me!
+
+---
+
+# How to use the CAD
+
+Replace Me!
+
+---
