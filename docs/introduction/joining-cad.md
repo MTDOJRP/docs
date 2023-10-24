@@ -11,8 +11,6 @@ sidebar_position: 2
 ![CAD Sign In](/img/login-page.png)
 🔍 Here is what the sign-in page should look like!
 
----
-
 ## 🔐 **Registering in CAD**
 
 You can register an account in the CAD platform with or without Discord. Here's how you can do it!
@@ -27,10 +25,9 @@ You can register an account in the CAD platform with or without Discord. Here's 
 2. Authorize the CAD platform to access your Discord account.
 3. Create a password for your CAD account.
 
-:::tip Your CAD Username
+:::tip Please Note!
 Your username will become your Discord username.
-
-This will be handy when you're in-game and try to sign-in using `F4`!
+- This will be handy when you're in-game and try to sign-in using `F4`!
 :::
 
 ---

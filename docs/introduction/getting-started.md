@@ -28,11 +28,3 @@ Join our community on Discord to stay updated, get support, and interact with ot
 
 You must join our discord server to be able to play on our server.
 :::
-
----
-
-## ⌨️ **Basic Commands**
-
-- **/command**: Description
-
----
