@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# MTDOJRP Introduction
+# MTDOJRP Documentation
 
 Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within MTDOJRP server.
 
@@ -25,16 +25,17 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🎮 [Usage and key binds](#)
 
 ### 📋 **PanMenu**
-- 🛠️ [Usage and permissions](#)
+- 🛠️ [How to use PanMenu](#)
+- 🔒 [Understanding permissions](#)
 
-### 🛡️ **Trusted Civ**
+### 🛡️ **Trusted Civilians**
 - 🌟 [Understanding and acquiring status](#)
 
-### 🚓 **LEO Applications**
-- 🚔 [What is LEO and how to apply?](#)
-
-### 🔢 **10 Codes**
-- 📜 [List of 10 codes](#)
+### 🚓 **Law Enforcement / LEO**
+- 🚔 [What is a LEO?](#)
+- 📝 [How do I apply?](#)
+- 📡 [Using the LEO Radar](#)
+- 🔢 [List of 10-codes](#)
 
 ### 🖥️ **CAD Platform**
 - 📝 [Using CAD, creating characters, writing LEO reports](#)
@@ -42,9 +43,6 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 ### 🚗 **Car Display**
 - 📊 [Engine and fuel display](#)
 - ⛽ [Refueling process](#)
-
-### 📡 **LEO Radar**
-- 🎮 [Usage and key binds](#)
 
 ### 🚨 **LVC**
 - 🚓 [Using LVC for LEO lights and sirens](#)
