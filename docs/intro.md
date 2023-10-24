@@ -9,12 +9,12 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 ---
 
 ### 🚀 **Getting Started**
-- 🌐 [Joining the server](introduction/getting-started#-discord-link-invite)
-- 💬 [Discord invite link](introduction/getting-started#-discord-link-invite)
-- 🖥️ [Joining CAD](introduction/joining-cad)
-- 🔐 [Registering in CAD (with and without Discord)](introduction/joining-cad#-getting-started-with-the-cad)
-- 🧑 [Creating a citizen, PED, and vehicle](introduction/joining-cad#-getting-started-with-the-cad)
-- ⌨️ [Basic commands](introduction/basic-commands)
+- 🌐 [Joining the server](/introduction/getting-started#-discord-link-invite)
+- 💬 [Discord invite link](/introduction/getting-started#-discord-link-invite)
+- 🖥️ [Joining CAD](/introduction/joining-cad)
+- 🔐 [Registering in CAD (with and without Discord)](/introduction/joining-cad#-getting-started-with-the-cad)
+- 🧑 [Creating a citizen, PED, and vehicle](/introduction/joining-cad#-getting-started-with-the-cad)
+- ⌨️ [Basic commands](/introduction/basic-commands)
 
 ### 📍 **Postal Codes**
 - 🗺️ [Understanding postals](#)
