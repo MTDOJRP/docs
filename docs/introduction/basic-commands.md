@@ -22,8 +22,8 @@ This section covers the basic commands that are available to all players on the 
 - **/handsup**: Puts your hands up.
 - **/handsupknees**: Puts your hands up and kneels down on the ground.
 
-## 🛠️ PanMenu Commands
-- **/panmenu**: Opens the PanMenu, you can use this instead of the `F1` key-bind.
+## 🛠️ MTDOJRP Commands
+- **/mtdojrpmenu**: Opens the MTDOJRP Menu, you can use this instead of the `F1` key-bind.
 - **/discordsync**: Re-syncs your Discord roles with the server.
 
 ---
