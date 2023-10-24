@@ -8,7 +8,7 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 
 ---
 
-### 🚀 **Getting Started**
+### 🚀 Getting Started
 - 🌐 [Joining the server](/docs/introduction/getting-started#-discord-link-invite)
 - 💬 [Discord invite link](/docs/introduction/getting-started#-discord-link-invite)
 - 🖥️ [Joining CAD](/docs/introduction/joining-cad)
@@ -16,62 +16,62 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🧑 [Creating a citizen, PED, and vehicle](/docs/introduction/joining-cad#-getting-started-with-the-cad)
 - ⌨️ [Basic commands](/docs/introduction/basic-commands)
 
-### 📍 **Postal Codes**
+### 📍 Postal Codes
 - 🗺️ [Understanding postals](#)
 - 📍 [Display on minimap and main map](#)
 - 📌 [`/postal ${postal}` command](#)
 
-### 👕 **Clothing Reel**
+### 👕 Clothing Reel
 - 🎮 [Usage and key binds](#)
 
-### 📋 **PanMenu**
-- 🛠️ [How to use PanMenu](#)
+### 📋 MTDOJRP Menu
+- 🛠️ [How to use the MTDOJRP Menu](#)
 - 🔒 [Understanding permissions](#)
 
-### 🛡️ **Trusted Civilians**
+### 🛡️ Trusted Civilians
 - 🌟 [Understanding and acquiring status](#)
 
-### 🚓 **Law Enforcement / LEO**
+### 🚓 Law Enforcement / LEO
 - 🚔 [What is a LEO?](#)
 - 📝 [How do I apply?](#)
 - 📡 [Using the LEO Radar](#)
 - 🔢 [List of 10-codes](#)
 
-### 🖥️ **CAD Platform**
+### 🖥️ CAD Platform
 - 📝 [Using CAD, creating characters, writing LEO reports](#)
 
-### 🚗 **Car Display**
+### 🚗 Car Display
 - 📊 [Engine and fuel display](#)
 - ⛽ [Refueling process](#)
 
-### 🚨 **LVC**
+### 🚨 LVC
 - 🚓 [Using LVC for LEO lights and sirens](#)
 
-### 🗣️ **Communication Commands**
+### 🗣️ Communication Commands
 - 📞 [`/911`, `/me` & `//me` commands](#)
 
-### 🔫 **Ammunations**
+### 🔫 Ammunations
 - 🛍️ [Acquiring weapons](#)
 
-### 🚫 **Anticheat**
+### 🚫 Anticheat
 - ⚠️ [Understanding messages and actions](#)
 
-### 💰 **Robberies**
+### 💰 Robberies
 - 🚨 [Robbing stores and silent alarms](#)
 
-### 🚁 **Helicopter Camera and HUD**
+### 🚁 Helicopter Camera and HUD
 - 🎥 [Usage guide](#)
 
-### 🎥 **Camera Commands**
+### 🎥 Camera Commands
 - 📷 [`/cam`, `/pcam`, `/vcam` commands](#)
 
-### 🚛 **Vehicle Attachment**
+### 🚛 Vehicle Attachment
 - 🧲 [Tow/vehicle attachment script](#)
 
-### 🎤 **In-Game Voice Chat**
+### 🎤 In-Game Voice Chat
 - 🎧 [Setup and usage](#)
 
-### 📻 **In-Game Radio**
+### 📻 In-Game Radio
 - 🎶 [Opening, default keybinds, and usage](#)
 
 ---

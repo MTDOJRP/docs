@@ -11,23 +11,22 @@ sidebar_position: 2
 ![CAD Sign In](/img/login-page.png)
 🔍 Here is what the sign-in page should look like!
 
-## 🔐 **Registering in CAD**
+## 🔐 Registering in CAD
 
 You can register an account in the CAD platform with or without Discord. Here's how you can do it!
 
-### Without Discord
 1. Click on `Don't have an account? Register here.`
 2. Fill in the required details (your username and password).
 3. Log in using the credentials you just created.
 
-### With Discord
-1. Click on `Login via Discord`.
+### Creating an Account with Discord
+1. Click on `Login via Discord` (even if you do not currently have an account).
 2. Authorize the CAD platform to access your Discord account.
 3. Create a password for your CAD account.
 
-:::tip Please Note!
-Your username will become your Discord username.
-- This will be handy when you're in-game and try to sign-in using `F4`!
+:::danger Please Note!
+This will simply create an account on the CAD with your Discord username as the username within the CAD.
+- To sign-in to your CAD in-game using `F4`, you need to sign in using your credentials.
 :::
 
 ---
@@ -39,10 +38,10 @@ This is a basic guide to get you started on the MTDOJRP CAD platform.
 For a more detailed guide, please refer to the [CAD Platform](#) section in the documentation, which covers the following topics:
 - TO-DO
 
-## 🚶 **Registering a Citizen**
+## 🚶 Registering a Citizen
 
 1. TO-DO
 
-## 🚗 **Registering a Vehicle**
+## 🚗 Registering a Vehicle
 
 1. TO-DO
