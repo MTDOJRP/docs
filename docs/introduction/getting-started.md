@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Getting Started with MTDOJRP
 
 Welcome to the MTDOJRP community on FiveM! This section will guide you through the initial steps to get you started and immerse you in our role-playing experience.
@@ -6,7 +10,7 @@ Welcome to the MTDOJRP community on FiveM! This section will guide you through t
 
 ---
 
-## 🌐 **Joining the Server**
+## 🚀 Joining the Server
 
 1. **Install FiveM**: Before you can join our server, ensure you have [FiveM](https://fivem.net/) installed. If you haven't, visit their official website and follow the installation instructions.
    
@@ -24,45 +28,6 @@ Join our community on Discord to stay updated, get support, and interact with ot
 
 You must join our discord server to be able to play on our server.
 :::
-
----
-
-## 🖥️ **Joining the CAD**
-
-1. **Access CAD**: Navigate to our CAD platform by visiting [this link](https://cad.mtdojrp.org/).
-
-2. **Register/Log in**: If you're new, you'll need to register an account. If you already have an account, log in using your credentials.
-
-🔍 Here is what the sign-in page should look like!
-![CAD Sign In](/img/login-page.png)
-
-## 🔐 **Registering in CAD**
-
-You can register an account in the CAD platform with or without Discord. Here's how you can do it!
-
-### Without Discord
-1. Click on `Don't have an account? Register here.`
-2. Fill in the required details (your username and password).
-3. Log in using the credentials you just created.
-
-### With Discord
-1. Click on `Login via Discord`.
-2. Authorize the CAD platform to access your Discord account.
-3. Create a password for your CAD account.
-
-:::tip Your CAD Username
-Your username will become your Discord username.
-
-This will be handy when you're in-game and try to sign-in using `F4`!
-:::
-
-## 🚶 **Creating a Citizen**
-
-1. TO-DO
-
-## 🚗 **Creating a Vehicle**
-
-1. TO-DO
 
 ---
 
