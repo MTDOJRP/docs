@@ -10,7 +10,7 @@ This section covers the basic commands that are available to all players on the 
 - **/dv**: Deletes the vehicle you're currently in or nearby.
 - **/hood**: Opens the hood of the vehicle you're currently in or nearby.
 - **/trunk**: Opens the trunk of the vehicle you're currently in or nearby.
-- **/engine**: Toggles the engine of the vehicle you're currently in or nearby.
+- **/engine**: Toggles the engine of the vehicle you're currently in.
 
 ## 🧑 Player Commands
 - **/me (action)**: Displays an action in chat for nearby players.
