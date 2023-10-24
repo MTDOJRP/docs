@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ⌨️ Basic Commands
+# Basic Commands
 
 This section covers the basic commands that are available to all players on the MTDOJRP server.
 
@@ -13,7 +13,8 @@ This section covers the basic commands that are available to all players on the 
 - **/engine**: Toggles the engine of the vehicle you're currently in or nearby.
 
 ## 🧑 Player Commands
-- **//me**: Displays an action in the chat.
+- **/me (action)**: Displays an action in chat for nearby players.
+- **//me (action)**: Displays a global action in the chat for all players.
 - **/911 (message)**: Calls 911 with the specified message and your location.
 - **/ooc (message)**: Sends an out-of-character message in the chat.
 

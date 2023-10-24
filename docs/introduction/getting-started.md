@@ -26,5 +26,5 @@ Join our community on Discord to stay updated, get support, and interact with ot
 
 :::danger This is Required!
 
-You must join our discord server to be able to play on our server.
+You must join our discord server to be able to play on the server.
 :::
