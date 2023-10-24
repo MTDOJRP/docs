@@ -4,12 +4,16 @@ sidebar_position: 2
 
 # Joining the CAD
 
+The MTDOJRP CAD platform is a web-based platform that allows you to create and manage your characters, vehicles, and much, much more!
+
+## 🖥️ Accessing the CAD
+
 1. **Access CAD**: Navigate to our CAD platform by visiting [this link](https://cad.mtdojrp.org/).
 
 2. **Register/Log in**: If you're new, you'll need to register an account. If you already have an account, log in using your credentials.
 
+🔍 *Here is what the sign-in page should look like!*
 ![CAD Sign In](/img/login-page.png)
-🔍 Here is what the sign-in page should look like!
 
 ## 🔐 Registering in CAD
 
