@@ -25,7 +25,7 @@ You must join our discord server to be able to play on our server.
 
 1. **Access CAD**: Navigate to our CAD platform by visiting [this link](https://cad.mtdojrp.org/).
 
-2. **Register/Log in**: If you're new, click on `Register` and fill in the required details. If you already have an account, simply log in.
+2. **Register/Log in**: If you're new, you'll need to register an account. If you already have an account, log in using your credentials.
 
 🔍 Here is what the sign-in page should look like!
 ![CAD Sign In](/img/login-page.png)
