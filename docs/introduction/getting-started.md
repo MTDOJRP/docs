@@ -1,6 +1,10 @@
-# 🚀 Getting Started with MTDOJRP
+# Getting Started with MTDOJRP
 
 Welcome to the MTDOJRP community on FiveM! This section will guide you through the initial steps to get you started and immerse you in our role-playing experience.
+
+🔍 This is a basic guide to get you started on the MTDOJRP server. For more detailed information and advanced features, please refer to the respective sections in the documentation.
+
+---
 
 ## 🌐 **Joining the Server**
 
@@ -21,6 +25,8 @@ Join our community on Discord to stay updated, get support, and interact with ot
 You must join our discord server to be able to play on our server.
 :::
 
+---
+
 ## 🖥️ **Joining the CAD**
 
 1. **Access CAD**: Navigate to our CAD platform by visiting [this link](https://cad.mtdojrp.org/).
@@ -32,23 +38,23 @@ You must join our discord server to be able to play on our server.
 
 ## 🔐 **Registering in CAD**
 
-### Without Discord:
-1. Click on `Don't have an account? Register here.`.
+You can register an account in the CAD platform with or without Discord. Here's how you can do it!
+
+### Without Discord
+1. Click on `Don't have an account? Register here.`
 2. Fill in the required details (your username and password).
 3. Log in using the credentials you just created.
 
-### With Discord:
+### With Discord
 1. Click on `Login via Discord`.
 2. Authorize the CAD platform to access your Discord account.
 3. Create a password for your CAD account.
-
 
 :::tip Your CAD Username
 Your username will become your Discord username.
 
 This will be handy when you're in-game and try to sign-in using `F4`!
 :::
-
 
 ## 🚶 **Creating a Citizen**
 
@@ -58,10 +64,10 @@ This will be handy when you're in-game and try to sign-in using `F4`!
 
 1. TO-DO
 
+---
+
 ## ⌨️ **Basic Commands**
 
 - **/command**: Description
 
 ---
-
-🔍 This is a basic guide to get you started on the MTDOJRP server. For more detailed information and advanced features, please refer to the respective sections in the documentation.
