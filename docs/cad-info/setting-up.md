@@ -2,12 +2,16 @@
 sidebar_position: 1
 ---
 
-# Create your Account
+# Create an Account
 
-The first step is to head over to the [MTDOJRP CAD](https://cad.mtdojrp.org/auth/login)!
-You'll be greeted with the login page, where you can either sign up normally or use your discord account.
+Firstly head over to [MTDOJRP CAD](https://cad.mtdojrp.org/auth/login)!
 
-![Login Page](./img/login-page.png)
+You'll be greeted with the login page, From here select login with Discord.
+
+If you have never signed into the CAD before you'll need to create a password after registering with Discord.
+This password may be anything you like, But dont forgot it as you'll need it to sign-on to the in-game CAD.
+
+![Login Page](/img/login-page.png)
 
 ## Normal Sign-Up
 
