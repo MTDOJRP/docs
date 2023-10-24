@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Joining the CAD
 
-The MTDOJRP CAD platform is a web-based platform that allows you to create and manage your characters, vehicles, and much, more!
+The MTDOJRP CAD is a web-based platform that allows you to create and manage your characters, vehicles, and much more!
 
 :::danger This is Required!
 It is a requirement to have an account on the CAD platform to be able to play on the MTDOJRP server.
@@ -14,7 +14,7 @@ It is a requirement to have an account on the CAD platform to be able to play on
 
 ## 🖥️ Accessing the CAD
 
-1. **Access CAD**: Navigate to our CAD platform by visiting [this link](https://cad.mtdojrp.org/).
+1. **Access CAD**: Navigate to our CAD by visiting [this link](https://cad.mtdojrp.org/).
 
 2. **Register/Log in**: If you're new, you'll need to register an account. If you already have an account, log in using your credentials.
 
