@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # MTDOJRP Documentation
 
-Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within MTDOJRP server.
+Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within MTDOJRP server!
 
 ---
 
