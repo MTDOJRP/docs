@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## 🦺 Responsibilities
+# Responsibilities
 Greetings, prospective Recruit! We extend a warm welcome to you from the SAFD, an institution that has consistently maintained the utmost standards for its officers since its inception. In addition to the fundamental prerequisites, SAFD imposes the following obligatory criteria.
 
 ### 🚨 Emergency Response
