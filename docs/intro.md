@@ -36,6 +36,10 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 📝 [How do I apply?](#)
 - 📡 [Using the LEO Radar](#)
 - 🔢 [List of 10-codes](#)
+  
+### 🚒 Fire/ems(#)
+- 🚒 [What is a Fire/Ems?](#)
+- 📝 [How do I apply?](#)
 
 ### 🖥️ CAD Platform
 - 📝 [Using CAD, creating characters, writing LEO reports](#)
