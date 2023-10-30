@@ -8,7 +8,7 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 
 ---
 
-:::info Getting Started
+### 🚀 Getting Started
 - 🌐 [Joining the server](/docs/introduction/getting-started#-discord-link-invite)
 - 💬 [Discord invite link](/docs/introduction/getting-started#-discord-link-invite)
 - 🖥️ [Joining CAD](/docs/introduction/joining-cad)
@@ -16,7 +16,6 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🧑 [Creating a citizen, PED, and vehicle](/docs/introduction/joining-cad#-getting-started-with-the-cad)
 - ⌨️ [Basic commands](/docs/introduction/basic-commands)
 - 📕 [Our Rules](/docs/introduction/rules)
-:::
 
 ### 📍 Postal Codes
 - 🗺️ [Understanding postals](#)
