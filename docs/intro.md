@@ -38,8 +38,8 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🔢 [List of 10-codes](#)
   
 ### 🚒 Fire/ems(#)
-- 🚒 [What is a Fire/Ems?](#)
-- 📝 [How do I apply?](#)
+- 🚒 [What is a Fire/Ems?](/docs/fire-ems/information#responsibilities)
+- 📝 [How do I apply?](/docs/fire-ems/apply#apply-for-safd)
 
 ### 🖥️ CAD Platform
 - 📝 [Using CAD, creating characters, writing LEO reports](#)

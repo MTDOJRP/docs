@@ -28,5 +28,5 @@ Greetings, prospective Recruit! We extend a warm welcome to you from the SAFD, a
 
 ### 🗒️ Requirements
 - Must possess a functioning headset & microphone.
-- Must possess a legitimate copy of GTAV or GTAVI.
+- Must possess a legitimate copy of GTAV.
 - Must be at least 14 years old.
