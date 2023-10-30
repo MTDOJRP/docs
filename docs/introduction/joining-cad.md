@@ -34,7 +34,7 @@ You can register an account in the CAD platform with or without Discord. Here's 
 2. Authorize the CAD platform to access your Discord account.
 3. Create a password for your CAD account.
 
-:::tip Please Note!
+:::info Please Note!
 This will simply create an account on the CAD with your Discord username as the username within the CAD.
 - To sign-in to your CAD in-game using `F4`, you need to sign in using your credentials.
 :::

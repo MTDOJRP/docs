@@ -8,7 +8,7 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 
 ---
 
-:::note Getting Started
+:::info Getting Started
 - 🌐 [Joining the server](/docs/introduction/getting-started#-discord-link-invite)
 - 💬 [Discord invite link](/docs/introduction/getting-started#-discord-link-invite)
 - 🖥️ [Joining CAD](/docs/introduction/joining-cad)

@@ -14,7 +14,7 @@ Welcome to the MTDOJRP community on FiveM! This section will guide you through t
 
 Join our community on Discord to stay updated, get support, and interact with other members. Click [here](https://discord.gg/fRwb4wAvyC) to join our Discord server.
 
-:::danger This is Required!
+:::warning This is Required!
 
 You must join our discord server to be able to play on the server.
 :::
