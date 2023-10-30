@@ -20,14 +20,6 @@ Here is a brief reminder about the requirements to join the SAFD team:
 
 ---
 
-### 📝 Application Process
-
-Our application process is simple and straightforward.
-
-<iframe src='https://docs.google.com/forms/d/e/1FAIpQLScqSiE80EueHBMootOlGPh8_TW6KfKz7xq4V26AUWyiTQoLwQ/viewform' width='100%'></iframe>
-
----
-
 ### 📝 Application Form
 
 Here are some tips to help you fill out the application form:
@@ -60,3 +52,11 @@ Spamming applications or submitting multiple applications will result in your ap
 
 🔍 **Any other questions?** Feel free to contact us in Discord before applying!
 - We will be more than happy to answer any questions you may have.
+
+---
+
+### 📝 Application Process
+
+Our application process is simple and straightforward.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqSiE80EueHBMootOlGPh8_TW6KfKz7xq4V26AUWyiTQoLwQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" width="100%" height="1000">Loading…</iframe>
