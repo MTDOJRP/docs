@@ -5,6 +5,8 @@ sidebar_position: 1
 # Responsibilities
 Greetings, prospective Recruit! We extend a warm welcome to you from the SAFD, an institution that has consistently maintained the utmost standards for its officers since its inception. In addition to the fundamental prerequisites, SAFD imposes the following obligatory criteria.
 
+---
+
 ### 🚨 Emergency Response
 1. Respond promptly to emergency calls, including fires, medical emergencies, rescues, hazardous material incidents, and other emergencies.
 2. Safely operate firefighting and emergency medical equipment, vehicles, and tools.
@@ -26,7 +28,10 @@ Greetings, prospective Recruit! We extend a warm welcome to you from the SAFD, a
 5. **Community Education:**
     - Educate the public on fire safety practices, emergency preparedness, and injury prevention through community outreach programs.
 
+---
+
 ### 🗒️ Requirements
 - Must possess a functioning headset & microphone.
 - Must possess a legitimate copy of GTAV.
 - Must be at least 14 years old.
+- Must be able to speak and understand English.
