@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Montana Department of Justice Roleplay Documentation`}
+      description="Documentation for the Montana Department of Justice RP Fivem Server. All of the knowledge and information you'll need to play on MTDOJRP!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
