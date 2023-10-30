@@ -31,7 +31,7 @@ The Label is what you want to name the category.
 The position is where on the left sidebar the category will be displayed.
 And the description is a brief description to display when someone clicks on the category.
 
-Now, How do create a new file/page?
+Now, How do I create a new file/page?
 Create a file named your topic.md, Example: 10codes.md
 Now at the top of the file add the following:
 ```md
