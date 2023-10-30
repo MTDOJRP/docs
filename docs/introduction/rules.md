@@ -2,9 +2,17 @@
 sidebar_position: 4
 ---
 
-## 📕 Rules
+# Our Rules
 
-### General Rules
+Please read the rules carefully and follow them at all times. Failure to do so will result in a punishment.
+
+The rules are subject to change at any time, it is your responsibility to keep up to date with them.
+- With that said, we will usually announce any changes to the rules in the Discord server.
+
+---
+
+### 📕 General Rules
+
 - Do not disrespect any players or staff members.
 - No usernames that could impersonate staff, other players, characters, famous people, etc.
 - Any racism or discrimination of any sort will not be tolerated and is a bannable offense.
@@ -13,21 +21,46 @@ sidebar_position: 4
 - Advertising of any kind is not permitted, This includes Discord status/bios.
 - Don't tag or DM staff members, Open a ticket.
 
+---
 
-### Game Rules
-- Do not VDM, RDM, or Metagame
-  1. VDM - Vehicle Deathmatch
-  2. RDM - Random Deathmatch: Do not randomly attack and interfere with a player or a Roleplay scene.
-  3. Metagame - Using Information from outside RP: Only the CAD and FiveM Game servers are considered in character.
-- Always follow the “New Life Rule” (NLR)
+### 📕 In-Game Rules
+
+:::danger VDM, RDM or Metagame
+1. VDM - Vehicle Deathmatch
+2. RDM - Random Deathmatch: Do not randomly attack and interfere with a player or a Roleplay scene.
+3. Metagame - Using Information from outside RP: Only the CAD and FiveM Game servers are considered in character.
+
+These are all bannable offenses.
+:::
+
+:::danger Follow the “New Life Rule” (NLR)
   1. No previous knowledge from your old character can be used.
   2. You may not return to the spot of your death
   3. NLR is applied for every roleplayed death
   4. When changing characters NLR applies.
-- You must always have a clear and working microphone on the server.
-- Do not abuse your powers as a Civilian, FD, or LEO.
-- If you’re not talking in character use /OOC never speak outside character without using this command.
-- In character commands: /me, //me
+:::
+
+:::danger Microphone
+Your microphone must be clear and audible, If you are asked to fix your microphone please do so.
+- If you are unable to fix your microphone, you may be muted until you can fix it.
+:::
+
+:::danger Permissions
+Do not abuse any of your permissions. This includes but is not limited to:
+- any functions within the MTDOJRP Menu
+- any functions within the CAD
+- any special permissions such as;
+  - **Law Enforcement:** As a LEO you may not use your powers to benefit yourself or others.
+  - **Fire/EMS:** As a Fire/EMS you may not use your powers to benefit yourself or others.
+  - **Trusted Civ:** I mean, the name says it all. We are supposed to trust you.
+  - **Staff:** Our staff team is not above anyone else. Permissions are given to staff to help them do their job.
+:::
+
+:::danger In-Character (IC) and Out-Of-Character (OOC)
+- If you’re talking in character use `/me` (local), or `//me` (global).
+- If you’re not talking in character use `/OOC`. This command is always global. Make sure you always use this command when you are not talking in character.
+:::
+
 - Any racist, homophobic, or sexist comments in chat or Voice Chat this result in an instant ban.
 - Do not have an inappropriate in-game name. This includes racism, homophobia, or sexism
 - Selling in-game items for real-world money is not permitted.
