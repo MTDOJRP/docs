@@ -15,7 +15,7 @@
 ### ➕ But wait? I've created the fork, How do I edit??
 In order to edit the docs and add what you'd like to them make sure you create a fork as showed above, than go into the docs folder and find the file you want to edit, Or create a folder/file.
 
-All Folders must contain a `category.json` file
+All Folders must contain a `_category_.json` file
 The file will look like so:
 ```json
 {
