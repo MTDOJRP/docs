@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The MTDOJRP CAD is a web-based platform that allows you to create and manage your characters, vehicles, and much more!
 
-:::danger This is Required!
+:::warning This is Required!
 It is a requirement to have an account on the CAD platform to be able to play on the MTDOJRP server.
 :::
 
