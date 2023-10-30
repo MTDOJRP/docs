@@ -46,5 +46,15 @@ Now write what information you would like in the file!
 All of these files are created using a language called "Markdown"
 See a full list of markdown formatting [here](https://www.markdownguide.org/basic-syntax/)!
 
+
+### See an issue with the docs but dont know how or can't edit them, Or do you just have a Suggestion?
+Feel free to head on over to the [**Issues**](https://github.com/MTDOJRP/docs/issues) tab and click **New Issue**
+Here you can create an issue, Type what you need / want fixed/added and add Labels to help us categorize your issue!
+These are the labels you can use:
+- **Added Documentation** - a suggestion for us to add a topic or details to the documentation, Notice something is missing and want it added? Use this!
+- **Bug/Typo** - Oops did we mess something up on our side? Let us know and create a issue with the Bug/Typo label!
+- **New Page** - Got something brand new for us that isnt at all in the documentation? Use this label!
+- **Question** - Got a question about the documentation or on how to contribute, You can use this or open a ticket on our [**Discord**](https://mtdojrp.org/)!
+
 ### Any More Questions?
 Join our [**Discord**](https://mtdojrp.org/) and open a [**Ticket**](https://docs.mtdojrp.org/docs/tickets)!
