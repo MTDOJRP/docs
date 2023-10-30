@@ -24,8 +24,7 @@ Here is a brief reminder about the requirements to join the SAFD team:
 
 Our application process is simple and straightforward.
 
-- [Click Here](https://docs.google.com/forms/d/1Gi0XqI2CE5EGDnOJJZCS1iagVnf3lyHWSHCFxFtWK7g) to view the application form and fill it out!
-- Once you have submitted your application, a member of the SAFD team will review it and get back to you as soon as possible.
+<iframe src='https://docs.google.com/forms/d/e/1FAIpQLScqSiE80EueHBMootOlGPh8_TW6KfKz7xq4V26AUWyiTQoLwQ/viewform' width='100%'></iframe>
 
 ---
 
