@@ -138,7 +138,7 @@ Animal RP requires staff approval
 - If you have any questions or concerns about the rules, please contact a member of staff.
 
 :::tip Need to report a player?
-TODO IDK HOW WE DO REPORTS YET!
+In order to report a player, please __open a ticket__ in the **[Discord server](https://discord.gg/fSeVb6tDez)**.
 :::
 
 :::danger Staff Discretion
