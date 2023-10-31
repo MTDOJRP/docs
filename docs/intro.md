@@ -15,6 +15,7 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🔐 [Registering in CAD (with and without Discord)](/docs/introduction/joining-cad#-getting-started-with-the-cad)
 - 🧑 [Creating a citizen, PED, and vehicle](/docs/introduction/joining-cad#-getting-started-with-the-cad)
 - ⌨️ [Basic commands](/docs/introduction/basic-commands)
+- 🚨 [32 Sirens Plugin](/docs/introduction/32sirens)
 - 📕 [Our Rules](/docs/introduction/rules)
 
 ### 📍 Postal Codes
