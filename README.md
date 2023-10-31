@@ -39,7 +39,7 @@ Now at the top of the file add the following:
 sidebar_position: 2
 ---
 ```
-This marks where in the sidebar under the category you want this page to display, SImply change the number.
+This marks where in the sidebar under the category you want this page to display, Simply change the number.
 Now write what information you would like in the file!
 
 #### 📜 But what about the fancy formatting, images, and links?
@@ -47,7 +47,7 @@ All of these files are created using a language called "Markdown"
 See a full list of markdown formatting [here](https://www.markdownguide.org/basic-syntax/)!
 
 
-### ℹ️ See an issue with the docs but dont know how or can't edit them, Or do you just have a Suggestion?
+### I see an issue with the docs but dont know how or can't edit them, Or do you just have a Suggestion?
 Feel free to head on over to the [**Issues**](https://github.com/MTDOJRP/docs/issues) tab and click **New Issue**
 Here you can create an issue, Type what you need / want fixed/added and add Labels to help us categorize your issue!
 These are the labels you can use:
