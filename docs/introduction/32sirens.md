@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 🚨 **SirenSetting Limit Adjuster 2.0.2 (32 Sirens Plugin)**
+# SirenSetting Limit Adjuster 2.0.2 (32 Sirens Plugin)
 
 Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, also known as the 32 Sirens Plugin. This plugin enhances the lighting capabilities of your emergency vehicles in FiveM.
 
@@ -21,13 +21,15 @@ Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, als
 5. **Paste ASI File**: Go to `C:/Users/{your name}/AppData/Local/FiveM/FiveM Application Data/plugins` and paste the ASI file inside the `plugins` folder.
 6. **Start Game**: Launch FiveM, and you're all set!
 
-### What does it do?
+### 🚨 What does it do?
 
 In simple terms, the 32 Sirens Plugin enhances the lighting of our emergency vehicles, making them more vibrant and noticeable.
 
 :::info Advanced Definition
 
-Here is a bit more in-depth explanation of what this plugin does:
+Here is a bit more in-depth explanation of what this plugin does..
 
-The SirenSetting Limit Adjuster 2.0.2 is an ASI that modifies the GTAV siren buffer limit. Instead of the default 21 lights per vehicle, it allows up to 32 lights. Additionally, it increases the number of light object ID's allowed by FiveM natively from 255 to a whopping 65535. This expansion enables more custom lights for all vehicles, providing a richer visual experience.
+The SirenSetting Limit Adjuster 2.0.2 is an ASI that modifies the GTAV siren buffer limit. Instead of the default 21 lights per vehicle, it allows up to 32 lights.
+
+Additionally, it increases the number of light object ID's allowed by FiveM natively from 255 to a whopping 65535. This expansion enables more custom lights for all vehicles, providing a richer visual experience.
 :::
