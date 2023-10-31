@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# SirenSetting Limit Adjuster 2.0.2 (32 Sirens Plugin)
+# 32 Sirens Plugin
 
 Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, also known as the 32 Sirens Plugin. This plugin enhances the lighting capabilities of your emergency vehicles in FiveM.
 
