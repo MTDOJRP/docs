@@ -67,7 +67,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://mtdojrp.org',
+            href: 'https://discord.gg/PkbPksdAqu',
             label: 'Discord',
             position: 'right',
           }

@@ -8,6 +8,11 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: url('https://docs.mtdojrp.org/img/banner.png') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  height: 300px;
 }
 
 @media screen and (max-width: 996px) {
