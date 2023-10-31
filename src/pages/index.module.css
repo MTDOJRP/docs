@@ -10,8 +10,8 @@
   overflow: hidden;
 }
 
-.heroBanner_qdFl {
-	background: url('https://docs.mtdojrp.org/img/banner.png');
+.hero {
+	background: url('https://docs.mtdojrp.org/img/banner.png') !important;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
