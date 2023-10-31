@@ -8,14 +8,11 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-}
-
-.hero {
-	background: url('https://docs.mtdojrp.org/img/banner.png') !important;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	height: 300px;
+  background: url('https://docs.mtdojrp.org/img/banner.png') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
 }
 
 @media screen and (max-width: 996px) {
