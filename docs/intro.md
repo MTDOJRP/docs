@@ -11,12 +11,15 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 ### 🚀 Getting Started
 - 🌐 [Joining the server](/docs/introduction/getting-started#-discord-link-invite)
 - 💬 [Discord invite link](/docs/introduction/getting-started#-discord-link-invite)
-- 🖥️ [Joining CAD](/docs/introduction/joining-cad)
-- 🔐 [Registering in CAD (with and without Discord)](/docs/introduction/joining-cad#-getting-started-with-the-cad)
-- 🧑 [Creating a citizen, PED, and vehicle](/docs/introduction/joining-cad#-getting-started-with-the-cad)
 - ⌨️ [Basic commands](/docs/introduction/basic-commands)
 - 🚨 [32 Sirens Plugin](/docs/introduction/32sirens)
 - 📕 [Our Rules](/docs/introduction/rules)
+
+
+### 🖥️ MTDOJRP CAD
+- 🖥️ [Joining the CAD](/docs/cad/joining-cad)
+- 🧑 [Register a citizen](/docs/cad/citizens)
+- 🚗 [Register a vehicle](/docs/cad/vehicles)
 
 ### 📍 Postal Codes
 - 🗺️ [Understanding postals](#)
@@ -42,9 +45,6 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 ### 🚒 Fire/ems(#)
 - 🚒 [What is a Fire/Ems?](/docs/fire-ems/information#responsibilities)
 - 📝 [How do I apply?](/docs/fire-ems/apply#apply-for-safd)
-
-### 🖥️ CAD Platform
-- 📝 [Using CAD, creating characters, writing LEO reports](#)
 
 ### 🚗 Car Display
 - 📊 [Engine and fuel display](#)
