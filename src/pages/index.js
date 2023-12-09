@@ -22,8 +22,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Montana Department of Justice Roleplay Documentation`}
-      description="Documentation for the Montana Department of Justice RP Fivem Server. All of the knowledge and information you'll need to play on MTDOJRP!">
+      title={`Kelly County Department of Justice Roleplay Documentation`}
+      description="Documentation for the Kelly County Department of Justice RP Fivem Server. All of the knowledge and information you'll need to play on KCDOJRP!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
