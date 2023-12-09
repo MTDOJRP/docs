@@ -1,6 +1,6 @@
-# 📚 MTDOJRP Docs
+# 📚 KCDOJRP Docs
 
-#### 🔗 These docs can be found at [docs.mtdojrp.org](https://docs.mtdojrp.org)
+#### 🔗 These docs can be found at [docs.KCDOJRP.com](https://docs.KCDOJRP.com)
 #### 🖋️ Anyone is able to edit and add to the documentations.
 
 ### ✍️ If you want to contribute to our docs by adding more information or maybe just fixing a typo do the following:
@@ -54,7 +54,7 @@ These are the labels you can use:
 - **Added Documentation** - a suggestion for us to add a topic or details to the documentation, Notice something is missing and want it added? Use this!
 - **Bug/Typo** - Oops did we mess something up on our side? Let us know and create a issue with the Bug/Typo label!
 - **New Page** - Got something brand new for us that isnt at all in the documentation? Use this label!
-- **Question** - Got a question about the documentation or on how to contribute, You can use this or open a ticket on our [**Discord**](https://mtdojrp.org/)!
+- **Question** - Got a question about the documentation or on how to contribute, You can use this or open a ticket on our [**Discord**](https://kcdojrp.com/)!
 
 ### ❓ Any More Questions?
-Join our [**Discord**](https://mtdojrp.org/) and open a [**Ticket**](https://docs.mtdojrp.org/docs/tickets)!
+Join our [**Discord**](https://kcdojrp.com/) and open a [**Ticket**](https://docs.kcdojrp.com/docs/tickets)!
