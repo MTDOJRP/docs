@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MTDOJRP',
-  tagline: 'Montana Department of Justice Roleplay Documentation',
+  title: 'KCDOJRP',
+  tagline: 'Kelly County Department of Justice Roleplay Documentation',
   favicon: 'img/favicon.ico',
-  url: 'https://docs.mtdojrp.org',
+  url: 'https://docs.kcdojrp.com',
   baseUrl: '/',
-  organizationName: 'MTDOJRP',
+  organizationName: 'KCDOJRP',
   projectName: 'docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,9 +44,9 @@ const config = {
     ({
       image: 'img/MTDOJRP.png',
       navbar: {
-        title: 'MTDOJRP',
+        title: 'KCDOJRP',
         logo: {
-          alt: 'MTDOJRP',
+          alt: 'KCDOJRP',
           src: 'img/MTDOJRP.png',
         },
         items: [
@@ -57,12 +57,12 @@ const config = {
             label: 'Getting Started',
           },
           {
-            href: 'https://mtdojrp.org',
-            label: 'MTDOJRP',
+            href: 'https://KCDOJRP.com',
+            label: 'KCDOJRP',
             position: 'right',
           },
           {
-            href: 'https://CAD.mtdojrp.org',
+            href: 'https://CAD.KCDOJRP.com',
             label: 'CAD',
             position: 'right',
           },
@@ -75,7 +75,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} MTDOJRP.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KCDOJRP.`,
       },
       prism: {
         theme: darkCodeTheme,
