@@ -1,0 +1,33 @@
+---
+sidebar_position: 7
+---
+
+# 10 Codes and Phonetic Alphabet
+
+
+A Adam   
+B Boy    
+C Charles
+D David  
+E Edward 
+F Frank  
+G George 
+H Henry  
+I Ida    
+J John   
+K King   
+L Lincoln
+M Mary   
+N Nora
+O Ocean
+P Paul
+Q Queen
+R Robert
+S Sam
+T Tom
+U Union
+V Victor
+W William
+X X-ray
+Y Yellow
+Z Zebra
