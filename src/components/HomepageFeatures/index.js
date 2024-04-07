@@ -4,32 +4,43 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: (
+      <>
+        <a href="/docs/leo/getting-started">LEO : Getting Started</a>
+      </>
+    ),
+    Svg: require('@site/static/img/user-police-tie-duotone.svg').default,
+    link: '/docs/leo/getting-started',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        How to get started as a Law Enforcement Officer on the Kelly County Department of Justice RP Fivem Server.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: (
+      <>
+        <a href="/introduction/getting-started">First Join : Getting Started</a>
+      </>
+    ),
+    Svg: require('@site/static/img/right-to-bracket-duotone.svg').default,
+    link: '/docs/introduction/getting-started',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Are you a brand new member looking on how to get started on the Kelly County Department of Justice RP? This is the place for you!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: (
+      <>
+        <a href="/introduction/rules">Rules & TOS</a>
+      </>
+    ),
+    Svg: require('@site/static/img/scale-balanced-duotone.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Be sure to familiarize yourself with the rules and terms of service for server and follow them!
       </>
     ),
   },
