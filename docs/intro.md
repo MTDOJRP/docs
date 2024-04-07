@@ -10,7 +10,7 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 
 ### 🚀 Getting Started
 - 🌐 [Joining the server](/docs/introduction/getting-started#-discord-link-invite)
-- 💬 [Discord invite link](/docs/introduction/getting-started#-discord-link-invite)
+- 💬 [Discord invite link](https://discord.gg/sAAMeZZvrq)
 - ⌨️ [Basic commands](/docs/introduction/basic-commands)
 - 🚨 [32 Sirens Plugin](/docs/introduction/32sirens)
 - 📕 [Our Rules](/docs/introduction/rules)
