@@ -12,7 +12,7 @@ Welcome to the Kelly County Department of Justice Roleplay community on FiveM! T
 
 ## 💬 Discord Link Invite
 
-Before anything, make sure to join our community on Discord to stay updated, get support, and interact with other members. Click [here](https://discord.gg/fRwb4wAvyC) to join our Discord server.
+Before anything, make sure to join our community on Discord to stay updated, get support, and interact with other members. Click [here](https://discord.gg/sAAMeZZvrq) to join our Discord server.
 
 :::warning This is Required!
 

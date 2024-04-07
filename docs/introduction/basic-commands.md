@@ -24,7 +24,7 @@ This section covers the basic commands that are available to all players on the 
 
 ---
 
-🔍 Are we missing a command? Create a Pull Request or let us know in our [Discord Server](https://discord.gg/fRwb4wAvyC)!
+🔍 Are we missing a command? Create a Pull Request or let us know in our [Discord Server](https://discord.gg/sAAMeZZvrq)!
 
 :::info Please Note!
 
