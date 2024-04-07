@@ -47,12 +47,12 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
-      image: 'img/MTDOJRP.png',
+      image: 'img/KCDOJRP.png',
       navbar: {
         title: 'KCDOJRP',
         logo: {
           alt: 'KCDOJRP',
-          src: 'img/MTDOJRP.png',
+          src: 'img/KCDOJRP.png',
         },
         items: [
           {
