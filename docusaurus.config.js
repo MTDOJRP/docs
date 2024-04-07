@@ -1,8 +1,4 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -26,14 +22,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          sidebarPath: './sidebars.js',
           editUrl:
             'https://github.com/MTDOJRP/docs/tree/main/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
@@ -42,6 +36,17 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: false,
+        },
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       image: 'img/MTDOJRP.png',
       navbar: {
         title: 'KCDOJRP',
@@ -78,10 +83,10 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} KCDOJRP.`,
       },
       prism: {
-        theme: darkCodeTheme,
-        lightTheme: lightCodeTheme,
-      },
+        theme: prismThemes.dracula,
+        lightTheme: prismThemes.github,
+      }
     }),
 };
 
-module.exports = config;
+export default config;
