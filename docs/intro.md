@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# MTDOJRP Documentation
+# KCDOJRP Documentation
 
-Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within MTDOJRP server.
+Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within KCDOJRP server.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 📕 [Our Rules](/docs/introduction/rules)
 
 
-### 🖥️ MTDOJRP CAD
+### 🖥️ KCDOJRP CAD
 - 🖥️ [Joining the CAD](/docs/cad/joining-cad)
 - 🧑 [Register a citizen](/docs/cad/citizens)
 - 🚗 [Register a vehicle](/docs/cad/vehicles)
@@ -29,8 +29,8 @@ Welcome to the **MTDOJRP** documentation! 🎉 Dive into our comprehensive guide
 ### 👕 Clothing Reel
 - 🎮 [Usage and key binds](#)
 
-### 📋 MTDOJRP Menu
-- 🛠️ [How to use the MTDOJRP Menu](#)
+### 📋 KC Menu
+- 🛠️ [How to use the KC Menu](#)
 - 🔒 [Understanding permissions](#)
 
 ### 🛡️ Trusted Civilians

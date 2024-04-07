@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Basic Commands
 
-This section covers the basic commands that are available to all players on the MTDOJRP server.
+This section covers the basic commands that are available to all players on the KCDOJRP server.
 
 ## 🚗 Vehicle Commands
 - **/dv**: Deletes the vehicle you're currently in or nearby.
@@ -14,17 +14,13 @@ This section covers the basic commands that are available to all players on the 
 
 ## 🧑 Player Commands
 - **/me (action)**: Displays an action in chat for nearby players.
-- **//me (action)**: Displays a global action in the chat for all players.
+- **/gme (action)**: Displays a global action in the chat for all players.
 - **/911 (message)**: Calls 911 with the specified message and your location.
 - **/ooc (message)**: Sends an out-of-character message in the chat.
 
 ## 🚶 Action Commands
 - **/handsup**: Puts your hands up.
-- **/handsupknees**: Puts your hands up and kneels down on the ground.
-
-## 🛠️ MTDOJRP Commands
-- **/mtdojrpmenu**: Opens the MTDOJRP Menu, you can use this instead of the `F1` key-bind.
-- **/discordsync**: Re-syncs your Discord roles with the server.
+- **/huk**: Puts your hands up and kneels down on the ground.
 
 ---
 

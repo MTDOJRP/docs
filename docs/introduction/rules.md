@@ -83,7 +83,7 @@ Your microphone must be clear and audible, If you are asked to fix your micropho
 
 :::note Permissions
 Do not abuse any of your permissions. This includes but is not limited to:
-- any functions within the MTDOJRP Menu
+- any functions within the KC Menu
 - any functions within the CAD
 - any special permissions such as;
   - **Law Enforcement**: As a LEO you may not use your powers to benefit yourself or others.

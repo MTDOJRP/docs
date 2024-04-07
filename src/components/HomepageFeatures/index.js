@@ -20,7 +20,7 @@ const FeatureList = [
   {
     title: (
       <>
-        <a href="/introduction/getting-started">First Join : Getting Started</a>
+        <a href="/docs/introduction/getting-started">First Join : Getting Started</a>
       </>
     ),
     Svg: require('@site/static/img/right-to-bracket-duotone.svg').default,
