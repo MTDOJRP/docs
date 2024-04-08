@@ -61,9 +61,6 @@ Rank/Unit Type:
 - D47 Officer needs Assistance
 - D48 Officer needs Immediate Assistance
 
-## Example Usage
-
-
 ## Phonetic Alphabet
 
 <div style={{ float: 'left' }}>
@@ -99,8 +96,6 @@ Rank/Unit Type:
 | X | X-Ray   |
 | Y | Yellow  |
 | Z | Zebra   |
-
-
 
 ## Full 10 Codes
 
@@ -201,3 +196,40 @@ Rank/Unit Type:
 - D46 Officer at HQ
 - D47 Officer needs Assistance
 - D48 Officer needs Immediate Assistance
+
+After your David code we commonly state the race of the individual to help locate them or identify them in the future if needed.
+- White = William
+- Black = Boy
+- Hispanic = Henry
+- Asian = Adam
+- Unknown/Other = Ocean
+
+## Example Usage
+
+Here you can find some examples of how to properly communicate with dispatch and other units.
+
+Lets say your call sign is 1N-69 and you are just getting on shift.
+You should radio dispatch(651) as follows:
+- 651, 1N-69 10-8
+- Six Five One, One Nora Six Nine ten eight  
+
+Next lets say you pull over a vehicle with the plate 12ABC56
+Radio out the following:
+- 651, 1N-69 Traffic
+- Six Five One, One Nora Six Nine Traffic
+Dispatch will respond "1N-69 go ahead with your traffic"
+- 651, 1N-69 I'll be out with San Andreas 12ABC56
+
+Now lets say we need to run the drivers name
+- 651, 1N-69 10-31 San Adreas Male when ready
+- Six Five One, One Nora Six Nine Ten Thirty One, San Adreas Male when ready
+Dispatch will respond "1N-69 go ahead with your 31"
+- Here you will ready out the name, If it has common spelling, Say "Common Spelling" If not, Spell out the name using the [Phonetic Alphabet](/docs/leo/codes#phonetic-alphabet)
+
+Once you are finished with the traffic stop you'll need to state the situation code, Commonly a [David Code](/docs/leo/codes#full-david-d-codes) and be clear and available.
+Let assume you warned a while male for speeding.
+- 651, 1N-69 D4W Speed, 10-8
+- Six Five One, One Nora Six Nine, David four William, Speed, Ten eight
+D4W = David, 4(Warned and Released), William = White Race
+
+
