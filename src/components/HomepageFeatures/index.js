@@ -34,7 +34,7 @@ const FeatureList = [
   {
     title: (
       <>
-        <a href="/introduction/rules">Rules & TOS</a>
+        <a href="/docs/introduction/rules">Rules & TOS</a>
       </>
     ),
     Svg: require('@site/static/img/scale-balanced-duotone.svg').default,
