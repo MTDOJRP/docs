@@ -183,16 +183,14 @@ Rank/Unit Type:
 - D33 Unable to locate
 - D34 No such address
 - D35 Perpetrator GOA
-- D36 Complaint gone
+- D36 Complainant gone
 - D37 No action or service required
 - D38 Errand completed
 - D39 Cancelled
 - D40 Unable to complete action
-- D41 Arrest Inve Other agency NCIC Hil
 - D42 Directed Traffic
 - D43 Officer Pickup
 - D44 Took Report
-- D45 Traffic Stops
 - D46 Officer at HQ
 - D47 Officer needs Assistance
 - D48 Officer needs Immediate Assistance
