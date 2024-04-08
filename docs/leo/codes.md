@@ -66,13 +66,15 @@ Rank/Unit Type:
 
 ## Phonetic Alphabet
 
+<div style={{ float: 'left' }}>
+
 | A | Adam    |
 |---|---------|
 | B | Boy     |
 | C | Charles |
 | D | David   |
 | E | Edward  |
-| F | Rank    |
+| F | Frank   |
 | G | George  |
 | H | Henry   |
 | I | Ida     |
@@ -80,7 +82,11 @@ Rank/Unit Type:
 | K | King    |
 | L | Lincoln |
 | M | Mary    |
+
+</div>
+
 | N | Nora    |
+|---|---------|
 | O | Ocean   |
 | P | Paul    |
 | Q | Queen   |
@@ -93,6 +99,8 @@ Rank/Unit Type:
 | X | X-Ray   |
 | Y | Yellow  |
 | Z | Zebra   |
+
+
 
 ## Full 10 Codes
 
