@@ -7,6 +7,7 @@ sidebar_position: 7
 ## Callsign Definitions
 
 `{department}{rank/unit type}`-`{2 digit unit number}`
+
 Departments:
 - 1 = BCSO
 - 2 = LSSO
