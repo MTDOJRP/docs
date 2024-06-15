@@ -62,11 +62,6 @@ const config = {
             label: 'Getting Started',
           },
           {
-            href: 'https://KCDOJRP.com',
-            label: 'KCDOJRP',
-            position: 'right',
-          },
-          {
             href: 'https://CAD.KCDOJRP.com',
             label: 'CAD',
             position: 'right',

@@ -1,14 +1,23 @@
-# 📚 KCDOJRP Docs
+# 📚 KCRP
+## Welcome to the KCDOJRP Documentation!
 
-#### 🔗 These docs can be found at [docs.KCDOJRP.com](https://docs.KCDOJRP.com)
-#### 🖋️ Anyone is able to edit and add to the documentations.
+#### 🔗 These docs can be found at <a href="https://docs.kcdojrp.com" target="_blank">doc.kcdojrp.com</a>
+#### 🖋️ Anyone is able to edit and add to our documentation!
 
-### ✍️ If you want to contribute to our docs by adding more information or maybe just fixing a typo do the following:
-1. At the top right click "[**Fork**](https://github.com/MTDOJRP/docs/fork)", Than **Create Fork**.
-2. On this fork you can now modify the pages as you please, However this will not update on the website just yet!
-3. To update on the website come back to the [**original repo**](https://github.com/MTDOJRP/docs)
+### ✍️ If you want to contribute to our docs and add more information or maybe just fix a typo, here is a useful guide to get started:
+- If you don't already have one, You will need to create a Github account. You can sign up [Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=MTDOJRP%2Fdocs)
+
+1. Click [**Fork**](https://github.com/MTDOJRP/docs/fork), Than **Create Fork** to get started!
+
+2. Now on this fork you can now modify the pages as you please, You can add new information, fix issues, and more!
+However this will not update on the website just yet!
+
+3. To make your changes on the website come back to the [**original repo**](https://github.com/MTDOJRP/docs)
+
 4. Click "[**Pull Requests**](https://github.com/MTDOJRP/docs/pulls)" and Create **New Pull Request**
-5. Add a comment of what you did Ex. "Fixed There instead of Their" or 'Updated DIscord Invite link"
+
+5. Add a comment of what you did. For example; "Fixed There instead of Their" or 'Added new information to LEO page"
+
 6. Our team will review your changed and approve or deny them, If they are denied our team will leave a comment of why.
 
 
@@ -46,8 +55,25 @@ Now write what information you would like in the file!
 All of these files are created using a language called "Markdown"
 See a full list of markdown formatting [here](https://www.markdownguide.org/basic-syntax/)!
 
+## 🛠️ Example Markdown Snippet
+Here is an example of a markdown snippet to help you get started:
+```md
+# Welcome to KCDOJRP Documentation
 
-### I see an issue with the docs but dont know how or can't edit them, Or do you just have a Suggestion?
+## How to Contribute
+
+1. **Fork the Repository**: Click the 'Fork' button on the top right of the [original repo](https://github.com/MTDOJRP/docs).
+2. **Make Changes**: Edit the docs in your fork.
+3. **Submit a Pull Request**: Once done, create a pull request to merge your changes.
+
+### Formatting Tips
+- **Bold**: `**text**`
+- **Italic**: `*text*`
+- **Link**: `[Link text](URL)`
+```
+
+
+### I see an issue with the docs but don't know how or can't edit them, Or do you just have a Suggestion?
 Feel free to head on over to the [**Issues**](https://github.com/MTDOJRP/docs/issues) tab and click **New Issue**
 Here you can create an issue, Type what you need / want fixed/added and add Labels to help us categorize your issue!
 These are the labels you can use:
