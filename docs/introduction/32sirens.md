@@ -19,7 +19,7 @@ Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, als
 3. **Extract**: Once downloaded, **extract the contents of the `.zip` file.**
 4. **Copy ASI File**: Navigate to the extracted folder and copy the ASI file.
 5. **Paste ASI File**: Go to `C:/Users/{your name}/AppData/Local/FiveM/FiveM Application Data/plugins` and paste the ASI file inside the `plugins` folder.
-*if you are unable to locate the file path try pressing `Windows Key` and `R` key, In the bot that pops up type `%AppData%` (Case Sensitive). This will open you AppData folder.
+*if you are unable to locate the file path try pressing `Windows Key` and `R` key, In the box that pops up type `%AppData%` (Case Sensitive). This will open you AppData folder.
 6. **Start Game**: Launch FiveM, and you're all set!
 
 ### 🚨 What does it do?
