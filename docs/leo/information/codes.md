@@ -222,9 +222,9 @@ Now lets say we need to run the drivers name
 - 651, 1N-69 10-31 San Adreas Male when ready
 - Six Five One, One Nora Six Nine Ten Thirty One, San Adreas Male when ready
 Dispatch will respond "1N-69 go ahead with your 31"
-- Here you will ready out the name, If it has common spelling, Say "Common Spelling" If not, Spell out the name using the [Phonetic Alphabet](/docs/leo/codes#phonetic-alphabet)
+- Here you will ready out the name, If it has common spelling, Say "Common Spelling" If not, Spell out the name using the [Phonetic Alphabet](/docs/leo/information/codes#phonetic-alphabet)
 
-Once you are finished with the traffic stop you'll need to state the situation code, Commonly a [David Code](/docs/leo/codes#full-david-d-codes) and be clear and available.
+Once you are finished with the traffic stop you'll need to state the situation code, Commonly a [David Code](/docs/leo/information/codes#full-david-d-codes) and be clear and available.
 Let assume you warned a while male for speeding.
 - 651, 1N-69 D4W Speed, 10-8
 - Six Five One, One Nora Six Nine, David four William, Speed, Ten eight
