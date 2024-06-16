@@ -26,7 +26,7 @@ sidebar_position: 5
 | 1V-14     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
 | 1V-15     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
 | 1V-16     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 1V-17     |           | 1st Class Deputy  | Vacant | Patrol Deputy         |            |       |
+| 1U-17     |           | 1st Class Deputy  | Vacant | Patrol Deputy         |            |       |
 | 1U-18     |           | 1st Class Deputy  | Vacant | Patrol Deputy         |            |       |
 | 1U-19     |           | 1st Class Deputy  | Vacant | Patrol Deputy         |            |       |
 | 1U-20     |           | 1st Class Deputy  | Vacant | Patrol Deputy         |            |       |
