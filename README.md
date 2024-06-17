@@ -3,6 +3,7 @@
 
 #### 🔗 These docs can be found at <a href="https://docs.kcdojrp.com" target="_blank">doc.kcdojrp.com</a>
 #### 🖋️ Anyone is able to edit and add to our documentation!
+#### 🖥️ If you are looking for our <a href="https://cad.kcdojrp.com" target="_blank">CAD</a>, go to <a href="https://cad.kcdojrp.com" target="_blank">cad.kcdojrp.com</a>
 
 ### ✍️ If you want to contribute to our docs and add more information or maybe just fix a typo, here is a useful guide to get started:
 - If you don't already have one, You will need to create a Github account. You can sign up [Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=MTDOJRP%2Fdocs)
