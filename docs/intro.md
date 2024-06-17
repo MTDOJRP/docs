@@ -14,6 +14,7 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - ⌨️ [Basic commands](/docs/introduction/basic-commands)
 - 🚨 [32 Sirens Plugin](/docs/introduction/32sirens)
 - 📕 [Our Rules](/docs/introduction/rules)
+- 🛡️ [Staff Application](https://docs.kcdojrp.com/application/staff)
 
 
 ### 🖥️ KCDOJRP CAD
