@@ -56,10 +56,15 @@ const config = {
         },
         items: [
           {
+            href: 'https://docs.kcdojrp.com/docs/introduction/getting-started',
+            position: 'left',
+            label: 'Getting Started',
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Getting Started',
+            label: 'Documentation',
           },
           {
             href: 'https://CAD.KCDOJRP.com',
