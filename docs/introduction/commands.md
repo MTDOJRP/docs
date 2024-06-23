@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Basic Commands
+# All Commands
 
-This section covers the basic commands that are available to all players on the KCDOJRP server (unless specified otherwise).
+This section covers the commands that are available to all players on the KCDOJRP server (unless specified otherwise).
 
 ## 🧑 Chat Message Commands
 - **/me (action)**: Displays an action in chat for nearby players.
