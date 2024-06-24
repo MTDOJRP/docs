@@ -99,4 +99,4 @@ Now lets get you driving around the server!
 7. Select on `Register Vehicle`
 
 
-### Congrats! You now have the basics of getting started on KCDOJRP! Next check out the [Commands](/docs/introduction/basic-commands) sections!
+### Congrats! You now have the basics of getting started on KCDOJRP! Next check out the [Commands](/docs/introduction/commands) sections!
