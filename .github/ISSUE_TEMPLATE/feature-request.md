@@ -2,16 +2,20 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE]"
-labels: Severity - Very Low, Type - Feature/Enhancement
-assignees: ''
+labels: Status - New Reuqest
+assignees: BurnhamR
 
 ---
 
-### What would you like us to add?
-Clear description of what you would like for us to implement.
+# Feature Request
 
-### Is your feature request related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Feature Description
+Please provide a clear and concise description of what you want to happen/what you'd like to see added.
+
+## Problem or Reason
+Describe the problem that this feature would address or the reason why this feature is needed.
 
 ### References
 If any, provide links or examples of existing resources which implement the feature.
+
+Please replace the placeholders with the specific details of your feature request. Your contributions help us continuously improve and expand the gaming experience in KCDOJRP!
