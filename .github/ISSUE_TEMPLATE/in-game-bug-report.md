@@ -1,21 +1,30 @@
 ---
-name: In-Game Bug report
-about: Report a bug you may of found here!
-title: "[BUG]"
-labels: Status - New Reuqest
-assignees: Paneedah
+
+# In-Game Bug Report
+
+## Description
+Please provide a clear and concise description of what the bug is.
+
+## Steps to Reproduce
+1. Step one to reproduce the behavior
+2. Step two...
+3. Step three...
+4. (Continue if more steps are necessary)
+
+## Expected Behavior
+Describe what you expected to happen when you encountered the bug.
+
+## Screenshots
+If applicable, add screenshots to help explain your problem.
+
+## Additional Context
+Add any other context about the problem here, such as the frequency of the bug or any patterns noticed.
+
+## Your Environment
+- Windows 10/11
+- Other system details
+- Other relevant environmental details:
 
 ---
 
-# Feature Request
-
-## Feature Description
-Please provide a clear and concise description of what you want to happen/what you'd like to see added.
-
-## Problem or Reason
-Describe the problem that this feature would address or the reason why this feature is needed.
-
-### References
-If any, provide links or examples of existing resources which implement the feature.
-
-Please replace the placeholders with the specific details of your feature request. Your contributions help us continuously improve and expand the gaming experience in KCDOJRP!
+Please replace the placeholders with the specific details of your bug report. Thank you for helping us improve the game experience!
