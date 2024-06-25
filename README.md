@@ -81,7 +81,7 @@ These are the labels you can use:
 - **Added Documentation** - a suggestion for us to add a topic or details to the documentation, Notice something is missing and want it added? Use this!
 - **Bug/Typo** - Oops did we mess something up on our side? Let us know and create a issue with the Bug/Typo label!
 - **New Page** - Got something brand new for us that isnt at all in the documentation? Use this label!
-- **Question** - Got a question about the documentation or on how to contribute, You can use this or open a ticket on our [**Discord**](https://kcdojrp.com/)!
+- **Question** - Got a question about the documentation or on how to contribute, You can use this or open a ticket on our [**Discord**](https://discord.gg/fuwumRAapE)!
 
 ### ❓ Any More Questions?
-Join our [**Discord**](https://kcdojrp.com/) and open a [**Ticket**](https://docs.kcdojrp.com/docs/tickets)!
+Join our [**Discord**](https://discord.gg/fuwumRAapE) and open a [**Ticket**](https://discord.gg/WBTGjmPnB5)!
