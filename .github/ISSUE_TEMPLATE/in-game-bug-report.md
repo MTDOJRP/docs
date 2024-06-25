@@ -3,7 +3,7 @@ name: In-Game Bug report
 about: Report a bug you may of found here!
 title: "[BUG]"
 labels: Status - New Reuqest
-assignees: ''
+assignees: Paneedah
 
 ---
 
