@@ -10,7 +10,7 @@ sidebar_position: 5
 ## Blaine County Sheriff's Office
 | Call Sign | Name      | Rank              | Status | Role                  | Start Date | Notes |
 |-----------|-----------|-------------------|--------|-----------------------|------------|-------|
-| 1C-01     |           | Sheriff           | Vacant | Department Management |            |       |
+| 1C-01     |  Rocco L. | Sheriff           | Active | Department Management |            |       |
 | 1C-02     |           | Undersheriff      | Vacant | Department Management |            |       |
 | 1C-03     |           | Patrol Captain    | Vacant | Patrol Management     |            |       |
 | 1L-04     | Skyler L. | Patrol Lieutenant | Active | Patrol Supervisor     |            | FTO   |
