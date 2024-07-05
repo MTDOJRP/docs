@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Postal codes are 4-digit identifiers for basically every possible location on the map that isn't a road. Looking for the Vinewood P.D.? The postal would be 7104 (as seen in the screenshot below)!
 
-These postal codes will display both on the big main map, as well as the small mini-map in the bottom-left corner of your screen.
+These postal codes will display both on the big main map, as well as the small mini-map in the bottom left corner of your screen.
 
 ![](https://cdn.discordapp.com/attachments/863455325805608960/1258904619657072732/image.png?ex=6689bdca&is=66886c4a&hm=2fa95cd8754f3f3630f087dbe25001941fb8ff2a8a4db3d2b45f9cb58d93e703&)
 
