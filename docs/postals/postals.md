@@ -12,7 +12,7 @@ These postal codes will display both on the big main map, as well as the small m
 
 ### Custom Locations
 
-Some custom areas of interest will also have their own icons. For example, the mechanic shop at postal '7203' has a wrench icon. This is all customizable via our custom Kelly Menu (the F1 menu) within `Miscallaneous Options` -> `Blip Settings`.
+Some custom areas of interest will also have their own icons. For example, the mechanic shop at postal 7203 has a wrench icon. This is all customizable via our custom Kelly Menu (the F1 menu) within `Miscallaneous Options` -> `Blip Settings`.
 
 ![](https://cdn.discordapp.com/attachments/863455325805608960/1258906543618002954/image.png?ex=6689bf95&is=66886e15&hm=2fe01e177cd3a23fafcbf17ffb78b0081d42f6f1e84c7477ed3006efa34c3145&)
 
