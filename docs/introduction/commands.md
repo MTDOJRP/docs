@@ -72,7 +72,7 @@ This section covers the commands that are available to all players on the KCDOJR
 - **/record**: Records and saves to your GTA Gallery.
 - **/radio**: Open the radio.
 - **/attach**: Attach tow vehicles ([Read Me](https://docs.kcdojrp.com/docs/intro)).
-- **/postal (postal)**: Puts a marker on the map to a specified postal ([Read Me](/docs/postals/postals#the-postal-command)).
+- **/postal (postal)**: Puts a marker on the map to a specified postal ([Read Me](/docs/postals#the-postal-command)).
 
 ---
 
