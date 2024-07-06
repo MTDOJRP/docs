@@ -14,7 +14,7 @@ It is a requirement to have an account on the CAD platform to be able to play on
 
 ## 🖥️ Accessing the CAD
 
-1. **Access CAD**: Navigate to our CAD by visiting [this link](https://cad.KCDOJRP.org/).
+1. **Access CAD**: Navigate to our CAD by visiting [this link](https://cad.KCDOJRP.com/).
 
 2. **Register/Log in**: If you're new, you'll need to register an account. If you already have an account, log in using your credentials.
 
@@ -28,5 +28,5 @@ It is a requirement to have an account on the CAD platform to be able to play on
 
 :::info Please Note!
 This will simply create an account on the CAD with your Discord username as the username within the CAD.
-- To sign-in to your CAD in-game using `F4`, you need to sign in using your credentials.
+- To sign in to your CAD in-game using `F4`, you need to sign in using your credentials.
 :::

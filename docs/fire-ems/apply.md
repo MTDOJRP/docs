@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Apply for SAFD
+# Apply for the SAFD
 
 Thanks for your interest in joining the SAFD team! We are always looking for new members to join our team.
 
@@ -15,7 +15,7 @@ Please ensure you read all the information under the [Responsibilities](/docs/fi
 Here is a brief reminder about the requirements to join the SAFD team:
 - Must possess a functioning headset & microphone.
 - Must possess a legitimate copy of GTAV.
-- Must be at least 14 years old.
+- Must be at least 13 years old.
 - Must be able to speak and understand English.
 
 ---

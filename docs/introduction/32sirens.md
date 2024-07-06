@@ -8,8 +8,8 @@ Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, als
 
 ## 📥 **Download Links**
 
-- **[Click here to download (cdn.skyy.cc)](https://cdn.skyy.cc/FiveM/SirenSetting_Limit_Adjuster_v2.zip)**
-- **[Official Download and Page](https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/)**
+- **[Click Here to Download (cdn.skyy.cc)](https://cdn.skyy.cc/FiveM/SirenSetting_Limit_Adjuster_v2.zip)**
+- **[Official Download and Page](https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/)**.
 - **[Virus Total Scan](https://www.virustotal.com/gui/file/74fec47012be517504fb515abc913ece559f0ad680d0f16058ae6fb2ea46a9aa)**
 
 ## 🛠️ **Installation Guide**
@@ -18,11 +18,10 @@ Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, als
 2. **Download**: Click on the direct download link above to download the `.zip` file.
 3. **Extract**: Once downloaded, **extract the contents of the `.zip` file.**
 4. **Copy ASI File**: Navigate to the extracted folder and copy the ASI file.
-5. **Paste ASI File**: Go to `C:/Users/{your name}/AppData/Local/FiveM/FiveM Application Data/plugins` and paste the ASI file inside the `plugins` folder.
-*if you are unable to locate the file path try pressing `Windows Key` and `R` key, In the box that pops up type `%AppData%` (Case Sensitive). This will open you AppData folder.
+5. **Paste ASI File**: Go to `C:/Users/{your name}/AppData/Local/FiveM/FiveM Application Data/plugins` and paste the ASI file inside the `plugins` folder. If you are unable to locate the file path try pressing `Windows Key` and `R` key. In the box that pops up type `%AppData%` (Case Sensitive). This will open your AppData folder.
 6. **Start Game**: Launch FiveM, and you're all set!
 
-### 🚨 What does it do?
+### 🚨 What Does It Do?
 
 In simple terms, the 32 Sirens Plugin enhances the lighting of our emergency vehicles, making them more vibrant and noticeable.
 

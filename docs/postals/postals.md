@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# What are postal codes?
+# What are Postal Codes?
 
 Postal codes are 4-digit identifiers for basically every possible location on the map that isn't a road. Looking for the Vinewood P.D.? The postal would be 7104 (as seen in the screenshot below)!
 
@@ -16,7 +16,7 @@ Some custom areas of interest will also have their own icons. For example, the m
 
 ![](https://cdn.discordapp.com/attachments/863455325805608960/1258906543618002954/image.png?ex=6689bf95&is=66886e15&hm=2fe01e177cd3a23fafcbf17ffb78b0081d42f6f1e84c7477ed3006efa34c3145&)
 
-### The postal command
+### The Postal Command
 
 You also have the ability to use the `/postal [code]` command in-game.
 This command allows you to enter one of the postal codes and it will draw a route on your mini-map to the location, like so:

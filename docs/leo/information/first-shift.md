@@ -6,5 +6,5 @@ sidebar_position: 4
 
 Congrats on passing the application and training phase for becoming a LEO!
 
-Now we'll learn the basics of being a LEO and how to get started on your first shift!
+Now, we'll learn the basics of being a LEO and how to get started on your first shift!
 

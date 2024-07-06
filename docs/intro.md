@@ -9,9 +9,9 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 ---
 
 ### 🚀 Getting Started
-- 🌐 [Joining the server](/docs/introduction/getting-started#-discord-link-invite)
-- 💬 [Discord invite link](https://discord.gg/sAAMeZZvrq)
-- ⌨️ [commands](/docs/introduction/commands)
+- 🌐 [Joining the Server](/docs/introduction/getting-started#-discord-link-invite)
+- 💬 [Discord Invite Link](https://discord.gg/sAAMeZZvrq)
+- ⌨️ [Commands](/docs/introduction/commands)
 - 🚨 [32 Sirens Plugin](/docs/introduction/32sirens)
 - 📕 [Our Rules](/docs/introduction/rules)
 - 🛡️ [Staff Application](https://docs.kcdojrp.com/application/staff)
@@ -19,23 +19,23 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 
 ### 🖥️ KCDOJRP CAD
 - 🖥️ [Joining the CAD](/docs/cad/joining-cad)
-- 🧑 [Register a citizen](/docs/cad/citizens)
-- 🚗 [Register a vehicle](/docs/cad/vehicles)
+- 🧑 [Register a Vitizen](/docs/cad/citizens)
+- 🚗 [Register a Vehicle](/docs/cad/vehicles)
 
 ### 📍 Postal Codes
-- 🗺️ [Understanding postals](#)
-- 📍 [Display on minimap and main map](#)
-- 📌 [`/postal ${postal}` command](#)
+- 🗺️ [Understanding Postals](#)
+- 📍 [Display on Mini-map and Main Map](#)
+- 📌 [`/postal ${postal}` Command](#)
 
 ### 👕 Clothing Reel
-- 🎮 [Usage and key binds](#)
+- 🎮 [Usage and Key Binds](#)
 
 ### 📋 KC Menu
-- 🛠️ [How to use the KC Menu](#)
-- 🔒 [Understanding permissions](#)
+- 🛠️ [How to Use the KC Menu](#)
+- 🔒 [Understanding Permissions](#)
 
 ### 🛡️ Trusted Civilians
-- 🌟 [Understanding and acquiring status](#)
+- 🌟 [Understanding and Acquiring Status](#)
 
 ### 🚓 Law Enforcement / LEO
 - 🚔 [What is a LEO?](#)
@@ -43,43 +43,43 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 📡 [Using the LEO Radar](#)
 - 🔢 [List of 10-codes](#)
   
-### 🚒 Fire/ems(#)
+### 🚒 Fire / Ems(#)
 - 🚒 [What is a Fire/Ems?](/docs/fire-ems/information#responsibilities)
 - 📝 [How do I apply?](/docs/fire-ems/apply#apply-for-safd)
 
 ### 🚗 Car Display
-- 📊 [Engine and fuel display](#)
-- ⛽ [Refueling process](#)
+- 📊 [Engine and Fuel Display](#)
+- ⛽ [Refueling Process](#)
 
 ### 🚨 LVC
-- 🚓 [Using LVC for LEO lights and sirens](#)
+- 🚓 [Using LVC for LEO Lights and Sirens](#)
 
 ### 🗣️ Communication Commands
-- 📞 [`/911`, `/me` & `//me` commands](#)
+- 📞 [`/911`, `/me` & `//me` Commands](#)
 
 ### 🔫 Ammunations
-- 🛍️ [Acquiring weapons](#)
+- 🛍️ [Acquiring Weapons](#)
 
-### 🚫 Anticheat
-- ⚠️ [Understanding messages and actions](#)
+### 🚫 Anti-cheat
+- ⚠️ [Understanding Messages and Actions](#)
 
 ### 💰 Robberies
-- 🚨 [Robbing stores and silent alarms](#)
+- 🚨 [Robbing Stores and Silent Alarms](#)
 
 ### 🚁 Helicopter Camera and HUD
-- 🎥 [Usage guide](#)
+- 🎥 [Usage Guide](#)
 
 ### 🎥 Camera Commands
-- 📷 [`/cam`, `/pcam`, `/vcam` commands](#)
+- 📷 [`/cam`, `/pcam`, `/vcam` Commands](#)
 
 ### 🚛 Vehicle Attachment
-- 🧲 [Tow/vehicle attachment script](#)
+- 🧲 [Tow/Vehicle Attachment Script](#)
 
 ### 🎤 In-Game Voice Chat
-- 🎧 [Setup and usage](#)
+- 🎧 [Setup and Usage](#)
 
 ### 📻 In-Game Radio
-- 🎶 [Opening, default keybinds, and usage](#)
+- 🎶 [Opening, Default Key Binds, and Usage](#)
 
 ---
 

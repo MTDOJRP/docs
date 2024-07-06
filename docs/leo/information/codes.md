@@ -19,8 +19,8 @@ Rank/Unit Type:
 - A = Air Unit
 - B = Standard
 - C = Captain/Command
-- S = Sargent
-- L = LT
+- S = Sergeant
+- L = Lieutenant
 - K = K9
 - T = Two/Dual Units
 - N = Probationary Deputy
@@ -51,15 +51,15 @@ Rank/Unit Type:
 - 10-62 Reckless Driving
 - 10-97 Arriving at scene
 - 10-98 Finished last assignment
-- D1 arrested
+- D1 Arrested
 - D2 Cited, summons given
 - D3 F.I. card made
 - D4 Warned - Released
 - D5 Interrogated - Released
 - D10 Assisted Officer
 - D33 Unable to locate
-- D47 Officer needs Assistance
-- D48 Officer needs Immediate Assistance
+- D47 Officer needs assistance
+- D48 Officer needs immediate assistance
 
 ## Phonetic Alphabet
 
@@ -94,7 +94,7 @@ Rank/Unit Type:
 | V | Victor  |
 | W | William |
 | X | X-Ray   |
-| Y | Yellow  |
+| Y | Young   |
 | Z | Zebra   |
 
 ## Full 10 Codes
@@ -117,7 +117,7 @@ Rank/Unit Type:
 - 10-17 Procure papers at ____
 - 10-18 Complete present assign ASAP
 - 10-19 Return to the station
-- 10-20 What is your location
+- 10-20 What is your location?
 - 10-21 Call this station via phone
 - 10-22 Take no further action / Disregard (May be used in roleplay to ignore something, Like a misclick)
 - 10-23 Stand by
@@ -132,7 +132,7 @@ Rank/Unit Type:
 - 10-35 Confidential Information
 - 10-36 Correct time
 - 10-37 Operator on Duty
-- 10-38 Are you OK
+- 10-38 Are you OK?
 - 10-39 Mail is delivered
 - 10-42 Officer ___ now at home
 - 10-46 Pick up party at
@@ -149,7 +149,7 @@ Rank/Unit Type:
 
 ## Full David (D) Codes
 
-- D1 arrested
+- D1 Arrested
 - D2 Cited, summons given
 - D3 F.I. card made
 - D4 Warned - Released
@@ -192,8 +192,8 @@ Rank/Unit Type:
 - D43 Officer Pickup
 - D44 Took Report
 - D46 Officer at HQ
-- D47 Officer needs Assistance
-- D48 Officer needs Immediate Assistance
+- D47 Officer needs assistance
+- D48 Officer needs immediate assistance
 
 After your David code we commonly state the race of the individual to help locate them or identify them in the future if needed.
 - White = William
@@ -207,27 +207,27 @@ After your David code we commonly state the race of the individual to help locat
 Here you can find some examples of how to properly communicate with dispatch and other units.
 
 Lets say your call sign is 1N-69 and you are just getting on shift.
-You should radio dispatch(651) as follows:
-- 651, 1N-69 10-8
-- Six Five One, One Nora Six Nine ten eight  
+You should radio dispatch (651) as follows:
+- 651, 1N-69 10-8.
+- Six Five One, One Nora Six Nine ten eight.
 
-Next lets say you pull over a vehicle with the plate 12ABC56
+Next, let's say you pull over a vehicle with the plate 12ABC56.
 Radio out the following:
-- 651, 1N-69 Traffic
-- Six Five One, One Nora Six Nine Traffic
-Dispatch will respond "1N-69 go ahead with your traffic"
-- 651, 1N-69 I'll be out with San Andreas 12ABC56
+- 651, 1N-69 Traffic.
+- Six Five One, One Nora Six Nine Traffic.
+Dispatch will respond "1N-69 go ahead with your traffic."
+- 651, 1N-69 I'll be out with San Andreas 12ABC56.
 
-Now lets say we need to run the drivers name
-- 651, 1N-69 10-31 San Adreas Male when ready
+Now, let's say we need to run the drivers name:
+- 651, 1N-69 10-31 San Adreas Male when ready.
 - Six Five One, One Nora Six Nine Ten Thirty One, San Adreas Male when ready
-Dispatch will respond "1N-69 go ahead with your 31"
-- Here you will ready out the name, If it has common spelling, Say "Common Spelling" If not, Spell out the name using the [Phonetic Alphabet](/docs/leo/information/codes#phonetic-alphabet)
+Dispatch will respond "1N-69 go ahead with your 31."
+- Here you will write out the name. If it has common spelling, say "Common Spelling." If not, spell out the name using the [Phonetic Alphabet](/docs/leo/information/codes#phonetic-alphabet).
 
-Once you are finished with the traffic stop you'll need to state the situation code, Commonly a [David Code](/docs/leo/information/codes#full-david-d-codes) and be clear and available.
-Let assume you warned a while male for speeding.
-- 651, 1N-69 D4W Speed, 10-8
+Once you are finished with the traffic stop, you'll need to state the situation code. Commonly a [David Code](/docs/leo/information/codes#full-david-d-codes) and be clear and available.
+Let's assume you warned a while male for speeding:
+- 651, 1N-69 D4W Speed, 10-8.
 - Six Five One, One Nora Six Nine, David four William, Speed, Ten eight
-D4W = David, 4(Warned and Released), William = White Race
+D4W = David, 4 (Warned and Released), William = White Race.
 
 

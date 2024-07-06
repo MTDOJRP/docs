@@ -30,23 +30,23 @@ Skip steps 1-4 if you are already familiar with FiveM.
 
 4. **Connect**: Select the KCDOJRP server from the search results and click `Connect`. You'll be loaded into our server shortly.
 
-## 👤 Creating your first in-game character
+## 👤 Creating Your First In-Game Character
 
 Before doing anything, You must create a character to use while roleplaying!
 
-1. Press the `F1` key, This will open the main menu which you can use to manage your in-game characters, spawn vehicles, and more!
+1. Press the `F1` key. This will open the main menu which you can use to manage your in-game characters, spawn vehicles, and more!
 
-2. Open `Civilian Dashboard` -> `Citizen Customization` -> `Create New Citizen`
+2. Open `Civilian Dashboard` -> `Citizen Customization` -> `Create New Citizen`.
 
-3. This will open the character creation screen, From here you will be able to select the gender under `Ped`
+3. This will open the character creation screen, From here you will be able to select the gender under `Ped`.
 
-4. Select `Inheritance` to customize parents race, face, etc
+4. Select `Inheritance` to customize parents race, face, etc.
 
-5. `Face Features` allows you to customize your characters head
+5. `Face Features` allows you to customize your characters head.
 
 6. `Appearance` allows you to customize your characters appearance.
 
-7. Finish off with `Clothing`, `Props`, & `Tattoos`
+7. Finish off with `Clothing`, `Props`, & `Tattoos`.
 
 8. **Saving**: Make sure to save your character by clicking the disk save icon 💾!
 
@@ -56,47 +56,47 @@ Tip: You can change you camera angles by using the following icons:
 
 ## 🖥️ Registering in the CAD
 
-Now that we have created your character, We must register them into our [CAD(https://cad.kcdojrp.com/)](https://cad.kcdojrp.com/) system!
+Now that we have created your character, we must register them into our [CAD](https://cad.kcdojrp.com/) system!
 
-1. Open the [CAD(https://cad.kcdojrp.com/)](https://cad.kcdojrp.com/)
+1. Open the [CAD](https://cad.kcdojrp.com/).
 
-2. Select on `Login Via Discord` & select `Authorize`, If this is your first time logging in, Please enter a password you'd like to use
-* The password will be used when accessing the CAD in game.
+2. Select on `Login Via Discord` & select `Authorize`. If this is your first time logging in, please enter a password you'd like to use.
+    * The password will be used when accessing the CAD in game.
 
 3. From here you can manage your characters, vehicles, LEO, and more!
 
-4. Lets create our new character! Select on `Create Citizen`
+4. Lets create our new character! Select on `Create Citizen`.
 
-5. Enter your characters name(Most people use their IRL name if its their main character), Date of birth, Gender, Race, Hair Color, Eye Color, Weight(in pounds), Height(in ft in, Ex. 5' 8"), and postal code(Will auto fill address). You can also upload an image of your character, However this is optional!
-* Postal codes can be seen on the in-game map and are the 4 digit number.
+5. Enter your characters name (most people use their IRL name if its their main character), date of birth, gender, race, hair color, eye color, weight (in pounds), height (in ft in, Ex. 5' 8"), and postal code (will auto fill address). You can also upload an image of your character; however, this is optional!
+    * Postal codes can be seen on the in-game map; they consist of a 4 digit number.
 
-6. Select Next, You can optionally fill in a phone number, occupation, and other info here!
+6. Select Next. You can optionally fill in a phone number, occupation, and other info here!
 
-7. Select Next, Here you can give your player license to do various things! Most players will only need a `Drivers License`, Select Valid, and `Non-commercial vehicles (Class D)
-* You can also select invalid licenses and LEO will be able to see this on their side when they run your name!
+7. Select Next. Here you can give your player license to do various things! Most players will only need a `Drivers License`. For that select Valid, and Non-commercial vehicles (Class D).
+    * You can also select invalid licenses and LEO will be able to see this on their side when they run your name!
 
-8. Select Next, Here you can optionally put in any criminal history such as Tickets, Warnings, or Arrests! 
+8. Select Next. Here you can optionally put in any criminal history such as Tickets, Warnings, or Arrests! 
 
-9. Select `Create`, Congrats! You have now created a new Citizen in the CAD! You will now be able to view all your information and play properly on the server!
+9. Select `Create`. Congrats! You have now created a new Citizen in the CAD! You will now be able to view all your information and play properly on the server!
 
-# 🚗 Creating a vehicle
+# 🚗 Creating a Vehicle
 
-Now lets get you driving around the server!
+Now, let's get you driving around the server!
 
-1. Press the `F1` key, and go to `Vehicle Management Tools` -> `Vehicle Spawner` 
+1. Press the `F1` key, and go to `Vehicle Management Tools` -> `Vehicle Spawner`.
 
-2. Here you will see all the categories of vehicles you can spawn, As you play on the server you may unlock more such as super cars, LEO, etc
+2. Here you will see all the categories of vehicles you can spawn. As you play on the server, you may unlock more such as super cars, LEO, etc.
 
 3. Spawn a vehicle here and use the `Vehicle Management Tools` -> `Vehicle Management` to customize the vehicle to your liking.
-* You can change the vehicle color, wheels, plate, and much more!
+    * You can change the vehicle color, wheels, plate, and much more!
 
-4. Once you have a vehicle created, Make sure to save it so you always have it! `Vehicle Management Tools` -> `Save Current Vehicle` enter the vehicles name.
+4. Once you have a vehicle created, make sure to save it so you always have it! Select `Vehicle Management Tools` -> `Save Current Vehicle` then enter the vehicles name.
 
-5. Registering the vehicle in the CAD, Open the [CAD(https://cad.kcdojrp.com/)](https://cad.kcdojrp.com/) or use `F4` key in-game(Use your Discord username and the password we set earlier to login)
+5. Registering the vehicle in the CAD: Open the [CAD](https://cad.kcdojrp.com/) or use `F4` key in-game (use your Discord username and the password we set earlier to login).
 
-6. Select `Register Vehicle`, Optionally attach an image, Enter your plate, Model, Owner(You Characters name), Color, Trim levels(Optional), and status!
+6. Select `Register Vehicle`. Optionally attach an image, enter your plate, model, owner (your Characters name), color, trim levels (optional), and status!
 
-7. Select on `Register Vehicle`
+7. Select on `Register Vehicle`.
 
 
 ### Congrats! You now have the basics of getting started on KCDOJRP! Next check out the [Commands](/docs/introduction/commands) sections!

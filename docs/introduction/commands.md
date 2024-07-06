@@ -18,18 +18,18 @@ This section covers the commands that are available to all players on the KCDOJR
 - **/leo (message)**: Sends a `law enforcement` message in the chat.
 - **/gleo (message)**: Sends a `law enforcement` message in the chat for all players.
 - **/news (message)**: Sends a `news` message in the chat for all players.
-- **/ad (message)**: Sends a `advertisement` message in the chat for all players.
-- **/aop**: Tells you what the current Area of Play is.
+- **/ad (message)**: Sends an `advertisement` message in the chat for all players.
+- **/aop**: Tells you what the current 'Area of Play' is.
 
 ## 🚶 Action Commands
 - **/handsup**: Puts your hands up.
 - **/huk**: Puts your hands up and kneels down on the ground.
-- **/dry** or **/wet**: Makes your ped either wet or dry (clothes).
+- **/dry** or **/wet**: Makes your pedestrian either wet or dry (clothes).
 - **/handsup**: Put your hands up.
 - **/handsupknees**: Put your hands up and drop onto your knees.
 - **/pcam**: Equips the phone camera.
 - **/emote (emote_name)**: Allows you to play a specific emote by name (e.g. 'dance').
-- **/crouch**: Makes your ped crouch.
+- **/crouch**: Makes your pedestrian crouch.
 - **/rappel**: Descend from a helicopter.
 - **/carry**: Carry another player.
 
@@ -47,7 +47,7 @@ This section covers the commands that are available to all players on the KCDOJR
 - **/neck**: Toggles your neck accessory.
 - **/hair**: Toggles your hair style.
 - **/shoes**: Toggles your shoes.
-- **/top**: Switch between variations for your shirt.
+- **/top**: Switch between variations of your shirt.
 - **/watch**: Toggles your watch.
 
 ## 🚗 Vehicle Commands
