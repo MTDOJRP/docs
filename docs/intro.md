@@ -38,10 +38,13 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🌟 [Understanding and Acquiring Status](#)
 
 ### 🚓 Law Enforcement / LEO
-- 🚔 [What is a LEO?](#)
-- 📝 [How do I apply?](#)
-- 📡 [Using the LEO Radar](#)
-- 🔢 [List of 10-codes](#)
+- 🚔 [What is a LEO?](/docs/leo/information/intro#what-is-a-leo)
+- 📝 [How do I apply?](/docs/leo/information/getting-started)
+- 📡 [Using the LEO Radar](/docs/leo/tools/radar)
+- 🔢 [List of 10-codes](/docs/leo/information/codes#full-10-codes)
+- 📋 [List of David Codes](/docs/leo/information/codes#full-david-d-codes)
+- 👥 [LEO Roster](/docs/leo/information/directory)
+- 🚨 [Field Training Guide](/docs/leo/information/fto)
   
 ### 🚒 Fire / Ems(#)
 - 🚒 [What is a Fire/Ems?](/docs/fire-ems/information#responsibilities)
