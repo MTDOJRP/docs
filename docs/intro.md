@@ -23,9 +23,9 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🚗 [Register a Vehicle](/docs/cad/vehicles)
 
 ### 📍 Postal Codes
-- 🗺️ [Understanding Postals](#)
-- 📍 [Display on Mini-map and Main Map](#)
-- 📌 [`/postal ${postal}` Command](#)
+- 🗺️ [Understanding Postals](/docs/postals)
+- 📍 [Custom Locations](/docs/postals#custom-locations)
+- 📌 [`/postal ${postal}` Command](/docs/postals#the-postal-command)
 
 ### 👕 Clothing Reel
 - 🎮 [Usage and Key Binds](#)
