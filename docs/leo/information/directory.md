@@ -1,4 +1,4 @@
----
+ ---
 sidebar_position: 5
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 5
 ## Blaine County Sheriff's Office
 | Call Sign | Name      | Rank              | Status | Role                  | Start Date | Notes |
 |-----------|-----------|-------------------|--------|-----------------------|------------|-------|
-| 1C-01     | Rocco L.  | Sheriff           | Active | Department Management | 07/01/24   | FTO   |
+| 1C-01     | Rocco L.  | Sheriff           | Active | Department Management | 07/01/24   |  All  |
 | 1C-02     |           | Undersheriff      | Vacant | Department Management |            |       |
 | 1C-03     |           | Patrol Captain    | Vacant | Patrol Management     |            |       |
 | 1L-04     | Skyler L. | Patrol Lieutenant | Active | Patrol Supervisor     |            | FTO   |
@@ -19,7 +19,7 @@ sidebar_position: 5
 | 1S-07     |           | Patrol Sergeant   | Vacant | Patrol Supervisor     |            |       |
 | 1S-08     |           | Patrol Sergeant   | Vacant | Patrol Supervisor     |            |       |
 | 1S-09     |           | Patrol Sergeant   | Vacant | Patrol Supervisor     |            |       |
-| 1V-10     | Bart Z.   | Corporal          | Active | Patrol Supervisor     |            | FTO   |
+| 1V-10     B. Zeepkist  | Corporal          | Active | Patrol Supervisor     |            | FTO   |
 | 1V-11     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
 | 1V-12     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
 | 1V-13     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
@@ -60,51 +60,75 @@ sidebar_position: 5
 ## San Andres Highway Patrol
 | Call Sign | Name      | Rank              | Status | Role                  | Start Date | Notes |
 |-----------|-----------|-------------------|--------|-----------------------|------------|-------|
-| 5C-01     |           | Commissioner      | Vacant | Department Management |            |       |
-| 5C-02     |           | Asst. Commissioner| Vacant | Department Management |            |       |
-| 5C-03     |           | Patrol Captain    | Vacant | Patrol Management     |            |       |
-| 5L-04     | Skyler L. | Patrol Lieutenant | Active | Patrol Supervisor     |            | FTO   |
-| 5L-05     |           | Patrol Lieutenant | Vacant | Patrol Supervisor     |            |       |
-| 5L-06     |           | Patrol Lieutenant | Vacant | Patrol Supervisor     |            |       |
-| 5S-07     |           | Patrol Sergeant   | Vacant | Patrol Supervisor     |            |       |
-| 5S-08     |           | Patrol Sergeant   | Vacant | Patrol Supervisor     |            |       |
-| 5S-09     |           | Patrol Sergeant   | Vacant | Patrol Supervisor     |            |       |
-| 5V-10     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5V-11     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5V-12     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5V-13     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5V-14     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5V-15     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5V-16     |           | Corporal          | Vacant | Patrol Supervisor     |            |       |
-| 5U-17     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-18     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-19     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-20     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-21     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-22     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-23     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-24     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-25     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-26     |           | 1st Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-27     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-28     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-29     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-30     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-31     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-32     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-33     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-34     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-35     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-36     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-37     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-38     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5U-39     |           | 2nd Class Trooper | Vacant | Patrol Trooper        |            |       |
-| 5N-40     |           | Probationary      | Vacant | Probationary Trooper  |            |       |
-| 5N-41     |           | Probationary      | Vacant | Probationary Trooper  |            |       |
-| 5N-42     |           | Probationary      | Vacant | Probationary Trooper  |            |       |
-| 5N-43     |           | Probationary      | Vacant | Probationary Trooper  |            |       |
-| 5N-44     |           | Probationary      | Vacant | Probationary Trooper  |            |       |
-| 5N-45     |           | Probationary      | Vacant | Probationary Trooper  |            |       |
+| 5C-01     | L. Leighton | Commissioner      | Active | Department Head       | 07/08/2024 |  ALL  |
+| 5C-02     |             | Asst. Commissioner| Vacant | Department Head       |            |       |
+|||||
+| 5C-03     |            | Captain           | Vacant | Division Management    |            |       |
+|||||
+| 5L-04     | S. Leafy  | Lieutenant        | Active | FTO Supervisor        |            |  FTO  |
+| 5L-05     |           | Lieutenant        | Vacant | CID Supervisor        |            |       |
+| 5L-06     |           | Lieutenant        | Vacant | TEU Supervisor        |            |       |
+|||||
+| 5S-07     |           | Sergeant          | Vacant | Patrol Supervisor     |            |       |
+| 5S-08     |           | Sergeant          | Vacant | Shift Supervisor      |            |       |
+| 5S-09     |           | Sergeant          | Vacant | Shift Supervisor      |            |       |
+|||||
+| 5V-10     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+| 5V-11     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+| 5V-12     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+| 5V-13     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+| 5V-14     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+| 5V-15     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+| 5V-16     |           | Corporal          | Vacant | Road Supervisor       |            |       |
+|||||
+| 5U-17     |           | Master Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-18     |           | Master Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-19     |           | Master Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-20     |           | Master Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-21     |           | Master Trooper    | Vacant | Patrol Trooper        |            |       |
+|||||
+| 5U-22     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-23     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-24     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-25     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-26     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-27     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+| 5U-28     |           | Senior Trooper    | Vacant | Patrol Trooper        |            |       |
+|||||
+| 5U-29     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+| 5U-30     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+| 5U-31     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+| 5U-32     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+| 5U-33     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+| 5U-34     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+| 5U-35     |           | Trooper 1St class | Vacant | Patrol Trooper        |            |       |
+|||||
+| 5U-36     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-37     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-38     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-39     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-40     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-41     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-42     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+| 5U-43     |           | Trooper 2nd Class | Vacant | Patrol Trooper        |            |       |
+|||||
+| 5U-44     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-45     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-46     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-47     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-48     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-48     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-49     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-50     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-51     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+| 5U-52     |           |      Trooper      | Vacant | Patrol Trooper        |            |       |
+|||||
+| 5N-52     |           | Probationary Trooper | Vacant | N/A                |            |       |
+| 5N-53     |           | Probationary Troopey | Vacant | N/A                |            |       |
+| 5N-54     |           | Probationary Trooper | Vacant | N/A                |            |       |
+| 5N-55     |           | Probationary Trooper | Vacant | N/A                |            |       |
+| 5N-56     |           | Probationary Trooper | Vacant | N/A                |            |       |
+
 
 ## Los Santos Police
 | Call Sign | Name      | Rank              | Status | Role                  | Start Date | Notes |
