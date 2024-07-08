@@ -53,7 +53,6 @@ Rank/Unit Type:
 - 10-98 Finished last assignment
 - D1 Arrested
 - D2 Cited, summons given
-- D3 F.I. card made
 - D4 Warned - Released
 - D5 Interrogated - Released
 - D10 Assisted Officer
