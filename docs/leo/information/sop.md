@@ -24,80 +24,80 @@ import TabItem from '@theme/TabItem';
        - Respecting constitutional rights and treating all individuals with dignity.
        - Maintaining impartiality and avoiding discrimination or bias.
        - Committing to public service and community welfare.
-    
+
     2. **Operational Procedures:**
        - Conducting patrols with vigilance and attentiveness.
        - Adhering to traffic laws and regulations.
        - Engaging in proactive policing to deter crime.
        - Cooperating with other law enforcement agencies for effective coordination.
-    
+
     #### Communication with Other Troopers
     - **Effective Communication:**
       - Using clear and concise language over radio communications.
       - Following protocols for sharing information and updates.
       - Respecting chain of command in communication hierarchies.
-    
+
     #### Report Writing and Legal Concepts
     - **Report Writing:**
       - Documenting incidents accurately and comprehensively.
       - Including essential details such as time, location, involved parties, and actions taken.
       - Using standardized formats and language for clarity and consistency.
-    
+
     - **Probable Cause vs. Reasonable Suspicion:**
       - **Probable Cause:** Having sufficient facts or evidence to believe a crime has been, is being, or will be committed.
       - **Reasonable Suspicion:** A belief based on specific facts that a person is, has been, or will be involved in criminal activity.
-    
+
     #### Use of Force and Vehicle Operations
     - **Use of Force:**
       - Employing force only when necessary and proportional to the situation.
       - Following guidelines for de-escalation techniques.
       - Reporting all instances of force used.
-    
+
     - **Vehicle Operations:**
       - Operating vehicles safely and within traffic laws.
       - Using emergency equipment (lights and sirens) appropriately.
       - Adhering to speed limits and traffic signals while responding to emergencies.
-    
+
     #### Uniform and Equipment Standards
     - **Uniform Presentation:**
       - Maintaining a neat and professional appearance.
       - Displaying appropriate identification and insignia.
-    
+
     - **Duty Belt and Vest:**
       - Carrying essential equipment such as firearm, handcuffs, baton, and radio.
       - Ensuring all equipment is in working order and accessible.
-    
+
     #### Officer Safety and Medical Procedures
     - **Officer Safety:**
       - Prioritizing personal safety and the safety of others in all situations.
       - Using protective equipment as necessary.
       - Following established protocols for handling potentially dangerous situations.
-    
+
     - **Medical Attention Procedures:**
       - Providing immediate medical aid to injured parties when safe to do so.
       - Summoning emergency medical services promptly when needed.
-    
+
     #### Chain of Command and Emergency Response
     - **Chain of Command:**
       - Respecting hierarchical structure for decision-making and accountability.
       - Following orders and directives from superiors.
-    
+
     - **Emergency Response:**
       - Responding promptly to emergency calls.
       - Using appropriate lights and sirens to alert other motorists.
       - Ensuring safe and efficient navigation through traffic.
-    
+
     #### Miranda Rights and Legal Requirements
     - **Miranda Rights:**
       - Advising suspects of their rights to remain silent and have an attorney present during custodial interrogations.
       - Ensuring compliance with legal requirements to protect suspects' constitutional rights.
-    
+
     #### Usage of the Card/MDT
     - **Card/MDT Usage:**
       - Using Mobile Data Terminals (MDTs) or similar devices for accessing information and conducting checks.
       - Adhering to protocols for data privacy and security.
 
-  </TabItem>
+  </TabIt>
   <TabItem value="cid">
 
     #### General Procedures
