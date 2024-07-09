@@ -25,7 +25,6 @@ jobs:
         npm run build > build-log.txt 2>&1 || true
 
     - name: Upload build log
-      if: failure()
       uses: actions/upload-artifact@v2
       with:
         name: build-log
