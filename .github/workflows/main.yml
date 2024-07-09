@@ -15,7 +15,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '16'
+        node-version: '18'
 
     - name: Install dependencies
       run: npm install
@@ -36,7 +36,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        LOG_URL="${{ github.server_url }}/${{ github.repository }}/suites/${{ github.run_id }}/artifacts"
+        LOG_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifact"
         COMMENT="Build failed. [View log](${LOG_URL})"
         curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
           -d "{\"body\": \"$COMMENT\"}" \
