@@ -18,7 +18,6 @@ import TabItem from '@theme/TabItem';
   ]}>
   <TabItem value="sahp">
   
-#### San Andres Highway Patrol
 | Call Sign | Name         | Rank                 | Status | Role                  | Start Date | Notes            |
 |-----------|--------------|----------------------|--------|-----------------------|------------|------------------|
 | 1C-01     | L. Leighton  | Commissioner         | Active | Department Head       | 07/08/2024 | FTO              |
@@ -89,7 +88,6 @@ import TabItem from '@theme/TabItem';
 
   <TabItem value="bcso">
 
-#### Blaine County Sheriff's Office
 | Call Sign | Name         | Rank                 | Status | Role                  | Start Date | Notes            |
 |-----------|--------------|----------------------|--------|-----------------------|------------|------------------|
 | 2C-01     | R. Lombardi  | Sheriff              | Active | Department Management | 07/01/2024 | FTO              |
@@ -147,7 +145,6 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="lspd">
 
-#### Los Santos Police
 | Call Sign | Name         | Rank                 | Status | Role                  | Start Date | Notes            |
 |-----------|--------------|----------------------|--------|-----------------------|------------|------------------|
 | 4C-01     |              | Chief                | Vacant | Department Management |            |                  |
