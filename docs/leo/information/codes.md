@@ -9,11 +9,11 @@ sidebar_position: 6
 `{department}{rank/unit type}`-`{2 digit unit number}`
 
 Departments:
-- 1 = BCSO
-- 2 = LSSO
-- 3 = LSPD
-- 4 = SSPD
-- 5 = SAHP
+- 1 = SAHP
+- 2 = BCSO
+- 3 = LSSO
+- 4 = LSPD
+- 5 = SSPD
 
 Rank/Unit Type:
 - A = Air Unit
