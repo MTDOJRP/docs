@@ -22,9 +22,11 @@ jobs:
 
     - name: Build Docusaurus site
       run: |
-        npm run build > build-log.txt 2>&1 || true
+        set -o pipefail
+        npm run build 2>&1 | tee build-log.txt
 
     - name: Upload build log
+      if: failure()
       uses: actions/upload-artifact@v2
       with:
         name: build-log
