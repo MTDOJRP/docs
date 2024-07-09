@@ -46,3 +46,9 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #0056b3;
 }
+.DocSearch-Logo {
+  display: none;
+}
+a[href="https://www.algolia.com/"] {
+  display: none;
+}
