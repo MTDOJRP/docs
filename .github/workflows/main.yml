@@ -21,12 +21,14 @@ jobs:
       run: npm install
 
     - name: Build Docusaurus site
+      id: build
       run: |
-        set -o pipefail
         npm run build 2>&1 | tee build-log.txt
+        if [ ${PIPESTATUS[0]} -ne 0 ]; then
+          exit 1
+        fi
 
     - name: Upload build log
-      if: failure()
       uses: actions/upload-artifact@v2
       with:
         name: build-log
