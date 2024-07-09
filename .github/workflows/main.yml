@@ -15,13 +15,14 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '16'
 
     - name: Install dependencies
       run: npm install
 
     - name: Build Docusaurus site
-      run: npm run build
+      run: |
+        npm run build > build-log.txt 2>&1 || true
 
     - name: Upload build log
       if: failure()
@@ -32,9 +33,11 @@ jobs:
 
     - name: Post build log comment
       if: failure()
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        LOG_URL=$(echo "${{ github.event.pull_request.html_url }}/checks" | sed "s/pull\//pulls\//")
-        echo "Build failed. [View log]($LOG_URL)"
-        curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -d "{\"body\": \"Build failed. [View log]($LOG_URL)\"}" \
+        LOG_URL="${{ github.server_url }}/${{ github.repository }}/suites/${{ github.run_id }}/artifacts"
+        COMMENT="Build failed. [View log](${LOG_URL})"
+        curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
+          -d "{\"body\": \"$COMMENT\"}" \
           ${{ github.event.pull_request.comments_url }}
