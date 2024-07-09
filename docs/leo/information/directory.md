@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 # Active Law Enforcement Officers
 
 <Tabs
-  defaultValue="apple"
+  defaultValue="sahp"
   values={[
     {label: 'San Andres Highway Patrol', value: 'sahp'},
     {label: 'Blaine County Sheriff\'s Office', value: 'bcso'},
