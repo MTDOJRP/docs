@@ -1,4 +1,4 @@
-name: Build Docs
+name: Build Docusaurus
 
 on:
   pull_request:
@@ -22,9 +22,17 @@ jobs:
         run: npm install
 
       - name: Build Docusaurus
-        run: npm run build
-        continue-on-error: true
         id: build
+        run: |
+          npm run build 2>&1 | tee build.log
+
+      - name: Check for errors in log
+        id: check_log
+        run: |
+          if grep -q "compiled with errors" build.log; then
+            echo "Errors found in build log"
+            exit 1
+          fi
 
       - name: Upload build log if failed
         uses: actions/upload-artifact@v2
