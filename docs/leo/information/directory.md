@@ -1,13 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Roster
-
-# Active Law Enforcement Officers
+# Active Law Enforcement Roster
 
 <Tabs
   defaultValue="sahp"
