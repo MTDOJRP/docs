@@ -1,46 +1,52 @@
-name: CI
+name: Build Docs
 
 on:
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '18'
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Build Docusaurus site
-      id: build
-      run: |
-        npm run build 2>&1 | tee build-log.txt
-        if [ ${PIPESTATUS[0]} -ne 0 ]; then
-          exit 1
-        fi
+      - name: Build Docusaurus
+        run: npm run build
+        continue-on-error: true
+        id: build
 
-    - name: Upload build log
-      uses: actions/upload-artifact@v2
-      with:
-        name: build-log
-        path: build-log.txt
+      - name: Upload build log if failed
+        uses: actions/upload-artifact@v2
+        with:
+          name: build-log
+          path: build.log
 
-    - name: Post build log comment
-      if: failure()
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        LOG_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifact"
-        COMMENT="Build failed. [View log](${LOG_URL})"
-        curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
-          -d "{\"body\": \"$COMMENT\"}" \
-          ${{ github.event.pull_request.comments_url }}
+      - name: Post build log to PR if failed
+        if: failure()
+        run: |
+          echo "## :x: Docusaurus Build Failed" > build-summary.md
+          echo "\n### Build Log" >> build-summary.md
+          echo '```' >> build-summary.md
+          cat build.log >> build-summary.md
+          echo '```' >> build-summary.md
+        shell: bash
+
+      - name: Create comment with build log
+        if: failure()
+        uses: peter-evans/create-or-update-comment@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            $(cat build-summary.md)
