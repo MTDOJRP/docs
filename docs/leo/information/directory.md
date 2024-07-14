@@ -88,7 +88,7 @@ import TabItem from '@theme/TabItem';
 
 | Call Sign | Name         | Rank                 | Status | Role                  | Start Date | FTO | Notes            |
 |-----------|--------------|----------------------|--------|-----------------------|------------|-----|------------------|
-| 2C-01     | R. Lombardi  | Sheriff              | Active | Department Management | 07/01/2024 | YES | N/A              |
+| 2C-01     |              | Sheriff              | Vacant | Department Management |            | YES | N/A              |
 | 2C-02     |              | Undersheriff         | Vacant | Department Management |            |     |                  |
 | 2C-03     |              | Patrol Captain       | Vacant | Patrol Management     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
@@ -101,7 +101,7 @@ import TabItem from '@theme/TabItem';
 | 2S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2V-10     | B. Zeepkist  | Corporal             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
-| 2V-11     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
+| 2V-11     | R. Lombardi  | Corporal             | Active | Patrol Supervisor     | 07/01/2024 |     |                  |
 | 2V-12     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 2V-13     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 2V-14     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
