@@ -31,7 +31,7 @@ import TabItem from '@theme/TabItem';
 | 1S-09     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1V-10     | B. Zeepkist  | Corporal             | Active | Road Supervisor       | 01/01/2024 | YES | N/A              |
-| 1V-11     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
+| 1V-11     | C. Spencer   | Corporal             | Active | Road Supervisor       | 07/20/2024 |     |                  |
 | 1V-12     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-13     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-14     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
