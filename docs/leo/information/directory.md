@@ -96,7 +96,7 @@ import TabItem from '@theme/TabItem';
 | 2L-05     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
 | 2L-06     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2S-07     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
+| 2S-07     | J. Wiggins   | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 | 2S-08     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 | 2S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
