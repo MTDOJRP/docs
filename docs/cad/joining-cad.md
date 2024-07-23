@@ -19,7 +19,7 @@ It is a requirement to have an account on the CAD platform to be able to play on
 2. **Register/Log in**: If you're new, you'll need to register an account. If you already have an account, log in using your credentials.
 
 🔍 *Here is what the sign-in page should look like!*
-![CAD Sign In](/img/login-page.png)
+![image](https://github.com/user-attachments/assets/9123c811-bb34-414a-9ec1-8bfdf53a617a)
 
 ### Creating an Account with Discord
 1. Click on `Login via Discord` (even if you do not currently have an account).
