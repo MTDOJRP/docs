@@ -27,4 +27,4 @@ Before you can become a LEO you must find out what agency you'd like to join. Th
 - SSPD (Sandy Shores Police Department) (Closed; will be managed by BCSO/SAHP until further notice).
 - LSSO (Los Santos Sheriff's Office) (Closed; will be managed by BCSO/LSPD/SAHP until further notice).
 
-Submit your application [Here](https://docs.kcdojrp.com/application/bcso)
+Submit your application [Here](https://docs.kcdojrp.com/apply)
