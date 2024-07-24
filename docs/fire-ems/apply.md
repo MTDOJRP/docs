@@ -55,8 +55,5 @@ Spamming applications or submitting multiple applications will result in your ap
 
 ---
 
-### 📝 Application Process
-
-Our application process is simple and straightforward.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqSiE80EueHBMootOlGPh8_TW6KfKz7xq4V26AUWyiTQoLwQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" width="640" height="1024">Loading…</iframe>
+### 📝 Apply [Here](https://docs.kcdojrp.com/apply)!
+[docs.kcdojrp.com/apply](https://docs.kcdojrp.com/apply)
