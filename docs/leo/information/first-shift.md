@@ -22,7 +22,7 @@ If you ever need additionals to the traffic stop, SImply say, Requesting additio
 ### W/O dispatch
 (Without dispatch online)
 
-> 2N-40 I'll be out on traffic at {postal} {street/location} with a {color} {make/model/type} {plate type} {plate} occupied times {count} 
+> 2N-40 I'll be out on traffic at [postal] [street/location] with a [color] [make/model/type] [plate type] [plate] occupied times [count] 
 
 To explain this further, You are calling out on the radio you have initiated a traffic stop at a location, Next you are giving out the description of the vehicle incase it's needed to locate at a later time and for dispatch to reference when searching for the vehicle, and lastly you are giving out the occupancy of the vehicle, So how many people are in the vehicle, If unknown don't include this.
 
@@ -37,7 +37,7 @@ Some LEO's choose to put the plate and/or description in the details now.
 Mark yourself as 10-97(On scene)
 
 Make contact with the individual at the vehicle.
-> My name is {officer/deputy/rank} {last name} with the {department}
+> My name is [officer/deputy/rank] [last name] with the [department]
 
 Mosty officers will say `Do you know why I pulled you over today` next.
 But you can say many things like `Any reason for the speed today` or `I clocked you going 55 in a 25 back there`
@@ -48,7 +48,7 @@ You should ask for 3 things from the driver of the vehicle.
 2. Vehicle Registration
 3. Insaurance Information/Proof of Insaurance.
 
-The civillian should do `/me {civ name}` to provide you their name.
+The civillian should do `/me [civ name]` to provide you their name.
 
 You will then let them know you will run their information and to stay in the vehicle.
 
@@ -77,7 +77,7 @@ In the events you'll include your conclusion, Such as ticket or verbal warning a
 End the call and go back 10-8.
 
 On the radio you'll announce your callsign, status, and disposition code(aka david code).
-> {callsign} {disposition code}{race} {reason} {status}
+> [callsign] [disposition code][race] [reason] [status]
 
 Ex.
 > 2N-40 D4W Speed 10-8
@@ -98,10 +98,10 @@ Dispatch:
 Dispatch may also ask you to standby(wait) if they are dealing with another call.
 
 LEO:
-> 2N-40 I'll be out on traffic at {postal} {street/location} with a {color} {make/model/type} {plate type} {plate} occupied times {count}
+> 2N-40 I'll be out on traffic at [postal] [street/location] with a [color] [make/model/type] [plate type] [plate] occupied times [count]
 
 Dispatch:
-> Copy 2N-40 out at {postal} standby for return.
+> Copy 2N-40 out at [postal] standby for return.
 
 Dispatch acknolwedges the location, If dispatch says the wrong postal, Let them know.
 Standby for return means they are searching the plate(if one was given).
@@ -109,7 +109,7 @@ Standby for return means they are searching the plate(if one was given).
 Dispatch should be generating a CFS(Call for service) for you and assign you to it.
 
 Make contact with the individual at the vehicle.
-> My name is {officer/deputy/rank} {last name} with the {department}
+> My name is [officer/deputy/rank] [last name] with the [department]
 
 Mosty officers will say `Do you know why I pulled you over today` next.
 But you can say many things like `Any reason for the speed today` or `I clocked you going 55 in a 25 back there`
@@ -120,7 +120,7 @@ You should ask for 3 things from the driver of the vehicle.
 2. Vehicle Registration
 3. Insaurance Information/Proof of Insaurance.
 
-The civillian should do `/me {civ name}` to provide you their name.
+The civillian should do `/me [civ name]` to provide you their name.
 
 You will then let them know you will run their information and to stay in the vehicle.
 
@@ -133,7 +133,7 @@ Dispatch:
 > 2N-40 go ahead with your 31.
 
 LEO:
-> First is going to be {FIRST NAME}, Last will be {LAST NAME}, Common spelling.
+> First is going to be [FIRST NAME], Last will be [LAST NAME], Common spelling.
 
 Dispatch may ask to confirm a DOB if multiple people have that same name.
 If the name is a none standard name, Spell the name using the [Phonetic Alphabet](https://docs.kcdojrp.com/docs/leo/information/codes#phonetic-alphabet)
@@ -142,7 +142,7 @@ Dispatch:
 > 2N-40 standby.
 
 Dispatch:
-> 2N-40 your 28 returns {vehicle registration status} and you 31 returns {civ status}.
+> 2N-40 your 28 returns [vehicle registration status] and you 31 returns [civ status].
 
 10-28 meaning vehicle registration, 10-31 meaning ID.
 Ex;
@@ -165,7 +165,7 @@ Ex;
 
 Once your narritvae has been added you'll announce over the radio you are clear.
 LEO:
-> 651 {callsign} {disposition code}{race} {reason} {status}
+> 651 [callsign] [disposition code][race] [reason] [status]
 
 Ex.
 > 651 2N-40 D4W Speed 10-8
