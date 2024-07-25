@@ -6,11 +6,31 @@ sidebar_position: 3
 
 Congrats on passing the application and training phase for becoming a LEO!
 
+(If you are looking to appy, check out [Getting Started as a LEO](https://docs.kcdojrp.com/docs/leo/information/getting-started))
+
 Now, we'll learn the basics of being a LEO and how to get started on your first shift!
 
-
 For these examples your callsign is 2N(Nora)-40.
-Dispatch is 6-5-1
+Dispatch is 6-5-1(Six Five One)
+
+Before going on shift you should get your radar setup.
+Check you [this guide](https://docs.kcdojrp.com/docs/leo/tools/radar) on how to do so!
+
+Once you are ready to go, Open up the [CAD](https://cad.kcdojrp.com/citizen), Go to your [officer dashboard](https://cad.kcdojrp.com/officer) and mark yourself 10-8(In service and available)
+
+If their is an active dispatch you'll also need to say over the radio;
+LEO:
+> 651 2N-40
+
+Dispatch:
+> 2N-40 Go ahead
+
+LEO:
+> 2N-40 I'll be 10-8
+
+If no dispatch is online, Simply announce over the radio:
+> 2N-40 will be 10-8
+
 
 ## Traffic Stop
 
@@ -88,7 +108,7 @@ Ex.
 (with an active dispatcher)
 
 LEO:
-> 651(Six Five One) 2N-40 Traffic
+> 651 2N-40 Traffic
 
 You are letting dispatch know you are out on a traffic stop and ready to give them the information. However to avoid overwhelming the dispatch on the radio or if they are on a 911 call we don't provide the information till dispatch is ready.
 
@@ -125,6 +145,7 @@ The civillian should do `/me [civ name]` to provide you their name.
 You will then let them know you will run their information and to stay in the vehicle.
 
 By this time dispatch will have your return for the plate, and you can radio in the driver name.
+
 LEO:
 > 651 2N-40 10-31 when ready.
 
@@ -145,6 +166,7 @@ Dispatch:
 > 2N-40 your 28 returns [vehicle registration status] and you 31 returns [civ status].
 
 10-28 meaning vehicle registration, 10-31 meaning ID.
+
 Ex;
 > 2N-40 your 28 returns to a valid red Dodge Charger registered to John Doe and you 31 returns valid, negative 29s.
 
@@ -163,7 +185,7 @@ Fill in the details box with the initial stop timeline.
 Ex;
 > I clocked a speeding red SUV at 55mph in a 25mph zone on El Rancho Boulevard and initiated a traffic stop at 9883.
 
-Once your narritvae has been added you'll announce over the radio you are clear.
+Once your narrative has been added you'll announce over the radio you are clear.
 LEO:
 > 651 [callsign] [disposition code][race] [reason] [status]
 
