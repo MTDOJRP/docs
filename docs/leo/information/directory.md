@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 |-----------|--------------|----------------------|--------|-----------------------|------------|-----|------------------|
 | 1C-01     |              | Commissioner         | Vacant | Department Head       |            |     |                  |
 | 1C-02     |              | Asst. Commissioner   | Vacant | Department Head       |            |     |                  |
-| 1C-03     | L. Leighton  | Captain              | Active | Division Management   | 07/08/2024 | YES | N/A              |
+| 1C-03     |              | Captain              | Active | Division Management   | 07/08/2024 | YES | N/A              |
 |           |              |                      |        |                       |            |     |                  |
 | 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
 | 1L-05     |              | Lieutenant           | Vacant | CID Supervisor        |            |     |                  |
@@ -133,7 +133,7 @@ import TabItem from '@theme/TabItem';
 | 2U-38     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-39     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2N-40     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
+| 2N-40     | M. Johnson   | Probationary         | Vacant | Probationary Deputy   | 7/25/2024  |     |                  |
 | 2N-41     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-42     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-43     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
@@ -157,7 +157,7 @@ import TabItem from '@theme/TabItem';
 | 4S-08     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 | 4S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 4V-10     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
+| 4V-10     | B. Zeepkist  | Corporal             | Vacant | Patrol Supervisor     | 01/01/202  | YES |                  |
 | 4V-11     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 4V-12     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 4V-13     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
