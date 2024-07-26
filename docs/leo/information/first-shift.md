@@ -14,7 +14,7 @@ For these examples your callsign is 2N(Nora)-40.
 Dispatch is 6-5-1(Six Five One)
 
 Before going on shift you should get your radar setup.
-Check you [this guide](https://docs.kcdojrp.com/docs/leo/tools/radar) on how to do so!
+Check out [this guide](https://docs.kcdojrp.com/docs/leo/tools/radar) on how to do so!
 
 Once you are ready to go, Open up the [CAD](https://cad.kcdojrp.com/citizen), Go to your [officer dashboard](https://cad.kcdojrp.com/officer) and mark yourself 10-8(In service and available)
 
