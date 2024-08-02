@@ -157,7 +157,7 @@ import TabItem from '@theme/TabItem';
 | 4S-08     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 | 4S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 4V-10     | B. Zeepkist  | Corporal             | Active | Patrol Supervisor     | 01/01/202  | YES | N/A              |
+| 4V-10     | B. Zeepkist  | Corporal             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
 | 4V-11     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 4V-12     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 4V-13     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
