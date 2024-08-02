@@ -133,7 +133,7 @@ import TabItem from '@theme/TabItem';
 | 2U-38     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-39     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2N-40     | M. Johnson   | Probationary         | Active | Probationary Deputy   | 7/25/2024  |     |                  |
+| 2N-40     | M. Johnson   | Probationary         | Active | Probationary Deputy   | 7/25/2024  | NO  | N/A              |
 | 2N-41     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-42     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-43     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
