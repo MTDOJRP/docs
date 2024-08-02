@@ -75,7 +75,7 @@ import TabItem from '@theme/TabItem';
 | 1U-48     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-49     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1N-50     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-50     | Eli Parker   | Probationary Trooper | Active | Probationary          | 08/02/2024 | NO  | N/A              |
 | 1N-51     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-52     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-53     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
