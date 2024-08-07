@@ -78,7 +78,7 @@ import TabItem from '@theme/TabItem';
 | 1N-50     | E. Parker    | Probationary Trooper | Active | Probationary          | 08/02/2024 | NO  | N/A              |
 | 1N-51     | J. Jones     | Probationary Trooper | Active | Probationary          | 08/05/2024 | NO  | N/A              |
 | 1N-52     | J. Kirk      | Probationary Trooper | Active | Probationary          | 08/05/2024 | NO  | N/A              |
-| 1N-53     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-53     | V. Bosc      | Probationary Trooper | Active | Probationary          | 08/07/2024 | NO  | N/A              |
 | 1N-54     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-55     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
   
