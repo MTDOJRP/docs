@@ -2,13 +2,11 @@
 sidebar_position: 1
 ---
 
-# Introduction to EMS
-
-![StarOfLife](./imgs/StarOfLife.png)
+# Introduction to Fire
 
 Welcome the the San Andreas Fire Department! We're glad you could join us. As an EMT working with us we'll provide you a multitude of sources and training information which you can use to better your level of roleplay with us, as well as hopefully learning a thing or two.
 
-
+[StarOfLife](./imgs/StarOfLife.png)
 
 ## DISCLAIMER
 

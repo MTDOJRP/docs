@@ -30,12 +30,12 @@ Primary Assessment or Initial Assessment is a rapid, initial examination of a pa
 
 Pain assessment is always an ongoing process rather than a single event, as the patient’s level of pain may change drastically depending on the situation. If you think your patient is in pain, you should use the Mnemonic OPQRST (Onset, Provocation, Quality, Radiation, Severity, Time).
 
-Onset - When did the pain Start? What were you doing when it started?<br>
-Provocation - Does anything calm the pain or make it worse?<br>
-Quality - What does the pain feel like? Describe what you feel.<br>
-Radiation - Does pain go anywhere? If so, where?<br>
-Severity - Rate your pain on a scale of 1 to 10, 1 being the least severe and 10 being the most severe.<br>
-Time - How long has the pain been going on?<br>
+Onset - When did the pain Start? What were you doing when it started?<br/>
+Provocation - Does anything calm the pain or make it worse?<br/>
+Quality - What does the pain feel like? Describe what you feel.<br/>
+Radiation - Does pain go anywhere? If so, where?<br/>
+Severity - Rate your pain on a scale of 1 to 10, 1 being the least severe and 10 being the most severe.<br/>
+Time - How long has the pain been going on?<br/>
 
 If the patient’s vital signs change drastically and the patient seems to be in pain, act accordingly.
 
@@ -107,7 +107,7 @@ Skin temperature is typically warm. A hot temperature can indicate fever, exposu
 “The Glasgow Coma Scale was designed and should be used to assess the depth and duration coma and impaired consciousness. This scale helps to gauge the impact of a wide variety of conditions such as acute brain damage due to traumatic and/or vascular injuries or infections, metabolic disorders.” - CDC<br/>
 To determine someone’s GCS score, follow this list of points.
 
-[Glasgow Coma Scale Diagram](./imgs/GlasgowComaScale.jpg)
+![Glasgow Coma Scale Diagram](./imgs/GlasgowComaScale.jpg)
 
 ## Cincinnati Stroke Scale
 
@@ -128,14 +128,41 @@ Have your patient say “you can’t teach an old dog new tricks”
 - Normal: Patient uses correct words without slurring
 - Abnormal: Patient slurs words, uses the wrong words or is unable to speak
 
-[Cincinnati Stroke Scale Diagram](./imgs/CincinnatiStrokeScale.jpg)
+![Cincinnati Stroke Scale Diagram](./imgs/CincinnatiStrokeScale.jpg)
+
+## Pupils during patient assessment
+
+Pupil response is an essential part of a provider’s patient assessment. The patient’s pupil diameter and the way they respond to light can give you an idea of what the status of the brain is. To assess a patient’s pupils, we use the mnemonic PEARRL.
 
 
+- P - Pupils
+- E - Equal
+- A - And
+- R - Round
+- R - Regular in Size
+- L - Light / Reacts to Light
+
+![Differences in pupil appearances](./imgs/pupils.jpg)
 
 
+After patient assessment is complete, you should report your findings. If the patient has normal pupils, you should report “The patient’s pupils are PEARRL”. <br/>
+If you encounter something abnormal, such as the image above, you should report “The patient’s left pupil is regular in size and reacts to light, the patient’s right pupil is fixed and dilated.”
+
+## Vital Signs (Adult)
+
+These are the vital signs for the average adult. Anything higher or lower than these vital signs could be life threatening and should be treated accordingly. <br/>
+**Note:** An Athletic adult could have a lower resting heart rate than the one listed below, for example.
+
+|                           |                                     |
+|---------------------------|-------------------------------------|
+| Body Temperature          | 98.6ºF (36.5ºC)                     |
+| Heart Rate                | 60-100 BPM (Beats per minute)       |
+| Respiratory Rate          | 12-22 BPM (Breaths per minute)      |
+| Blood Pressure            | 120/80 (Textbook perfect, can vary) |
+| Blood Glucose Level (BGL) | 80-100 BGL                          |
 
 
-### Mnemonics
+## Mnemonics
 
 **SAMPLE:**
 - S - Signs/Symptoms
