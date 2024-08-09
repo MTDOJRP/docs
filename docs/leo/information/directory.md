@@ -64,8 +64,8 @@ import TabItem from '@theme/TabItem';
 | 1U-38     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-39     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-40     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-41     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-40     | V. Bosco     | Trooper              | Active | Patrol Trooper        | 08/07/2024 | NO  | N/A              |
+| 1U-41     | J. Kirk      | Trooper              | Active | Patrol Trooper        | 08/05/2024 | NO  | N/A              |
 | 1U-42     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-43     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-44     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
@@ -77,8 +77,8 @@ import TabItem from '@theme/TabItem';
 |           |              |                      |        |                       |            |     |                  |
 | 1N-50     | E. Parker    | Probationary Trooper | Active | Probationary          | 08/02/2024 | NO  | N/A              |
 | 1N-51     | J. Jones     | Probationary Trooper | Active | Probationary          | 08/05/2024 | NO  | N/A              |
-| 1N-52     | J. Kirk      | Probationary Trooper | Active | Probationary          | 08/05/2024 | NO  | N/A              |
-| 1N-53     | V. Bosc      | Probationary Trooper | Active | Probationary          | 08/07/2024 | NO  | N/A              |
+| 1N-52     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-53     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-54     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-55     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
   
