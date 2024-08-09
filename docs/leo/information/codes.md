@@ -50,6 +50,7 @@ Rank/Unit Type:
 - 10-50 Auto Accident
 - 10-61 DUI
 - 10-62 Reckless Driving
+- 10-80 Pursuit
 - 10-97 Arriving at scene
 - 10-98 Finished last assignment
 - D1 Arrested
@@ -144,6 +145,7 @@ Rank/Unit Type:
 - 10-58 Auto Accident, Fatal
 - 10-61 DUI
 - 10-62 Reckless Driving
+- 10-80 Pursuit
 - 10-97 Arriving at scene
 - 10-98 Finished last assignment
 

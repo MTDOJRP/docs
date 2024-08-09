@@ -196,3 +196,57 @@ Ex.
 
 Dispatch:
 > Copy 2N-40 D4W Speed 10-8
+
+
+
+## Vehicle Pursuit Procedures
+
+When initiating a vehicle pursuit, it's crucial to assess the situation carefully. A pursuit should only be started if the severity of the offense justifies the potential risks to public safety. For example, if a vehicle commits a very minor traffic violation and then flees recklessly, **do not** initiate a pursuit. Public safety and the safety of officers are the top priorities.
+
+### Initiating a Pursuit
+
+When a pursuit is necessary, start by calling it out on the radio with the following information:
+
+> 2N-40, I'll be in an active pursuit with a [Vehicle description] starting [postal] heading [direction] on [road].
+
+Example:
+> 2N-40, I'll be in an active pursuit with a red BMW SUV starting at 9883 heading southbound on El Rancho Boulevard.
+
+### Providing Updates
+
+During the pursuit, regularly update dispatch and other units with key information such as:
+
+- **Road conditions:** Example: "Roads are wet, light traffic."
+- **Vehicle direction:** Example: "Now heading eastbound on Joshua Road."
+- **Suspect behavior:** Example: "Suspect is driving erratically, weaving through traffic."
+- **Any changes:** Example: "Suspect has bailed on foot at 8500 Marina Drive, now in foot pursuit."
+
+### Pursuit Management
+
+Remember the following guidelines while managing the pursuit:
+
+- **5-Minute PIT Timer:** Pitting the suspect vehicle is allowed, but only once every 5 minutes and when approved by a supervisor. Ensure you communicate clearly over the radio when a PIT has been executed and wait for the timer to reset before attempting another.
+- **30-Minute Pursuit Limit:** From the civilian perspective, pursuits are limited to a maximum of 30 minutes. If the pursuit reaches this limit, it should be terminated to maintain server integrity and realism.
+
+### Spike Strip Deployment
+
+Spike strips are a valuable tool for safely ending a pursuit. Follow these steps to deploy and manage spike strips:
+
+1. **Access the LEO Actions Menu:** Open the menu and select "Deploy Spikes."
+2. **Deploy the Spikes:** Position them effectively to stop the fleeing vehicle without endangering civilians or officers.
+3. **Retrieving the Spikes:** After the pursuit or if the spikes were not successful, select "Deploy Spikes" again to pick up the spikes.
+
+### Terminating a Pursuit
+
+A pursuit should be terminated in the following scenarios:
+
+- **Public Safety Risk:** If the pursuit endangers the public or the officers involved.
+- **Minor Offenses:** If the initial reason for the stop was a minor offense and the suspect flees recklessly.
+- **Pursuit Time Limit:** If the pursuit exceeds the 30-minute limit set for civilians.
+- **Command Orders:** If a supervisor or command officer orders the pursuit to be terminated.
+
+Once a pursuit is terminated, notify dispatch, create a BOLO, and ensure all units are informed. Example:
+
+> 2N-40, terminating pursuit, suspect last seen heading westbound on Joshua Road. Returning to 10-8.
+
+This concludes the pursuit process. Ensure you follow all safety protocols and use your judgment to balance enforcement with public safety.
