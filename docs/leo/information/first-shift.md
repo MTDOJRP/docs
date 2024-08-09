@@ -250,3 +250,45 @@ Once a pursuit is terminated, notify dispatch, create a BOLO, and ensure all uni
 > 2N-40, terminating pursuit, suspect last seen heading westbound on Joshua Road. Returning to 10-8.
 
 This concludes the pursuit process. Ensure you follow all safety protocols and use your judgment to balance enforcement with public safety.
+
+## Felony Traffic Stop (Code 5)
+
+A Felony Traffic Stop, also known as a Code 5, should be used when dealing with suspects of a felony crime. This procedure is critical for ensuring the safety of the public, officers, and the suspect(s). 
+
+### Requesting Additional Units
+
+Before initiating a Felony Traffic Stop, request additional units to assist, if available. Proper coordination is key to safely handling the situation.
+
+> [callsign], I'll be out on a felony stop at [postal] on a [vehicle description], requesting additional units.
+
+### Positioning Your Vehicle
+
+1. **Block the Roadway:** Position your vehicle at a slight angle behind the suspect vehicle, approximately 1/2 to 1 car length away. If you have additional units, ensure the roadway behind the suspect vehicle is completely blocked. This positioning helps ensure public safety.
+   
+2. **Staging Units:** If you have 4 or more units, stage one further down the road in case the suspect vehicle attempts to flee. This unit can serve as a secondary containment or pursuit unit.
+
+### Conducting the Felony Stop
+
+1. **Take Cover:** Once all units are in position, exit your vehicle while ensuring the door remains open for cover. To do this, press and hold your vehicle exit button.
+   
+2. **Draw Your Firearm:** Aim your firearm toward the suspect vehicle, ensuring you are protected behind your vehicle door.
+
+3. **Give Orders:** Make contact with the suspect(s) by issuing clear and loud commands. Instruct the driver and passengers to exit the vehicle one at a time, keeping their hands visible. They should be directed to use the command `/hu` to show their hands.
+
+4. **Maintain Vigilance:** At least one officer should always watch the suspect vehicle for additional occupants who may attempt to exit or flee.
+
+### Securing the Scene
+
+1. **Detaining Suspects:** As each suspect exits, direct them to walk backward towards your position where they will be detained and handcuffed. Ensure all suspects are secured before approaching the vehicle.
+   
+2. **Clearing the Vehicle:** Once all suspects are in custody, approach the vehicle with your partner(s) to clear it of any remaining occupants or potential threats.
+
+3. **Search and Process:** Conduct a thorough search of the vehicle, documenting and processing any evidence found. Be meticulous in recording details for the subsequent report.
+
+### Final Steps
+
+- **Report Writing:** Write a detailed report of the felony traffic stop, including all actions taken, evidence collected, and the outcome of the situation. Ensure the report is accurate and thorough.
+  
+- **Proceed as Necessary:** Depending on the findings and circumstances, proceed with the necessary legal actions, such as arresting the suspects, filing charges, and processing evidence.
+
+This procedure ensures that felony traffic stops are conducted safely and effectively, minimizing risk to all parties involved.
