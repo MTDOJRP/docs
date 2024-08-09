@@ -38,6 +38,7 @@ Rank/Unit Type:
 - 10-8 In Service
 - 10-9 Repeat, unable to read your message
 - 10-10 Out of Service, Off Duty
+- 10-11 Traffic Stop
 - 10-22 Take no further action / Disregard (May be used in roleplay to ignore something, Like a misclick)
 - 10-23 Stand by
 - 10-28 Check vehicle registration
@@ -107,7 +108,7 @@ Rank/Unit Type:
 - 10-8 In Service
 - 10-9 Repeat, unable to read your message
 - 10-10 Out of Service, Off Duty
-- 10-11 Dispatching too Rapidly
+- 10-11 Traffic Stop
 - 10-12 Officials or visitors present
 - 10-13 Advised road and weather conditions
 - 10-14 Convoy or escort
