@@ -120,7 +120,7 @@ import TabItem from '@theme/TabItem';
 | 2U-26     |              | 1st Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2U-27     | J. Smith     | 2nd Class Deputy     | Active | Patrol Deputy         | 08/05/2024 | NO  | N/A              |
-| 2U-28     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
+| 2U-28     | C. Daniels   | 2nd Class Deputy     | Active | Patrol Deputy         | 08/09/2024 | NO  | N/A              |
 | 2U-29     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-30     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-31     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
@@ -134,7 +134,7 @@ import TabItem from '@theme/TabItem';
 | 2U-39     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2N-40     | M. Johnson   | Probationary         | Active | Probationary Deputy   | 07/25/2024 | NO  | N/A              |
-| 2N-41     | C. Daniels   | Probationary         | Active | Probationary Deputy   | 08/09/2024 | NO  | Pending for FTO  |
+| 2N-41     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-42     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-43     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-44     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
