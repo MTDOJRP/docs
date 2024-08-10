@@ -151,6 +151,31 @@ Note: If there is blood in the airway, check for hemothorax.
 
 ![Suction tool](./imgs/StarOfLife.png)
 
+## Smoke Inhalation
+
+Airway burns and smoke inhalation are a reasonably common occurrence when working with structure fires, even among firefighters. The first priority when managing smoke inhalation victims is to maintain a high flow of oxygen, aiming for 100% SpO2. <br/>
+When a patient has inhaled a significant amount of smoke, they could suffer from Carbon Monoxide (CO) and or Hydrogen Cyanide (HCN) poisoning. <br/>
+To treat CO poisoning, you must maintain a high flow of oxygen and attempt to transport the patient to the nearest hospital with priority. <br/>
+
 
 
 ## Mnemonics
+
+**Airway Administration Devices**
+- NPA - Nasopharyngeal Airway
+- OPA - Oropharyngeal Airway
+- BVM - Bag Valve Mask
+- NRB - Non Rebreather (Mask)
+- NC - Nasal Cannula
+- CPAP - Continuous Positive Airway Pressure
+- BiPAP - Bilevel Positive Airway Pressure
+- PEEP - Positive-end Expiratory Pressure
+
+**Airway Related Illnesses**
+- COPD - Chronic obstructive pulmonary disease (group of diseases that cause airflow blockage and breathing-related problems)
+
+**Common Terms**
+- Auscultate - To listen (Generally to internal sounds in the heart or lungs)
+- Supine - Lying face upwards
+- Prone - Lying face downwards
+
