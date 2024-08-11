@@ -66,7 +66,7 @@ import TabItem from '@theme/TabItem';
 |           |              |                      |        |                       |            |     |                  |
 | 1U-40     | V. Bosco     | Trooper              | Active | Patrol Trooper        | 08/07/2024 | NO  | N/A              |
 | 1U-41     | J. Kirk      | Trooper              | Active | Patrol Trooper        | 08/05/2024 | NO  | N/A              |
-| 1U-42     | E. Parker    | Trooper              | Active | Patrol Trooper        | 08/02/2024 | NO  | N/A              |
+| 1U-42     |              | Trooper              | Active | Patrol Trooper        |            |     |                  |
 | 1U-43     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-44     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-45     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
@@ -75,7 +75,7 @@ import TabItem from '@theme/TabItem';
 | 1U-48     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-49     |              | Trooper              | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1N-50     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-50     | E. Parker    | Probationary Trooper | Vacant | Probationary          | 08/02/2024 | NO  | N/A              |
 | 1N-51     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-52     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-53     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
