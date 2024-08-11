@@ -50,12 +50,12 @@ import TabItem from '@theme/TabItem';
 | 1U-25     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-26     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-28     |              | Trooper 1St class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-29     |              | Trooper 1St class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-30     |              | Trooper 1St class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-31     |              | Trooper 1St class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-32     |              | Trooper 1St class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-33     |              | Trooper 1St class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-28     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-29     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-30     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-31     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-32     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-33     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1U-34     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-35     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
