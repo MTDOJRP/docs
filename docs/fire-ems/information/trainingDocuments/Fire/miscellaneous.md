@@ -11,3 +11,5 @@ Rehabilitation, or Rehab for short, is a post similar to an incident command. Th
 **Every firefighter is required to participate in rehab.**
 
 In Rehab a firefighter’s vitals will be checked and ensure that they weren’t injured or suffered any medical issues during or after the operation.
+
+![Rehab](./imgs/rehab.JPG)

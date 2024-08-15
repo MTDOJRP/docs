@@ -18,10 +18,10 @@ Used primarily for legs
 - Sam Splint<br/>
 Used for arms, small extremities or legs
 
-![Vacuum Splint](./imgs/StarOfLife.png)
-![Traction Splint](./imgs/StarOfLife.png)
-![Board Splint](./imgs/StarOfLife.png)
-![Sam Splint](./imgs/StarOfLife.png)
+![Vacuum Splint](./imgs/vacuumSplint.JPG)
+![Traction Splint](./imgs/tractionSplint.JPG)
+![Board Splint](./imgs/boardSplint.JPG)
+![Sam Splint](./imgs/samSplint.JPG)
 
 ## Spinal Cord Immobilization
 
@@ -36,7 +36,7 @@ User for spinal immobilization, requires the patient to be rolled onto stretcher
 - C-Collar<br/>
 Used for every situation to immobilize the neck and head.
 
-![Backboard](./imgs/StarOfLife.png)
-![Scoop Stretcher](./imgs/StarOfLife.png)
-![Megamover](./imgs/StarOfLife.png)
-![C-Collar](./imgs/StarOfLife.png)
+![Backboard](./imgs/backboard.JPG)
+![Scoop Stretcher](./imgs/scoopStretcher.JPG)
+![Megamover](./imgs/megamover.JPG)
+![C-Collar](./imgs/cCollar.JPG)

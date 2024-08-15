@@ -25,7 +25,7 @@ There are multiple locations a patient can be bleeding from, some of these locat
 **Vein Bleeds** - Also considered a Major Bleed. Has less priority over Artery bleeds as generally less blood seeps out. <br/>
 **Capillary Bleeds** - One of the more common types of bleed, can generally clot on it’s own.
 
-![TypesOfBleeds](./imgs/StarOfLife.png)
+![TypesOfBleeds](./imgs/externalBleeding.JPG)
 
 ## Internal Bleeding
 
@@ -44,7 +44,7 @@ Internal bleeding tends to be harder to identify in comparison with External ble
 If you have successfully identified a patient with internal bleeding, request an ALS intercept if there are signs of severe blood loss, and transport to a hospital as quickly as possible. Give oxygen as needed. <br/>
 **Do NOT give blood thinning medications such as aspirin or nitroglycerin if the patient is bleeding.**
 
-![InternalBleeding](./imgs/StarOfLife.png)
+![InternalBleeding](./imgs/internalBleeding.JPG)
 
 ## Burn Management
 
@@ -61,7 +61,7 @@ When treating these burn injuries you must take into account the severity of the
 In the event of a minor burn, use a wet sterile burn sheet. <br/>
 In the event of a major burn, use a dry sterile burn sheet. <br/>
 
-![BurnSheets](./imgs/StarOfLife.png)
+![BurnSheets](./imgs/burnsheet.JPG)
 
 ## Taser Prongs and Gunshot Wounds
 

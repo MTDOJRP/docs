@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Welcome the the San Andreas Fire Department! We're glad you could join us. As an EMT working with us we'll provide you a multitude of sources and training information which you can use to better your level of roleplay with us, as well as hopefully learning a thing or two.
 
-![IdkAFireLogoOrSomething](../EMS/imgs/StarOfLife.png)
+![IdkAFireLogoOrSomething](./imgs/fire.png)
 
 ## DISCLAIMER
 

@@ -40,7 +40,7 @@ This breathing apparatus administers Oxygen through the Nasal Airway.
 
 To start the administration of Oxygen, place the nasal cannulas up your patients nostrils and attach the Nasal Cannula tube to an Oxygen Tank. Turn on the Oxygen Tank and monitor your patients breathing. 
 
-![Nasal Cannula](./imgs/StarOfLife.png)
+![Nasal Cannula](./imgs/nasalCannula.jpg)
 
 Flow Rates:
 Can range from 1L/min to 4L/min
@@ -56,7 +56,7 @@ This breathing apparatus provides Oxygen through the Oral and Nasal Airway.
 
 To start the administration of Oxygen through NRB you need to place the NRB over your patients nose and mouth and attach the NRB to an Oxygen Tank. Turn on the Oxygen Tank and monitor the patient's breathing.  
 
-![Non Rebreather Mask](./imgs/StarOfLife.png)
+![Non Rebreather Mask](./imgs/nonRebreather.jpg)
 
 Flow Rates:
 Can range from 0L/min to 15L/min
@@ -76,7 +76,7 @@ To start the administration of Oxygen through a Bag Valve Mask you need to start
 
 Note: You do not necessarily need to connect a BVM to an oxygen source to ventilate a patient. If an oxygen tank is unavailable you can still use the BVM to ventilate using the outside air.
 
-![Bag Valve Mask](./imgs/StarOfLife.png)
+![Bag Valve Mask](./imgs/bagValveMask.jpg)
 
 Flow Rate:
 15L/min
@@ -98,7 +98,7 @@ Method:
 - Place the mask over your patient’s mouth or place the mouthpiece into your patient’s mouth.  
 - Turn on the compressor.
 
-![Nebulizer](./imgs/StarOfLife.png)
+![Nebulizer](./imgs/nebulizer.jpg)
 
 ## Oropharyngeal Airways and Nasopharyngeal Airways (OPAs and NPAs)
 
@@ -108,7 +108,7 @@ With NPAs and OPAs the size of the tubes matters, as using a size to big can dam
 
 In the next two slides we will go over how to size and apply these Airway Management tools, along with their indications and contraindications.
 
-![NPAs and OPAs](./imgs/StarOfLife.png)
+![NPAs and OPAs](./imgs/npasAndOpas.JPG)
 
 ## Oropharyngeal Airways (OPAs)
 
@@ -119,8 +119,8 @@ Once you have the adequately sized OPA tube you can now insert it into the patie
 - Insert it by pointing the end towards the top of the mouth, and then twist it 180º to prevent further obstructing the airway with the tongue.
 - Rest the flange on the patients lips and connect a Bag Valve Mask to the OPA via the valve. (refer to Bag Valve Mask (BVM))
 
-![OPAs](./imgs/StarOfLife.png)
-![How to insert an OPA](./imgs/StarOfLife.png)
+![OPAs](./imgs/opas.jpg)
+![How to insert an OPA](./imgs/opasDiagram.jpg)
 
 ## Nasopharyngeal Airways (NPAs)
 
@@ -134,8 +134,8 @@ Once you have the adequately sized NPA tube you can now insert it into the patie
 - Rest the flange on the patient’s nose and connect a Bag Valve Mask to the NPA via the valve. (refer to Bag Valve Mask (BVM))
 
 
-![NPAs](./imgs/StarOfLife.png)
-![How to insert an NPA](./imgs/StarOfLife.png)
+![NPAs](./imgs/npas.jpg)
+![How to insert an NPA](./imgs/npasDiagram.jpg)
 
 
 ## Airway Suctioning
@@ -149,7 +149,7 @@ To perform airway suction:
 
 Note: If there is blood in the airway, check for hemothorax.
 
-![Suction tool](./imgs/StarOfLife.png)
+![Suction tool](./imgs/suctionTool.jpg)
 
 ## Smoke Inhalation
 

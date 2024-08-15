@@ -197,11 +197,8 @@ These are the vital signs for the average adult. Anything higher or lower than t
 - S - Swelling
 
 **XABC**
+
 - X - External Bleeding
 - A - Airway
 - B - Breathing
 - C - Circulation
-
-
-
- 

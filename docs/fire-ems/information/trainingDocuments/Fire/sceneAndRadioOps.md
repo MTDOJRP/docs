@@ -26,7 +26,8 @@ Sides are the sides of the buildings. Alpha is the front of the building and oth
 
 Quadrants work similarly to sides but they go inwards, dividing the building into multiple parts.
 
-![Building sides](../EMS/imgs/StarOfLife.png)
+![Quadrants](./imgs/quadrants.JPG)
+![Building sides](./imgs/buildingSides.JPG)
 
 ## Scene Size Ups
 

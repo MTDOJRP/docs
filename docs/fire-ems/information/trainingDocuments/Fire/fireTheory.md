@@ -13,3 +13,5 @@ How we deal with them at SAFD:
 - Class C - Water if power supply is cut off, otherwise Carbon Dioxide fire extinguishers.
 - Class D - Dry powder Fire Extinguishers (L2/M28)
 - Class K or F - Wet Chemical Extinguisher
+
+![Fire Types](./imgs/fireTypes.JPG)

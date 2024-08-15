@@ -15,6 +15,8 @@ Below are the different types of shock:
 - Anaphylactic Shock: Severe allergic reaction
 - Neurogenic Shock: Damage to the nervous system
 
+![Types of Shock](./imgs/shock.JPG)
+
 ### How to manage a shock:
 - High flow of oxygen
 - Place in a supine position

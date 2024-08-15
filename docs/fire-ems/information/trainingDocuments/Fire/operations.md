@@ -28,6 +28,8 @@ Things to keep in mind:
 Primary attack is the initial attack on the fire, done by the Engines. It consists of rolling out a hose line and two people, one nozzle man and one supporting (standing behind and holding the hose up). <br/>
 Primary Attack often tends to be offensive, which means you may go interior if it is safe to do so, but when scene command tells you to defensive you must vacate and attack from the exterior. If you see signs of structural collapse while you are inside tell scene command and vacate immediately.
 
+![Primary Attack](./imgs/primaryAttack.JPG)
+
 ## Exterior Attack
 
 Exterior Attack is most commonly done by Ladders or Quints. Exterior attacks involve, as the name implies, fighting the fire from the outside of the structure. Exterior attack, also often called defensive operations involve actively fighting the fire whilst maintaining a safe distance from the fire.
@@ -37,6 +39,8 @@ When performing Exterior Attack you must not go closer than 20 feet from the str
 ## Ventilation
 
 Ventilation is done exclusively by ladder crews. Ventilation is only necessary when fighting structure fires and not brush fires. To successfully ventilate a structure you use the aerial in the ladder to access the roof of the building. You then carefully drill and poke holes through the building roof to allow the fire to head upwards and not outwards. This allows for a more concentrated and controllable fire.
+
+![Ventillation](./imgs/ventillation.JPG)
 
 ## Overhaul
 
