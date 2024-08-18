@@ -38,38 +38,32 @@ import TabItem from '@theme/TabItem';
 | 1V-15     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-16     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-17     |              | Master Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-18     |              | Master Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-19     |              | Master Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-20     |              | Master Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-21     |              | Master Trooper       | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-17     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-18     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-19     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-20     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-21     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-22     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-23     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-24     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-25     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-26     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-22     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-23     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-24     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-25     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-26     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-27     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-28     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-29     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-30     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-31     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-32     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-33     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-28     | V. Bosco     | Trooper 2nd Class    | Active | Patrol Trooper        | 08/07/2024 | NO  | N/A              |
+| 1U-29     | J. Kirk      | Trooper 2nd Class    | Active | Patrol Trooper        | 08/05/2024 | NO  | N/A              |
+| 1U-30     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-31     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-32     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-33     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-34     | V. Bosco     | Trooper 2nd Class    | Active | Patrol Trooper        | 08/07/2024 | NO  | N/A              |
-| 1U-35     | J. Kirk      | Trooper 2nd Class    | Active | Patrol Trooper        | 08/05/2024 | NO  | N/A              |
-| 1U-36     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-37     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-38     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
-| 1U-39     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
-|           |              |                      |        |                       |            |     |                  |
-| 1N-40     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
-| 1N-41     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
-| 1N-42     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
-| 1N-43     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
-| 1N-44     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
-| 1N-45     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-34     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-35     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-36     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-37     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-38     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
+| 1N-39     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
   
   </TabItem>
 
