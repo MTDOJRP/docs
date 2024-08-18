@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 | 1C-02     |              | Asst. Commissioner   | Vacant | Department Head       |            |     |                  |
 | 1C-03     |              | Captain              | Vacant | Division Management   |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
+| 1L-04     |              | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
 | 1L-05     |              | Lieutenant           | Vacant | CID Supervisor        |            |     |                  |
 | 1L-06     |              | Lieutenant           | Vacant | TEU Supervisor        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
