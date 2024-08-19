@@ -19,7 +19,7 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 
 ### 🖥️ KCDOJRP CAD
 - 🖥️ [Joining the CAD](/docs/cad/joining-cad)
-- 🧑 [Register a Vitizen](/docs/cad/citizens)
+- 🧑 [Register a Citizen](/docs/cad/citizens)
 - 🚗 [Register a Vehicle](/docs/cad/vehicles)
 
 ### 📍 Postal Codes
