@@ -1,6 +1,6 @@
 {
-    "label": "Fire and EMS",
-    "position": 4,
+    "label": "Fire and EMS Information",
+    "position": 1,
     "link": {
       "type": "generated-index",
       "description": "Here is where you'll find everything you need to know about SAFD!"
