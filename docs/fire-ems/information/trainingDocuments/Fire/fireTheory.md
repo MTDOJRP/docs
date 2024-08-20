@@ -14,4 +14,4 @@ How we deal with them at SAFD:
 - Class D - Dry powder Fire Extinguishers (L2/M28)
 - Class K or F - Wet Chemical Extinguisher
 
-![Fire Types](./imgs/fireTypes.JPG)
+![Fire Types](./imgs/fireTypes.JPG) 
