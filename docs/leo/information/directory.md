@@ -23,14 +23,14 @@ import TabItem from '@theme/TabItem';
 | 1C-03     |              | Captain              | Vacant | Division Management   |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
-| 1L-05     |              | Lieutenant           | Vacant | CID Supervisor        |            |     |                  |
+| 1L-05     | J. Kirk      | Lieutenant           | Active | CID Supervisor        | 08/05/2024 | NO  | N/A              |
 | 1L-06     |              | Lieutenant           | Vacant | TEU Supervisor        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1S-07     |              | Sergeant             | Vacant | Patrol Supervisor     |            |     |                  |
+| 1S-07     | B. Zeepkist  | Sergeant             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
 | 1S-08     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
 | 1S-09     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1V-10     | B. Zeepkist  | Corporal             | Active | Road Supervisor       | 01/01/2024 | YES | N/A              |
+| 1V-10     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-11     | C. Spencer   | Corporal             | Active | Road Supervisor       | 07/20/2024 | NO  | N/A              |
 | 1V-12     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-13     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
@@ -52,7 +52,7 @@ import TabItem from '@theme/TabItem';
 | 1U-27     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1U-28     | V. Bosco     | Trooper 2nd Class    | Active | Patrol Trooper        | 08/07/2024 | NO  | N/A              |
-| 1U-29     | J. Kirk      | Trooper 2nd Class    | Active | Patrol Trooper        | 08/05/2024 | NO  | N/A              |
+| 1U-29     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-30     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-31     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-32     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
