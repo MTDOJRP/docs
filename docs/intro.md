@@ -46,8 +46,8 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🚨 [Field Training Guide](/docs/leo/information/fto)
   
 ### 🚒 Fire / Ems
-- 🚒 [What is a Fire/Ems?](/docs/fire-ems/information#responsibilities)
-- 📝 [How do I apply?](/docs/fire-ems/apply#apply-for-safd)
+- 🚒 [What is a Fire/Ems?](/docs/fire-ems/information)
+- 📝 [How do I apply?](/docs/fire-ems/apply)
 
 ### 🚗 Car Display
 - 📊 [Engine and Fuel Display](#)

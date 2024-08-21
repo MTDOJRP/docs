@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Thanks for your interest in joining the SAFD team! We are always looking for new members to join our team.
 
-Please ensure you read all the information under the [Responsibilities](/docs/fire-ems/information#responsibilities) section!
+Please ensure you read all the information under the [Responsibilities](/docs/fire-ems/information) section!
 
 ---
 
