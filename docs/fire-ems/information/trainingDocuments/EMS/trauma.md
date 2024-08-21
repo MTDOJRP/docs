@@ -61,7 +61,7 @@ When treating these burn injuries you must take into account the severity of the
 In the event of a minor burn, use a wet sterile burn sheet. <br/>
 In the event of a major burn, use a dry sterile burn sheet. <br/>
 
-![BurnSheets](./imgs/burnsheet.JPG)
+![BurnSheets](./imgs/burnSheet.JPG)
 
 ## Taser Prongs and Gunshot Wounds
 
