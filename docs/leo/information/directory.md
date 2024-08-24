@@ -44,7 +44,7 @@ import TabItem from '@theme/TabItem';
 | 1U-20     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-21     |              | Senior Trooper       | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1U-22     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
+| 1U-22     | G. Baxter    | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-23     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-24     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-25     |              | Trooper 1st class    | Vacant | Patrol Trooper        |            |     |                  |
@@ -58,7 +58,7 @@ import TabItem from '@theme/TabItem';
 | 1U-32     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 | 1U-33     |              | Trooper 2nd Class    | Vacant | Patrol Trooper        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1N-34     | G. Baxter    | Probationary Trooper | Active | Probationary          | 08/23/2024 | NO  | N/A              |
+| 1N-34     |              | Probationary Trooper | Active | Probationary          | 08/23/2024 | NO  | N/A              |
 | 1N-35     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-36     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
 | 1N-37     |              | Probationary Trooper | Vacant | Probationary          |            |     |                  |
