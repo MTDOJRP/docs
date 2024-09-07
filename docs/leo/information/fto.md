@@ -52,6 +52,7 @@ Guide the recruit through the in-game LEO menu, covering the following functions
   - Placing a player into a vehicle.
   - Deploying and operating spike strips.
   - Checking BAC of a player.
+  - Tackling a player(Shift+W+E)
 - **Speed Zones:**
   - Creating and removing speed zones.
 - **Wardrobe:**
