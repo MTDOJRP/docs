@@ -149,7 +149,7 @@ Rank/Unit Type:
 - 10-97 Arriving at scene
 - 10-98 Finished last assignment
 
-## Full David (D) Codes
+## Full David (Disposition) Codes
 
 - D1 Arrested
 - D2 Cited, summons given
