@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 | 1C-03     |              | Captain              | Vacant | Division Management   |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
-| 1L-05     | J. Kirk      | Lieutenant           | Active | CID Supervisor        | 08/05/2024 | NO  | N/A              |
+| 1L-05     | J. Kirk      | Lieutenant           | Active | CID Supervisor        | 08/05/2024 | YES | N/A              |
 | 1L-06     |              | Lieutenant           | Vacant | TEU Supervisor        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1S-07     | B. Zeepkist  | Sergeant             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
