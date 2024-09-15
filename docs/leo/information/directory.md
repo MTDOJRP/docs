@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 | 1C-03     |              | Captain              | Vacant | Division Management   |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
-| 1L-05     | J. Kirk      | Lieutenant           | Active | CID Supervisor        | 08/05/2024 | NO  | N/A              |
+| 1L-05     | J. Kirk      | Lieutenant           | Active | CID Supervisor        | 08/05/2024 | YES | N/A              |
 | 1L-06     |              | Lieutenant           | Vacant | TEU Supervisor        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1S-07     | B. Zeepkist  | Sergeant             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
@@ -76,7 +76,7 @@ import TabItem from '@theme/TabItem';
 | 2C-03     |              | Patrol Captain       | Vacant | Patrol Management     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2L-04     | S. Leafy     | Patrol Lieutenant    | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
-| 2L-05     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
+| 2L-05     | J. Kirk      | Patrol Lieutenant    | Active | Patrol Supervisor     | 09/13/2024 | YES | N/A              |
 | 2L-06     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2S-07     | J. Wiggins   | Patrol Sergeant      | Active | Patrol Supervisor     | 12/07/2024 | NO  | N/A              |
@@ -133,7 +133,7 @@ import TabItem from '@theme/TabItem';
 | 4C-03     |              | Patrol Captain       | Vacant | Patrol Management     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 4L-04     | S. Leafy     | Patrol Lieutenant    | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
-| 4L-05     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
+| 4L-05     | J. Kirk      | Patrol Lieutenant    | Active | Patrol Supervisor     | 09/13/2024 | YES | N/A              |
 | 4L-06     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 4S-07     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
