@@ -173,7 +173,7 @@ import TabItem from '@theme/TabItem';
 | 4U-38     |              | 2nd Class Officer    | Vacant | Patrol Officer        |            |     |                  |
 | 4U-39     |              | 2nd Class Officer    | Vacant | Patrol Officer        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 4N-40     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
+| 4N-40     | Cole Lewis   | Probationary         | Vacant | Probationary Officer  |            |     |                  |
 | 4N-41     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
 | 4N-42     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
 | 4N-43     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
