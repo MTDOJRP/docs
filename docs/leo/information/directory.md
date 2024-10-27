@@ -80,7 +80,7 @@ import TabItem from '@theme/TabItem';
 | 2L-06     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2S-07     | J. Wiggins   | Patrol Sergeant      | Active | Patrol Supervisor     | 12/07/2024 | NO  | N/A              |
-| 2S-08     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
+| 2S-08     | Q. Healey    | Patrol Sergeant      | Active | Patrol Supervisor     | 10/26/2024 | Yes |                  |
 | 2S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 2V-10     | B. Zeepkist  | Corporal             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
