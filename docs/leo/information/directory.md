@@ -24,9 +24,9 @@ import TabItem from '@theme/TabItem';
 |           |              |                      |        |                       |            |     |                  |
 | 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
 | 1L-05     | J. Kirk      | Lieutenant           | Active | LIA Supervisor        | 08/05/2024 | YES | N/A              |
-| 1L-06     |              | Lieutenant           | Vacant | TEU Supervisor        |            |     |                  |
+| 1L-06     | B. Zeepkist  | Lieutenant           | Active | TEU Supervisor        | 01/01/2024 |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1S-07     | B. Zeepkist  | Sergeant             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
+| 1S-07     |              | Sergeant             | Vacant | Patrol Supervisor     |            |     |                  |
 | 1S-08     | S. Westwood  | Sergeant             | Active | Shift Supervisor      | 10/26/2024 | NO  | N/A              |
 | 1S-09     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
@@ -77,14 +77,14 @@ import TabItem from '@theme/TabItem';
 |           |              |                      |        |                       |            |     |                  |
 | 2L-04     | S. Leafy     | Patrol Lieutenant    | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
 | 2L-05     | J. Kirk      | Patrol Lieutenant    | Active | LIA Supervisor        | 09/13/2024 | YES | N/A              |
-| 2L-06     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
+| 2L-06     | B. Zeepkist  | Patrol Lieutenant    | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
 |           |              |                      |        |                       |            |     |                  |
 | 2S-07     | J. Wiggins   | Patrol Sergeant      | Active | Shift Supervisor      | 12/07/2024 | NO  | N/A              |
 | 2S-08     | Q. Healey    | Patrol Sergeant      | Active | Patrol Supervisor     | 10/26/2024 | Yes | N/A              |
 | 2S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2V-10     | B. Zeepkist  | Corporal             | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
-| 2V-11     | R. Lombardi  | Corporal             | Active | Patrol Supervisor     | 07/01/2024 | NO  | N/A              |
+| 2V-10     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
+| 2V-11     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 2V-12     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 2V-13     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
 | 2V-14     |              | Corporal             | Vacant | Patrol Supervisor     |            |     |                  |
@@ -116,7 +116,7 @@ import TabItem from '@theme/TabItem';
 | 2U-38     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-39     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2N-40     | M. Johnson   | Probationary         | Active | Probationary Deputy   | 07/25/2024 | NO  | N/A              |
+| 2N-40     |              | Probationary         | Active | Probationary Deputy   |            |     |                  |
 | 2N-41     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-42     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-43     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
@@ -134,9 +134,9 @@ import TabItem from '@theme/TabItem';
 |           |              |                      |        |                       |            |     |                  |
 | 4L-04     | S. Leafy     | Patrol Lieutenant    | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
 | 4L-05     | J. Kirk      | Patrol Lieutenant    | Active | LIA Supervisor        | 09/13/2024 | YES | N/A              |
-| 4L-06     |              | Patrol Lieutenant    | Vacant | Patrol Supervisor     |            |     |                  |
+| 4L-06     | B. Zeepkist  | Patrol Lieutenant    | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
 |           |              |                      |        |                       |            |     |                  |
-| 4S-07     | B. Zeepkist  | Patrol Sergeant      | Active | Patrol Supervisor     | 01/01/2024 | YES | N/A              |
+| 4S-07     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 | 4S-08     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 | 4S-09     |              | Patrol Sergeant      | Vacant | Patrol Supervisor     |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
@@ -173,7 +173,7 @@ import TabItem from '@theme/TabItem';
 | 4U-38     |              | 2nd Class Officer    | Vacant | Patrol Officer        |            |     |                  |
 | 4U-39     |              | 2nd Class Officer    | Vacant | Patrol Officer        |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 4N-40     | Cole Lewis   | Probationary         | Vacant | Probationary Officer  |            |     |                  |
+| 4N-40     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
 | 4N-41     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
 | 4N-42     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
 | 4N-43     |              | Probationary         | Vacant | Probationary Officer  |            |     |                  |
