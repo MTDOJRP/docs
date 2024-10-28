@@ -19,6 +19,7 @@ Before proceeding, ensure you meet the following criteria:
 - Active participation in the community for at least one day.
 - At least one character and a registered vehicle in the CAD.
 - No staff punishments within the past week ([check here](https://punishments.kcdojrp.com/)).
+- Have a basic kowledge of our [departments](https://docs.kcdojrp.com/docs/leo/information/directory) and [codes](https://docs.kcdojrp.com/docs/leo/information/codes).
 
 If you meet all these qualifications, you may proceed!
 
@@ -34,7 +35,7 @@ Before applying, decide which department you’d like to join:
 
 ## Important Resources
 
-Before submitting your application, review the following:
+**Before submitting your application, review the following:**
 
 - [First Shift](https://docs.kcdojrp.com/docs/leo/information/first-shift)
 - [Roster](https://docs.kcdojrp.com/docs/leo/information/directory)
@@ -44,7 +45,7 @@ Before submitting your application, review the following:
 
 Ready to apply? Submit your application [here](https://docs.kcdojrp.com/apply).
 
-### Example Application Details
+### Application Walkthrough
 
 Below is a step-by-step example of how to fill out the application:
 
@@ -55,10 +56,10 @@ Below is a step-by-step example of how to fill out the application:
   _([How to find your Discord ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID))_
 
 - **Age:** `19`  
-  _(Your real age. Applicants must be at least 13 years old.)_
+  _(Your real age. Applicants must be at least 13 years of age.)_
 
 - **Working Microphone and Comfortable Using Voice Chat:** `Yes`  
-  _(You must have a high-quality microphone and be fluent in English.)_
+  _(You must have a high-quality microphone, comfortable speaking, and be fluent in English.)_
 
 - **Hours Available for Roleplay Per Week:** `8`  
   _(Specify how many hours you can contribute. Include any relevant schedule details.)_
@@ -73,7 +74,7 @@ Below is a step-by-step example of how to fill out the application:
   _(Your in-game character's age. Characters must be over 18 years old to apply for LEO, matching the CAD record.)_
 
 - **Rank Applied For:** `Sheriff Deputy`  
-  _(Specify the rank you are applying for. Typically, this will be "Deputy," "Trooper," or "Officer." Note: You’ll start as a probationary and may promote to the requested rank after basic training.)_
+  _(Specify the rank you are applying for. Typically, this will be "Deputy," "Trooper," or "Officer." Note: You’ll always start as a probationary and may promote to the requested rank after basic training.)_
 
 - **Reason for Joining the Department:**  
   _Provide a detailed reason for choosing this department. Avoid generic responses like "I want to be a cop."_
@@ -83,13 +84,15 @@ Below is a step-by-step example of how to fill out the application:
 
 - **Scenario:**  
   _"You see a speeding vehicle and initiate a traffic stop. The vehicle pulls to the side. Please describe how you would proceed with the situation, including radio communication."_  
-  _(Hint: The answer is nearly given to you! Check out [this page](https://docs.kcdojrp.com/docs/leo/information/first-shift).)_
+  _(Hint: The answer is nearly given to you! Check out [this page](https://docs.kcdojrp.com/docs/leo/information/first-shift/#w-dispatch).)_
 
 - **Anything Else You Would Like to Add:**  
-  _Include any additional details you’d like to share. Extra points for thanking the application reviewer!_
+  _Include any additional details you’d like to share. Extra points for thanking the application reviewer for their time!_
 
-## After Submitting Your Application
+## After Submitting Your Application, Whats next?
+
+Next, Open up a ticket in our Discord, You can go to to the [#support-and-informtion](https://discord.com/channels/1132847710282727565/1134209356708196392) channel to do so!
 
 Please be patient after submitting your application. It may take up to two weeks to receive a response, as we receive a large number of applications. Refrain from asking about your application status, as this may result in denial.
 
-Upon approval, you will be asked to open a ticket in the #information channel on Discord.
+Upon approval, you will proceed to the training/testing phase! Wanna prepare for that? Check out the [FTO Guide](https://docs.kcdojrp.com/docs/leo/information/fto)
