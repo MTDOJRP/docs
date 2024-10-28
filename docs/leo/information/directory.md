@@ -27,10 +27,10 @@ import TabItem from '@theme/TabItem';
 | 1L-06     | B. Zeepkist  | Lieutenant           | Active | TEU Supervisor        | 01/01/2024 |     |                  |
 |           |              |                      |        |                       |            |     |                  |
 | 1S-07     |              | Sergeant             | Vacant | Patrol Supervisor     |            |     |                  |
-| 1S-08     | S. Westwood  | Sergeant             | Active | Shift Supervisor      | 10/26/2024 | NO  | N/A              |
+| 1S-08     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
 | 1S-09     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 1V-10     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
+| 1V-10     | S. Westwood  | Corporal             | Active | Road Supervisor       | 10/26/2024 | NO  | N/A              |
 | 1V-11     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-12     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
 | 1V-13     |              | Corporal             | Vacant | Road Supervisor       |            |     |                  |
