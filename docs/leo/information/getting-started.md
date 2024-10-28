@@ -60,9 +60,6 @@ Below is a step-by-step example of how to fill out the application:
 - **Working Microphone and Comfortable Using Voice Chat:** `Yes`  
   _(You must have a high-quality microphone and be fluent in English.)_
 
-- **Date of Birth:** `01/01/2005`  
-  _(Your actual date of birth, not in-game. Applicants must be at least 13 years old.)_
-
 - **Hours Available for Roleplay Per Week:** `8`  
   _(Specify how many hours you can contribute. Include any relevant schedule details.)_
 
