@@ -19,7 +19,7 @@ Before proceeding, ensure you meet the following criteria:
 - Active participation in the community for at least one day.
 - At least one character and a registered vehicle in the CAD.
 - No staff punishments within the past week ([check here](https://punishments.kcdojrp.com/)).
-- Have a basic kowledge of our [departments](https://docs.kcdojrp.com/docs/leo/information/directory) and [codes](https://docs.kcdojrp.com/docs/leo/information/codes).
+- Have a basic knowledge of our [departments](https://docs.kcdojrp.com/docs/leo/information/directory) and [codes](https://docs.kcdojrp.com/docs/leo/information/codes).
 
 If you meet all these qualifications, you may proceed!
 

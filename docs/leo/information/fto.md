@@ -30,7 +30,7 @@ Recruits are to be respectful and obey all KCDOJRP rules during the training pro
 
 ## Application
 
-Before a recruit can begin the training phase, they must submit and have their application accepted. Ensure the recruit has followed the steps outlined in the [Getting Started](https://docs.kcdojrp.com/docs/leo/information/getting-started) guide.
+Before a recruit can begin the training phase, they must submit and have their application accepted. Ensure the recruit has followed the steps outlined in the [Getting Started](https://docs.kcdojrp.com/docs/leo/apply) guide.
 
 Once the application is submitted, it will be reviewed by the department heads, training officers, and KCRP staff. Upon acceptance, the recruit will receive probationary roles and be asked to open a ticket in the #information channel in Discord to schedule their training.
 

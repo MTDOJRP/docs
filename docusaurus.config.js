@@ -78,7 +78,7 @@ const config = {
                 label: 'First Join',
               },
               {
-                href: '/docs/leo/information/getting-started',
+                href: '/docs/leo/apply',
                 label: 'Apply for LEO',
               },
               {

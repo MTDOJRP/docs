@@ -38,7 +38,7 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 🌟 [Understanding and Acquiring Status](#)
 
 ### 🚓 Law Enforcement / LEO
-- 📝 [How do I apply?](/docs/leo/information/getting-started)
+- 📝 [How do I apply?](/docs/leo/apply)
 - 📡 [Using the LEO Radar](/docs/leo/tools/radar)
 - 🔢 [List of 10-codes](/docs/leo/information/codes#full-10-codes)
 - 📋 [List of David Codes](/docs/leo/information/codes#full-david-d-codes)

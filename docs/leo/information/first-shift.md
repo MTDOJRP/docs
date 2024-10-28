@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Congrats on passing the application and training phase for becoming a LEO!
 
-(If you are looking to appy, check out [Getting Started as a LEO](https://docs.kcdojrp.com/docs/leo/information/getting-started))
+(If you are looking to appy, check out [Getting Started as a LEO](https://docs.kcdojrp.com/docs/leo/apply))
 
 Now, we'll learn the basics of being a LEO and how to get started on your first shift!
 

@@ -6,11 +6,11 @@ const FeatureList = [
   {
     title: (
       <>
-        <a href="/docs/leo/information/getting-started">LEO : Getting Started</a>
+        <a href="/docs/leo/apply">LEO : Getting Started</a>
       </>
     ),
     Svg: require('@site/static/img/user-police-tie-duotone.svg').default,
-    link: '/docs/leo/information/getting-started',
+    link: '/docs/leo/apply',
     description: (
       <>
         How to get started as a Law Enforcement Officer on the Kelly County Department of Justice RP Fivem Server.
