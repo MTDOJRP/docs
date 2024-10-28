@@ -24,7 +24,7 @@ import TabItem from '@theme/TabItem';
 |           |              |                      |        |                       |            |     |                  |
 | 1L-04     | S. Leafy     | Lieutenant           | Active | FTO Supervisor        | 01/01/2024 | YES | N/A              |
 | 1L-05     | J. Kirk      | Lieutenant           | Active | LIA Supervisor        | 08/05/2024 | YES | N/A              |
-| 1L-06     | B. Zeepkist  | Lieutenant           | Active | TEU Supervisor        | 01/01/2024 |     |                  |
+| 1L-06     | B. Zeepkist  | Lieutenant           | Active | TEU Supervisor        | 01/01/2024 | YES | N/A              |
 |           |              |                      |        |                       |            |     |                  |
 | 1S-07     |              | Sergeant             | Vacant | Patrol Supervisor     |            |     |                  |
 | 1S-08     |              | Sergeant             | Vacant | Shift Supervisor      |            |     |                  |
