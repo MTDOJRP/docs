@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Getting Started as a LEO
+# Apply for LEO
 
 Think you’ve got what it takes to become an officer of the law? Let’s put that to the test!
 

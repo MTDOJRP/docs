@@ -70,9 +70,26 @@ const config = {
         },
         items: [
           {
-            href: 'https://docs.kcdojrp.com/docs/introduction/getting-started',
             position: 'left',
             label: 'Getting Started',
+            items: [
+              {
+                href: '/docs/introduction/getting-started',
+                label: 'First Join',
+              },
+              {
+                href: '/docs/leo/information/getting-started',
+                label: 'Apply for LEO',
+              },
+              {
+                href: '/docs/leo/information/codes',
+                label: 'LEO Codes',
+              },
+              {
+                href: '/docs/leo/information/directory',
+                label: 'LEO Roster',
+              },
+            ]
           },
           {
             type: 'docSidebar',
@@ -87,7 +104,7 @@ const config = {
           },
           {
             href: 'https://discord.gg/sAAMeZZvrq',
-            label: 'Discord',
+            html: `<img src="/img/discord.svg" class="discord-icon" alt="Discord" style="width: 24px; height: 24px; vertical-align: middle;" />`,
             position: 'right',
           }
         ],

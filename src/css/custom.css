@@ -9,7 +9,6 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
-
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -21,7 +20,13 @@
   --ifm-navbar-background-color: #20232A;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+.discord-icon {
+  filter: invert(0%);
+}
 
+html[data-theme='dark'] .discord-icon {
+  filter: invert(100%);
+}
 label {
   display: block;
   margin: 10px 0 5px;

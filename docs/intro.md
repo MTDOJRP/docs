@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# KCDOJRP Documentation
+# Table of Contents
 
 Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within KCDOJRP server.
 
