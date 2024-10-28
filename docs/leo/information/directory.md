@@ -102,7 +102,7 @@ import TabItem from '@theme/TabItem';
 | 2U-25     |              | 1st Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-26     |              | 1st Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2U-27     | J. Smith     | 2nd Class Deputy     | Active | Patrol Deputy         | 08/05/2024 | NO  | N/A              |
+| 2U-27     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-28     | C. Daniels   | 2nd Class Deputy     | Active | Patrol Deputy         | 08/09/2024 | NO  | N/A              |
 | 2U-29     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-30     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
@@ -116,8 +116,8 @@ import TabItem from '@theme/TabItem';
 | 2U-38     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 | 2U-39     |              | 2nd Class Deputy     | Vacant | Patrol Deputy         |            |     |                  |
 |           |              |                      |        |                       |            |     |                  |
-| 2N-40     |              | Probationary         | Active | Probationary Deputy   |            |     |                  |
-| 2N-41     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
+| 2N-40     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
+| 2N-41     | O. Kimino    | Probationary         | Active | Probationary Deputy   | 10/28/2024 | NO  | N/A              |
 | 2N-42     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-43     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
 | 2N-44     |              | Probationary         | Vacant | Probationary Deputy   |            |     |                  |
