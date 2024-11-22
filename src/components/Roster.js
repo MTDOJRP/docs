@@ -38,7 +38,7 @@ const staticSahpRoster = [
     { callSign: '1U-27', rank: 'Trooper 2nd Class', status: 'Vacant', role: 'Patrol Trooper', startDate: '', fto: '', hours: '' },
     { callSign: '1U-28', rank: 'Trooper 2nd Class', status: 'Vacant', role: 'Patrol Trooper', startDate: '', fto: '', hours: '' },
     { callSign: '1U-29', rank: 'Trooper 2nd Class', status: 'Vacant', role: 'Patrol Trooper', startDate: '', fto: '', hours: '' },
-    { callSign: '1U-30', rank: 'Probationary Trooper', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
+    { callSign: '1N-30', rank: 'Probationary Trooper', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '1N-31', rank: 'Probationary Trooper', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '1N-32', rank: 'Probationary Trooper', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
 ];
@@ -72,7 +72,7 @@ const staticBcsoRoster = [
     { callSign: '2U-27', rank: '2nd Class Deputy', status: 'Vacant', role: 'Patrol Deputy', startDate: '', fto: '', hours: '' },
     { callSign: '2U-28', rank: '2nd Class Deputy', status: 'Vacant', role: 'Patrol Deputy', startDate: '', fto: '', hours: '' },
     { callSign: '2U-29', rank: '2nd Class Deputy', status: 'Vacant', role: 'Patrol Deputy', startDate: '', fto: '', hours: '' },
-    { callSign: '2U-30', rank: 'Probationary Deputy', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
+    { callSign: '2N-30', rank: 'Probationary Deputy', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '2N-31', rank: 'Probationary Deputy', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '2N-32', rank: 'Probationary Deputy', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' }
 ];
@@ -106,7 +106,7 @@ const staticLspdRoster = [
     { callSign: '4U-27', rank: '2nd Class Officer', status: 'Vacant', role: 'Patrol Officer', startDate: '', fto: '', hours: '' },
     { callSign: '4U-28', rank: '2nd Class Officer', status: 'Vacant', role: 'Patrol Officer', startDate: '', fto: '', hours: '' },
     { callSign: '4U-29', rank: '2nd Class Officer', status: 'Vacant', role: 'Patrol Officer', startDate: '', fto: '', hours: '' },
-    { callSign: '4U-30', rank: 'Probationary Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
+    { callSign: '4N-30', rank: 'Probationary Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '4N-31', rank: 'Probationary Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '4N-32', rank: 'Probationary Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' }
 ];
