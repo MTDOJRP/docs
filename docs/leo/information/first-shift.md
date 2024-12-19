@@ -49,12 +49,9 @@ To explain this further, You are calling out on the radio you have initiated a t
 Example:
 > 2N-40 I'll be out on traffic at 9883 El Rancho Boulevard with a red BMW SUV San Andreas 12ABC34 occupied times 1
 
-You should also generate a call in the F4 CAD or [cad.kcdojrp.com](https://cad.kcdojrp.com/officer).
-Click `Create Call`, put TSTOP for the name and type the postal and click `Create`
-You do not need to fill in the rest of the information yet if you don't want to.
-Some LEO's choose to put the plate and/or description in the details now.
-
-Mark yourself as 10-97(On scene)
+You should also generate a call in the CAD.
+Lock the vehicle plate on your [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) and run the command `/tstop [reason]` replace "[reason]" with the reason/details of the traffic stop.
+This will automatically create a traffic stop call in the CAD assign you and your vehicle to it.
 
 Make contact with the individual at the vehicle.
 > My name is [officer/deputy/rank] [last name] with the [department]
