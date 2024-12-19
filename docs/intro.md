@@ -41,7 +41,7 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 - 📝 [How do I apply?](/docs/leo/apply)
 - 📡 [Using the LEO Radar](/docs/leo/tools/radar)
 - 🔢 [List of 10-codes](/docs/leo/information/codes#full-10-codes)
-- 📋 [List of David Codes](/docs/leo/information/codes#full-david-d-codes)
+- 📋 [List of David Codes](/docs/leo/information/codes#full-david-disposition-codes)
 - 👥 [LEO Roster](/docs/leo/information/directory)
 - 🚨 [Field Training Guide](/docs/leo/information/fto)
   

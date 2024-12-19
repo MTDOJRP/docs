@@ -226,7 +226,7 @@ Now, let's say we need to run the drivers name:
 Dispatch will respond "1N-69 go ahead with your 31."
 - Here you will write out the name. If it has common spelling, say "Common Spelling." If not, spell out the name using the [Phonetic Alphabet](/docs/leo/information/codes#phonetic-alphabet).
 
-Once you are finished with the traffic stop, you'll need to state the situation code. Commonly a [David Code](/docs/leo/information/codes#full-david-d-codes) and be clear and available.
+Once you are finished with the traffic stop, you'll need to state the situation code. Commonly a [David Code](/docs/leo/information/codes#full-david-disposition-codes) and be clear and available.
 Let's assume you warned a while male for speeding:
 - 651, 1N-69 D4W Speed, 10-8.
 - Six Five One, One Nora Six Nine, David four William, Speed, Ten eight
