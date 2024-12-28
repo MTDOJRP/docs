@@ -37,7 +37,7 @@ If no dispatch is online, Simply announce over the radio:
 The main things to say when on a traffic stop are 1. Who you are, 2. Location, 3. Vehicle description.
 You'll always say the unit you are calling first, then your callsign.
 
-If you ever need additionals to the traffic stop, SImply say, Requesting additionals.
+If you ever need additionals to the traffic stop, Simply say, Requesting additionals.
 
 ### W/O dispatch
 (Without dispatch online)
@@ -63,7 +63,7 @@ This is up to the officer and their discretion.
 You should ask for 3 things from the driver of the vehicle.
 1. Drivers License/Proof of ID
 2. Vehicle Registration
-3. Insaurance Information/Proof of Insaurance.
+3. Insurance Information/Proof of Insurance.
 
 The civillian should do `/me [civ name]` to provide you their name.
 
@@ -71,11 +71,11 @@ You will then let them know you will run their information and to stay in the ve
 
 Head back to your vehicle and here is where we will start running all of the information.
 In the [CAD](https://cad.kcdojrp.com/officer) do a name search for the name provided and a vehicle search for the vehicle.
-Make sure to check things like Valid Drivers License, Flags, Warrants, Insaurance status, etc.
+Make sure to check things like Valid Drivers License, Flags, Warrants, Insurance status, etc.
 
 I also suggest putting in the event logs of the call your drivers name and plate.
 Ex. `31: JOHN DOE, 28: 12ABC24`
-10-31 beaing ID/Check ID and 10-28 being resgistation/check resgitration.
+10-31 beaing ID/Check ID and 10-28 being registration/check registration.
 
 After confirming their 3 documents are all valid with no issues, it's up to the officer on how to proceed, You may issue a verbal or written warning, ticket, or even an arrest.
 
@@ -135,7 +135,7 @@ This is up to the officer and their discretion.
 You should ask for 3 things from the driver of the vehicle.
 1. Drivers License/Proof of ID
 2. Vehicle Registration
-3. Insaurance Information/Proof of Insaurance.
+3. Insurance Information/Proof of Insurance.
 
 The civillian should do `/me [civ name]` to provide you their name.
 
