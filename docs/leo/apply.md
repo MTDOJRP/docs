@@ -81,6 +81,7 @@ Below is a step-by-step example of how to fill out the application:
 
 - **Past Experience (If Any):**  
   _Detail both FiveM/GTAV and IRL experience, if applicable. Include any relevant law enforcement experience (IRL LEO, ride-alongs, LEA, etc.)._
+  _It's alright if you have little/no LEO experience, please also include general FiveM/GTA knowledge if any._
 
 - **Scenario:**  
   _"You see a speeding vehicle and initiate a traffic stop. The vehicle pulls to the side. Please describe how you would proceed with the situation, including radio communication."_  
@@ -91,7 +92,7 @@ Below is a step-by-step example of how to fill out the application:
 
 ## After Submitting Your Application, Whats next?
 
-Next, Open up a ticket in our Discord, You can go to to the [#support-and-informtion](https://discord.com/channels/1132847710282727565/1134209356708196392) channel to do so!
+Next, Open up a ticket in our Discord, You can go to the [#support-and-information](https://discord.com/channels/1132847710282727565/1134209356708196392) channel to do so!
 
 Please be patient after submitting your application. It may take up to two weeks to receive a response, as we receive a large number of applications. Refrain from asking about your application status, as this may result in denial.
 
