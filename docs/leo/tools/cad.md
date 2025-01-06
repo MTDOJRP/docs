@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # LEO CAD
 
-This is a guide to help you access and use the LEO portion of the CAD!
+This is a guide to help you access and setup the LEO portion of the CAD!
 
 1. First, go to the Officer tab at the top of the cad, like below!
 
