@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
   <TabItem value="sop">
 
-    #### Code of Ethics and Trooper Operations
+    #### Code of Ethics and Officer Operations
     1. **Code of Ethics:**
        - Upholding integrity, honesty, and professionalism in all interactions.
        - Respecting constitutional rights and treating all individuals with dignity.
@@ -31,7 +31,7 @@ import TabItem from '@theme/TabItem';
        - Engaging in proactive policing to deter crime.
        - Cooperating with other law enforcement agencies for effective coordination.
     
-    #### Communication with Other Troopers
+    #### Communication with Other Officers
     - **Effective Communication:**
       - Using clear and concise language over radio communications.
       - Following protocols for sharing information and updates.
