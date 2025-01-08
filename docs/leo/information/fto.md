@@ -87,6 +87,9 @@ Next head over the various buttons and their operations in the CAD;
   - Go over how they would create a ticket; Report, Violations, Seized Items, & Call Connection.
 - Create Bolo
   - Explain what a B.O.L.O. is and how to use this.
+  - Person Bolo - Used when looking for a specific person, Include Name, Clothing, Reason, etc (If known).
+  - Vehicle Bolo - Used when looking for a specific vehicle, Include Plate, Description, Reason, etc (If known).
+  - Other Bolo - Example; Extra Patrol at 24/7 Due to Robberies, Animal, Firearm, etc.
 - Notepad
   - Personal officer notepad.
 
@@ -113,14 +116,13 @@ Guide the recruit through the in-game LEO menu, covering the following functions
 - **Speed Zones:**
   - Creating and removing speed zones.
 - **Wardrobe:**
-  - Uniforms and their appropriate use.
+  - Uniform will automatically assign the correct uniforms based on the players rank.
+  - Wardrobe will also give the appropriate loadout.
 - **Vehicles:**
   - Probationary deputies are restricted to the first three (Non-Slick Top) vehicles on the list.
   - Additionally, Make sure to go over the locking rear doors and the personal vehicle option in the menu.
 
 Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, etc. And their keybinds.
-
-The wardrobe will automatically assign the correct uniforms based on the players rank.
 
 Lastly, Go over the tackling system with the recruit which is "E" while running towards a player.
 
