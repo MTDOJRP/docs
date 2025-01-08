@@ -127,8 +127,8 @@ Rank/Unit Type:
 - 10-29 Check for wanted
 - 10-30 Does not conform to rules & regulations
 - 10-31 Check ID
-- 10-32 Emergency - keep air clear
-- 10-33 Officer Emergency / Panic
+- 10-32 Additional Units
+- 10-33 Officer Emergency / Panic / Emergency - keep air clear
 - 10-34 Clear for local dispatch
 - 10-35 Confidential Information
 - 10-36 Correct time
