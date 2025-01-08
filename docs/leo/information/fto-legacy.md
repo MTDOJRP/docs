@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# LEO FTO | Guide & Procedures (WIP)
+# LEO FTO | Guide & Procedures
 
 **This guide is designed for Field Training Officers (FTOs) and Evaluators responsible for training cadets**. This document outlines the procedures and expectations to ensure a consistent and thorough training process across all law enforcement officers.
 
@@ -10,72 +10,42 @@ Recruits are to be respectful and obey all KCDOJRP rules during the training pro
 
 ---
 
-## Training Sections
 
-1. [Application & Review]
-2. [Discord Roles]
-3. [CAD Registration & On-duty]
-4. [CAD Usage & Penal Codes]
-5. [LEO Menu & LEO Commands]
-6. [Radio Usage & Radios Codes]
-7. [Driving Tests]
-8. [Standard Traffic Stop & Tickets]
-9. [Vehicle Pursuits]
-10. [Felony Traffic Stop & Foot Pursuit]
-11. [Jailing & Reports]
-12. [Questions & Final Evaluation]
+## Training Phases
 
---
+1. [Application](#application)
+2. [CAD Registration](#cad-registration)
+3. [LEO Menu Introduction](#leo-menu-introduction)
+4. [10 Codes, David Codes, & Call-signs](#10-codes-david-codes--call-signs)
+5. [Radio Usage](#radio-usage)
+6. [Driving Test](#driving-test)
+7. [Standard Traffic Stop](#standard-traffic-stop)
+8. [Vehicle Pursuit](#vehicle-pursuit)
+9. [Felony Traffic Stop](#felony-traffic-stop)
+10. [Foot Pursuit](#foot-pursuit)
+11. [Jailing & Reports](#jailing--reports)
+12. [Evaluation](#evaluation)
 
-## Application & Review
+---
 
-A recruit will submit an application [here](https://docs.kcdojrp.com/docs/leo/apply#application-process), Upon submission of the application a ticket will be opened in the Discord server with the application. We will review the applicant application in the private thread attached.
+## Application
 
-Once reviewed and accepted, We will move forward with the FTO process.
+Before a recruit can begin the training phase, they must submit and have their application accepted. Ensure the recruit has followed the steps outlined in the [Getting Started](https://docs.kcdojrp.com/docs/leo/apply) guide.
 
-## Discord Roles
-
-Upon acceptance before training we will grant the department specific role along with the department recruit role to the member.
-This will grant the recruit all the permissions in the CAD and in-game.
-
-Then post in the [#roster-updates](https://discord.com/channels/1132847710282727565/1270093499110395944) the updated positions!
-
+Once the application is submitted, it will be reviewed by the department heads, training officers, and KCRP staff. Upon acceptance, the recruit will receive probationary roles and be asked to open a ticket in the #information channel in Discord to schedule their training.
 
 ## CAD Registration
+Recruits must be registered in the [CAD](https://cad.kcdojrp.com/officer). After registration:
 
-The recruit will likely need to fully logout of the [CAD](https://cad.kcdojrp.com) and re-login via Discord to gain access to the new permissions.
+1. The recruit should create an officer profile [here](https://cad.kcdojrp.com/officer/my-officers).
+2. In your open ticket on Discord please ask a staff member to accept the recruit's officer in the CAD.
+3. While waiting for CAD acceptance, proceed with other training sections. **Return to this section once the CAD registration is confirmed.**
+4. The training officer is to show the recruit the basics in the CAD of how to Run Names, Plates, Create Calls, Write Tickets, and write reports.
 
-If the recruit doesn't already have a citizen in the CAD they will need to [create one.](https://docs.kcdojrp.com/docs/cad/citizens)
-
-Next, Head over to the "Officer" tab and then "[My Officers](https://cad.kcdojrp.com/officer/my-officers)". Select "Create Officer" select the citizen, and give the call sign based off the [roster](https://docs.kcdojrp.com/docs/leo/information/directory).
-
-![Create Officer Box]({3FD7C6A1-6BED-41B8-9FC5-C7D7B530B6DA}.png)
-
-From here, Have the recruit go 10-6 for the first time on the Officer Dashboard!
-
-## CAD Usage & Penal Code
-
-Once the recruit is 10-6 go over all the various 10 status codes with them.
-- 10-8 - Clear & Available
-- 10-49 - En-route
-- 10-97 - On Scene/In the area
-- 10-6 - Busy with official business
-- 10-7 - Busy with un-official business (Commonly AFK for a couple minutes)
-- 10-10 - Off Duty
-- 10-33 - Panic Button
-
-Next head over the various buttons and their operations in the CAD;
-Name Search (Search "John Doe"), Plate Search (Search "12ABC34"), Create Call (CFS = Call For Service), Create Written Warning, Create Bolo, Notepad, and the various sections below.
-
-*Warrants can only be issued byu Supervisors, The Recruits will not be able to.
-
-10-29/29 = Bolo's & Warrants
-
-## LEO Menu & Commands
-
-Next you'cll show the recruit through the in-game LEO menu and command!
+## LEO Menu Introduction
 
 Guide the recruit through the in-game LEO menu, covering the following functions:
+
 - **Actions:**
   - Dragging a player.
   - Cuffing a player.
@@ -90,11 +60,12 @@ Guide the recruit through the in-game LEO menu, covering the following functions
 - **Vehicles:**
   - Probationary deputies are restricted to the first three vehicles on the list.
 
-Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, etc. And their keybinds.
+## [10 Codes, David Codes, & Call-signs](/docs/leo/information/codes)
+Review the [Radio Callsigns, Codes, and Alphabet](/docs/leo/information/codes) with the recruit. Ensure they understand the standard communication codes used in the department.
 
-The wardrobe will automatically assign the correct uniforms based on the players rank.
+Additionally, review the [Directory](/docs/leo/information/directory) for a better understanding of departmental structure and their colleges.
 
-Lastly, Go over the tackling system with the recruit which is "E" while running towards a player.
+You should also go over basic procedures and terminology at this points, For Ex. What is a Felony Traffic Stop (Code 5).
 
 ## Radio Usage
 
@@ -104,13 +75,6 @@ Teach the recruit how to access and operate the radio:
 - **Channel:** `155 MHZ`
 
 Ensure the recruit is comfortable with radio communication before moving on to the next phase.
-
-## [10 Codes, David Codes, & Call-signs](/docs/leo/information/codes)
-Review the [Radio Callsigns, Codes, and Alphabet](/docs/leo/information/codes) with the recruit. Ensure they understand the standard communication codes used in the department.
-
-Additionally, review the [Directory](/docs/leo/information/directory) for a better understanding of departmental structure and their colleges.
-
-You should also go over basic procedures and terminology at this points, For Ex. What is a Felony Traffic Stop (Code 5).
 
 ## Driving Test
 
