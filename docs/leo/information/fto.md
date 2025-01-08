@@ -122,7 +122,7 @@ Guide the recruit through the in-game LEO menu, covering the following functions
   - Probationary deputies are restricted to the first three (Non-Slick Top) vehicles on the list.
   - Additionally, Make sure to go over the locking rear doors and the personal vehicle option in the menu.
 
-Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, `/me`, `/do`, `/hu`, `/huk`, etc. And their keybinds.
+Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, `/me`, `/gme`, `/hu`, `/huk`, etc. And their keybinds.
 
 Lastly, Go over the tackling system with the recruit which is "E" while running towards a player.
 
