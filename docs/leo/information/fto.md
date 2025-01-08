@@ -65,12 +65,38 @@ Once the recruit is 10-6 go over all the various 10 status codes with them.
 - 10-33 - Panic Button
 
 Next head over the various buttons and their operations in the CAD;
+- Name Search
+  - 10-31
+  - Search "John Doe"
+  - Go over license types (Class D, C, M)
+  - Go Over Flags/Alerts
+  - Registered Vehicles
+  - Tickets
+  - Warrants
+  - Notes
+- Plate Search
+  - 10-28
+  - Search "12ABC34"
+  - Use the Civilian Phonetic Alphabet to spell the plate
+  - Explain: Owner, Model, Insurance (AKA I.N.S.), Registration Status, Tax Status, Flags/Alerts, and Reported/Reporting Stolen.
+- Create Call (CFS = Call For Service)
+  - Explain to the recruit al the fields.
+  - Postal/Location auto-fill from one-another.
+  - Businesses and roads can be entered into location.
+- Create Ticket
+  - Go over how they would create a ticket; Report, Violations, Seized Items, & Call Connection.
+- Create Bolo
+  - Explain what a B.O.L.O. is and how to use this.
+- Notepad
+  - Personal officer notepad.
 
-Name Search (Search "John Doe"), Plate Search (Search "12ABC34")(Use the Civilian Alphabet to spell the plate), Create Call (CFS = Call For Service), Create Written Warning, Create Bolo, Notepad, and the various sections below.
+And the various sections below these buttons.
 
 *Warrants can only be issued byu Supervisors, The Recruits will not be able to.
 
 10-29/29 = Bolo's & Warrants
+
+Next, Go to "Officer" -> "[Penal Codes](https://cad.kcdojrp.com/officer/penal-codes)"
 
 ## LEO Menu & Commands
 
