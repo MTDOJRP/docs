@@ -122,7 +122,7 @@ Guide the recruit through the in-game LEO menu, covering the following functions
   - Probationary deputies are restricted to the first three (Non-Slick Top) vehicles on the list.
   - Additionally, Make sure to go over the locking rear doors and the personal vehicle option in the menu.
 
-Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, etc. And their keybinds.
+Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, `/me`, `/do`, `/hu`, `/huk`, etc. And their keybinds.
 
 Lastly, Go over the tackling system with the recruit which is "E" while running towards a player.
 
@@ -140,7 +140,9 @@ Review the [Radio Callsigns, Codes, and Alphabet](/docs/leo/information/codes) w
 
 Ensure to go over the 10-38 Status Checks.
 
-Additionally, review the [Directory](/docs/leo/information/directory) for a better understanding of departmental structure and their colleges.
+Additionally, review the [Directory](/docs/leo/information/directory) for a better understanding of departmental structure, chain of command (COC), and their colleges.
+
+Go over some of the example radio call outs at the bottom of [this page](https://docs.kcdojrp.com/docs/leo/information/codes#example-usage). 
 
 You should also go over basic procedures and terminology at this points, For Ex. What is a Felony Traffic Stop.
 
@@ -170,9 +172,11 @@ During this test is also a casual interview, Get to know your recruit while you 
 In this section we will complete a minimum of 2 traffic stops. Complete more if necessary to teach the proper procedure.
 
 Firstly complete a traffic stop [without dispatch](https://docs.kcdojrp.com/docs/leo/information/first-shift#wo-dispatch).
+    - The recruit must have their [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) working
     - In this traffic stop the recruit shall issue a ticket/citation.
 
 Then complete a traffic stop [with dispatch](https://docs.kcdojrp.com/docs/leo/information/first-shift#w-dispatch). (The T.O. Should be Dispatch)
+    - The recruit must have their [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) working
     - In this traffic stop the recruit shall issue a verbal warning.
 
 * The training officer is not to be combative or aggressive during the traffic stop.
