@@ -7,7 +7,7 @@ sidebar_position: 1
 This is a guide on how to use the LEO Menu in KCRP! This guide will show you how to cuff, drag, use and deploy spike strips, and create speedzones around an area.
 
 
-We wil start off with the most important part of the menu: LEO Actions.
+We wil start off with the most important part of the menu: LEO Actions. This is what you will use a majority of the time you are on patrol!
 
 ![leomenu](leomenu.png)
 
@@ -23,12 +23,20 @@ We wil start off with the most important part of the menu: LEO Actions.
 
 6. The last part of the LEO Menu is riot shield. This allows you to equip a bullet proof riot shield along with a pistol. This shield is actually bullet proof and will protect you from bullets, but its important to crouch, otherwise it will not protect your legs!
 
-Next up is Speedzones!
+Next up is Speedzones, This is useful for Traffic Stops, Car Crashes, and anything else you may need them for!
 
 ![speedzones](speedzones.PNG)
 
+1. First up is manage speedzones. This allows you to see all speedzones around the map and to delete them when they are no longer needed. Avoid deleting the ones you didnt create unless you know they are no longer needed.
+
+2. Speed Limit allows you to set a speed limit of how fast you want AI to move in your speed zone. This is useful if AI get spooked or a gun gets pulled out. Its helpful to keep the limit at zero, so they cant accidentally run you over. Note: This will not affect Players in any way. They can drive around the AI.
+
+3. The Radius Option allows you to set as big as a radius you want to stop AI from moving, but it is important to keep it as small as possible so that it doesnt interrupt traffic as much.
+
+4. Last is Create Speed Zone. After setting your Speed Limit, and setting your radius, you can hit this to make your speed zones. 
 
 
+Next is K9, 
 
 
 
