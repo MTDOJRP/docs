@@ -23,6 +23,9 @@ We wil start off with the most important part of the menu: LEO Actions.
 
 6. The last part of the LEO Menu is riot shield. This allows you to equip a bullet proof riot shield along with a pistol. This shield is actually bullet proof and will protect you from bullets, but its important to crouch, otherwise it will not protect your legs!
 
+Next up is Speedzones!
+
+![speedzones](speedzones.PNG)
 
 
 
