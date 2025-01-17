@@ -36,7 +36,24 @@ Next up is Speedzones, This is useful for Traffic Stops, Car Crashes, and anythi
 4. Last is Create Speed Zone. After setting your Speed Limit, and setting your radius, you can hit this to make your speed zones. 
 
 
-Next is K9, 
+Next is K9, Which you always need to use with another officer, and you need to be K9 Certified before using it. 
+
+1. To become a K9 Dog, just press K9. Afterwhich, you have various emotes you can do such as Bark, Sit, Taunt Etc. You can also change your variation based on your department. To exit K9 mode, just hit Exit K9 Mode at the top of the section
+
+Next is the Wardrobe, where you can find all of your preset uniforms for your department. Along with getting your uniform, this is also how you get your approved loadout. 
+
+1. When selecting which uniform to use, it is important to note any subdivision uniforms you may or may not see are for subdivisions only and should not be worn by people not in those subdivisons
+
+2. All Uniforms are rank locked to specific ranks, meaning only certain ranks can wear certain shirts, or have certain chevrons or collar bars. This is to ensure Supervisors and Command can be easily identified.
+
+
+   Next is LEO Vehicles. Based on Department, it may say Sheriff Vehicles, Police Vehicles, Trooper/Highway Vehicles or Fire Vehicles. This is where you can find all your departments vehicles. Based on your departments policy, you may be prohibited from driving certain vehicles. It is important to note for Supervisors, Supervisor liveries are automatically applied to vehicles when spawned if you have the proper Supervisor rank.
+
+  1. All Vehicles can be saved for later use, unless you are prohibted from your departments policies from doing so.
+
+  2. Make sure you are logged into cad before spawning your patrol vehicle, because CAD automatically sets your plate as your callsign. 
+
+
 
 
 
