@@ -214,6 +214,10 @@ Instruct the recruit to:
 1. Complete an accurate and truthful arrest report in the CAD.
 2. Process the suspect, including filing charges and transporting them to the closest police department jail while adhering to all department policies.
 
+
+Read the suspect their miranda rights if any questioning occurs;
+"You have the right to remain silent. Anything you say can and will be used against you in the court of law. You have the right to legal counsel and a fair trial, If you can not afford a lawyer, One will be appointed to you by the state at no cost, Do you understand these right of which I have read to you today? And with these rights in mind do you wish to speak with me?"
+
 ## Questions & Final Evaluation
 
 At the end of the training, evaluate the recruit based on their performance across all phases:
