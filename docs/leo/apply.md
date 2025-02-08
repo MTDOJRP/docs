@@ -23,6 +23,8 @@ Before proceeding, ensure you meet the following criteria:
 
 If you meet all these qualifications, you may proceed!
 
+* *Note, We don't do role transfers*
+
 ## Choosing Your Agency
 
 Before applying, decide which department you’d like to join:
