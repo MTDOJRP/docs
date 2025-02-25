@@ -17,12 +17,6 @@ These commands help you interact with various features and functionalities while
 :::
 
 <br/>
-
-:::danger Documentation is still under construction!
-Some commands may not be listed here, or may be listed incorrectly. This will be fixed soon (upon the launch of v2)!
-:::
-
-<br/>
 ---
 <br/>
 
