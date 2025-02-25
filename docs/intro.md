@@ -5,12 +5,6 @@ Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide
 We are doing our absolute best to make sure we cover everything you may need to know within this documentation. Think something is missing? Open [an issue](https://github.com/MTDOJRP/docs/issues) on our GitHub Issues Tracker!
 
 <br/>
-
-:::danger Documentation is still under construction!
-We are still working on the documentation! Some links may not work, and some sections may be missing.
-:::
-
-<br/>
 ---
 <br/>
 
