@@ -20,10 +20,10 @@
   --ifm-navbar-background-color: #20232A;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
 .discord-icon {
   filter: invert(0%);
 }
-
 html[data-theme='dark'] .discord-icon {
   filter: invert(100%);
 }
@@ -120,4 +120,10 @@ a[href="https://www.algolia.com/"] {
 
 [data-theme='dark'] .message-name {
     color: #fff;
+}
+
+.two-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
