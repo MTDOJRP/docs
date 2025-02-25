@@ -70,6 +70,17 @@ const config = {
         },
         items: [
           {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Docs',
+          },
+          {
+            to: 'blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
             position: 'left',
             label: 'Getting Started',
             items: [
@@ -78,24 +89,66 @@ const config = {
                 label: 'First Join',
               },
               {
-                href: '/docs/law-enforcement/apply',
-                label: 'Apply for LEO',
+                href: '/docs/getting-started/server-rules',
+                label: 'Server Rules',
               },
               {
-                href: '/docs/law-enforcement/learning/ten-codes',
-                label: 'LEO Codes',
+                href: '/docs/getting-started/microphone-setup',
+                label: 'Voice Chat',
               },
               {
-                href: '/docs/law-enforcement/roster',
-                label: 'LEO Roster',
+                href: '/docs/getting-started/trusted-civs',
+                label: 'Civilian Levels',
+              },
+              {
+                href: '/docs/intro',
+                label: 'Table of Contents',
               },
             ]
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Law Enforcement',
+            items: [
+              {
+                href: '/docs/law-enforcement/apply',
+                label: 'Apply for LEO',
+              },
+              {
+                href: '/docs/law-enforcement/roster',
+                label: 'Active Roster',
+              },
+              {
+                href: '/docs/law-enforcement/learning/structure',
+                label: 'Department Structure',
+              },
+              {
+                href: '/docs/law-enforcement/learning/ten-codes',
+                label: '10-Codes',
+              },
+              {
+                href: '/docs/law-enforcement/learning/d-codes',
+                label: 'David-Codes',
+              }
+            ]
+          },
+          {
+            position: 'left',
+            label: 'Fire & EMS',
+            items: [
+              {
+                href: '/docs/fire-ems/apply',
+                label: 'Apply for Fire / EMS',
+              },
+              {
+                href: '/docs/fire-ems/roster',
+                label: 'Active Roster',
+              },
+              {
+                href: '/docs/fire-ems/learning/structure',
+                label: 'Department Structure',
+              },
+            ]
           },
           {
             href: 'https://CAD.KCDOJRP.com',

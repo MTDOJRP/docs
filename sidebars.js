@@ -6,6 +6,11 @@ const sidebars = {
     // Single page ./intro.md - Table of Contents
     'intro',
     {
+      type: "link",
+      label: "What's New? 👀",
+      href: "/blog/",
+    },
+    {
       type: 'category',
       label: 'Getting Started',
       items: [
