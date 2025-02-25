@@ -307,14 +307,14 @@ You should **re-do the traffic stop(s) with your recruit** if they're struggling
 
   #### Without Dispatch:
   Firstly complete a traffic stop [without dispatch](/docs/law-enforcement/learning/first-shift)
-  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/information/first-shift)
+  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/learning/first-shift)
   - In this traffic stop the recruit shall issue a ticket/citation.
 
   <br/>
 
   #### With Dispatch:
   Then complete a traffic stop [with dispatch](/docs/law-enforcement/learning/first-shift)
-  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/information/first-shift)
+  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/learning/first-shift)
   - In this traffic stop the recruit shall issue a verbal warning.
   - The training officer should be the dispatcher in this scenario.
 </details>
