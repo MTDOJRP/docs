@@ -24,6 +24,7 @@ We are still working on the documentation! Some links may not work, and some sec
 - 🛡️ [Joining the Staff Team](https://docs.kcdojrp.com/application/staff)
 - 🚨 [Installing 32-Sirens](/docs/getting-started/sirens)
 - 💬 [Join our Discord Server](https://discord.gg/kcdojrp)
+- 👀 [What's New?](/blog/)
 
 ### Create & Manage your character
 - 📝 [Creating a character](/docs/your-characters/creating)

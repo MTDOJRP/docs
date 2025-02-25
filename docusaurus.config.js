@@ -61,6 +61,13 @@ const config = {
         searchPagePath: 'search',
         insights: true,
       },
+      announcementBar: {
+        id: 'under_construction',
+        content:'<b>⚠️ Our Documentation is currently under construction! Expect frequent updates and changes! ⚠️</b>',
+        backgroundColor: '#29d5b0',
+        textColor: '#1b1b1b',
+        isCloseable: true,
+      },
       image: 'img/KCDOJRP.png',
       navbar: {
         title: 'KCDOJRP',
