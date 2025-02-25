@@ -73,7 +73,6 @@ Here is an example of a markdown snippet to help you get started:
 - **Link**: `[Link text](URL)`
 ```
 
-
 ### I see an issue with the docs but don't know how or can't edit them, Or do you just have a Suggestion?
 Feel free to head on over to the [**Issues**](https://github.com/MTDOJRP/docs/issues) tab and click **New Issue**
 Here you can create an issue, Type what you need / want fixed/added and add Labels to help us categorize your issue!
