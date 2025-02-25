@@ -4,6 +4,8 @@
 
 :::tip Our Active Roster
 Here is a list of everyone currently active within the Law Enforcement Program! This roster is updated live, so it's always up to date.
+
+The roster **may take a second or two to load if you're on a slower connection**, give it a moment! If you're still having issues, try refreshing the page or try again later!
 :::
 
 <br/>
