@@ -10,19 +10,19 @@ Recruits are to be respectful and obey all KCDOJRP rules during the training pro
 <br/>
 
 ## Training Sections & Contents
-1. [Application & Review](#)
-2. [Acceptance Message & Discord Roles](#)
-3. [CAD Registration & On-duty](#)
-4. [CAD Usage & Penal Codes](#)
-5. [LEO Menu & LEO Commands](#)
-6. [Radio Usage](#)
-7. [10 Codes, David Codes, & Call-signs](#)
-8. [Driving Tests](#)
-9. [Standard Traffic Stop & Tickets](#)
-10. [Vehicle Pursuits](#)
-11. [Felony Traffic Stop & Foot Pursuit](#)
-12. [Jailing & Reports](#)
-13. [Questions & Final Evaluation](#)
+1. [Application & Review](#1-application--review)
+2. [Acceptance Message & Discord Roles](#2-acceptance-message--discord-roles)
+3. [CAD Registration & On-duty](#3-officer--cad-setup)
+4. [CAD Usage & Penal Codes](#4-cad-usage--penal-codes)
+5. [LEO Menu & LEO Commands](#5-leo-menu--leo-commands)
+6. [Radio Usage](#6-radio-usage)
+7. [10 Codes, David Codes, & Call-signs](#7-10-codes-david-codes--call-signs)
+8. [Map Knowledge & Driving Test](#8-map-knowledge--driving-test)
+9. [Standard Traffic Stop & Tickets](#9-standard-traffic-stop--tickets)
+10. [Vehicle Pursuits](#10-vehicle-pursuits)
+11. [Felony Traffic Stop & Foot Pursuit](#11-felony-traffic-stop--foot-pursuit)
+12. [Jailing & Reports](#12-jailing--reports)
+13. [Questions & Final Evaluation](#questions--final-evaluation)
 
 <br/>
 ---
@@ -156,7 +156,7 @@ From here, have the recruit go **10-6** for the first time on the Officer Dashbo
 </details>
 <details open>
   <summary>CAD - **Notepad**</summary>
-    - Personal officer notepad (`/e notepad`)
+    - Personal officer notepad
 </details>
 
 <br/>
@@ -237,3 +237,216 @@ Additionally, review the [Active Roster](/docs/law-enforcement/roster) for a bet
 <br/>
 ---
 <br/>
+
+## Sections 8-12 / Field Training & Roleplay
+
+At this point in time, your recruit should be ready to be deployed to the field. This section will aim to provide your recruit with the necessary knowledge and practice to be able to perform their duties effectively.
+
+<br/>
+
+### 8. Map Knowledge & Driving Test
+
+This section tests the recruit's knowledge of the map and their ability to drive. Here's the things you want to do for the map testing:
+- Ask some basic question about the state, such as "Where is Paleto Bay?", "Where is Grove Street?", etc.
+- In this section introduce the recruit to the postal code system and the [`/postal (code)` command](/docs/postal-codes/postal-cmd).
+
+<br/>
+
+#### Next we'll conduct the driving test starting at Fort Zancudo.
+
+<details open>
+  <summary>Driving Test - **Instructions**</summary>
+
+  - **Instruct the recruit to spawn one of the authorized recruit training vehicles.**<br/>
+  *First 3 of the non-slick-top variants.*
+
+  - **Have the recruit drive to a popular location on the map, stopping at a gas station on the way. Avoid entering AOP.**<br/>
+  *Ex. Mirror Park or Grapeseed*
+
+  - **During this test, the recruit must follow all traffic laws with the exception of blinkers.**<br/>
+  *Provide 15-20MPH Leeway on speed and do not be overly strict on maintaining the lane.*
+</details>
+
+*During this test is also a casual interview, get to know your recruit while you take a relaxing drive!*
+
+<br/>
+
+### 9. Standard Traffic Stop & Tickets
+
+Now it's time to complete a standard traffic stop and issue a ticket or citation.<br/>
+
+:::danger In this section we will complete a minimum of 2 traffic stops
+You should **re-do the traffic stop(s) with your recruit** if they're struggling, you feel like they're not getting the hang of it, or if you believe that the recruit needs more practice.<br/>
+*There is no limit on how many times the recruit should re-do these.*
+:::
+
+<br/>
+
+<details open>
+  <summary>Traffic Stop - **Setting up the Scenario**</summary>
+
+  #### The Training Officer should be:
+  - named `John Doe` for any CAD System lookups,
+  - using a brightly colored ford explorer of the department in training for with the plate `12ABC34` and,
+  - pulled over for a misdemeanor traffic offense in this scenario.
+
+  <br/>
+
+  #### The Recruit:
+  - should be using a standard LEO vehicle for the department in training for,
+  - must have their [radar](/docs/law-enforcement/tools/radar) working
+</details>
+
+<details open>
+  <summary>Traffic Stop - **Scenario**</summary>
+
+  #### Training Officer:
+  - not to be combative or aggressive during the traffic stop.
+
+  <br/>
+
+  #### Without Dispatch:
+  Firstly complete a traffic stop [without dispatch](/docs/law-enforcement/learning/first-shift)
+  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/information/first-shift)
+  - In this traffic stop the recruit shall issue a ticket/citation.
+
+  <br/>
+
+  #### With Dispatch:
+  Then complete a traffic stop [with dispatch](/docs/law-enforcement/learning/first-shift)
+  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/information/first-shift)
+  - In this traffic stop the recruit shall issue a verbal warning.
+  - The training officer should be the dispatcher in this scenario.
+</details>
+
+<br/>
+
+### 10. Vehicle Pursuits
+
+Simulate a scenario where the speeding vehicle (the training officer) fails to yield.
+
+1. The recruit should engage in a [pursuit](/docs/leo/information/first-shift), following all traffic laws and maintaining personal and public safety.<br/>
+   *You can review the [Pursuit Procedures here](/docs/leo/information/first-shift)*
+2. After a reasonable period, the recruit will execute a PIT manoeuver on the fleeing vehicle.
+
+<br/>
+
+:::warning Lethal Force Notice
+Lethal Force is **Not Authorized** at all during this training.<br/>
+*At no time during this training shall the recruit use lethal force.*
+:::
+
+<br/>
+
+### 11. Felony Traffic Stop & Foot Pursuit
+
+The recruit will conduct a felony (Code 5) traffic stop on the previously fleeing vehicle.
+
+1. Utilize proper procedures to ensure officer safety.<br/>
+   *Review the [Felony Traffic Stop Procedures here](/docs/leo/information/first-shift)*
+2. The recruit should communicate effectively and control the scene.
+
+<br/>
+
+#### Next, simulate a foot pursuit:
+
+1. The suspect will flee on foot after stopping the vehicle and attempting a felony stop.
+2. The recruit must decide on the appropriate course of action, following KCRP policies.
+3. Demonstrate the tackle function: (Shift + Forward + E) when close to the suspect, or the tazer function.
+4. The recruit should successfully apprehend the suspect, adhering to all rules and procedures.
+
+<br/>
+
+:::warning Lethal Force Notice
+Lethal Force is **Not Authorized** at all during this training.<br/>
+*At no time during this training shall the recruit use lethal force.*
+:::
+
+<br/>
+
+### 12. Jailing & Reports
+
+Instruct the recruit to:
+
+1. Complete an accurate and truthful arrest report in the CAD.
+2. Process the suspect, including filing charges and transporting them to the closest police department jail while adhering to all department policies.
+
+<br/>
+
+:::info Read the suspect their miranda rights if any questioning occurs;
+*"You have the right to remain silent. Anything you say can and will be used against you in the court of law.<br/>
+You have the right to legal counsel and a fair trial, if you can not afford a lawyer, one will be appointed to you by the state at no cost.<br/>
+Do you understand these rights of which I have read to you today? And with these rights in mind do you wish to speak with me?"*
+:::
+
+<br/>
+---
+<br/>
+
+## Questions & Final Evaluation
+
+At the end of the training, evaluate the recruit based on their performance across all phases.
+
+:::info Evaluation Criteria
+- A recruit is allowed *3 minor mistakes per phase* and only *3 major mistakes* throughout the entire process, or *1 critical mistake*.
+- Failing this process requires the recruit to review the documentation and re-schedule the training.
+- **Multiple failures necessitate resubmission of the initial application.**
+:::
+
+<br/>
+
+### Possible Outcomes
+
+This will give you an idea for what the outcomes for your recruit can be (based on their performance during the session).
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs defaultValue="2">
+  <TabItem value="1" label="Outcome 1 - Exceptional Pass" default>
+
+:::info Exceptional Performance!
+Your recruit has passed the entire training process with **minimal errors**, demonstrating an **exceptional grasp of all required skills and knowledge**.
+This is a noteworthy achievement – so congratulate them!
+
+The recruit is awarded a **Strong Pass** and is **authorized for independent patrol without restrictions**.<br/>
+:::
+
+*Ensure you promote your recruit to Standard LEO both in the CAD system and by updating their Discord Roles, as well as posting a roster update in [#roster-updates](https://discord.com/channels/1132847710282727565/1270093499110395944).*
+
+  </TabItem>
+  <TabItem value="2" label="Outcome 2 - Standard Pass">
+
+:::tip Ready for Supervised Patrol
+The recruit has **met the requirements** for passing the training, **demonstrating competence in core areas** with some areas for improvement.
+
+Your recruit will now begin **patrolling under the supervision of a Higher Ranking LEO** until deemed ready for independent patrol by a supervisor.
+:::
+
+*Your recruit should remain as a probationary until they are deemed ready for independent patrol by a supervisor. Make sure to post a roster update in [#roster-updates](https://discord.com/channels/1132847710282727565/1270093499110395944) to notify that training is complete.*
+
+  </TabItem>
+  <TabItem value="3" label="Outcome 3 - Fail">
+
+:::danger Further Development Required
+Unfortunately, the recruit has **not yet met the requirements** for passing the training at this time.
+
+The recruit will be notified and have their **Discord & CAD permissions revoked at this time**.
+
+Recruits are required to follow a **2-week period** for **review of training materials before re-attempting training**. If this is the recruit's first time getting denied (and there's no critical mistakes), the recruit may **re-schedule** (this must still follow a 2-week period).
+:::
+
+*Even if the recruit is re-scheduling, ensure that you remove their permissions from the Discord server and revoke their access to the CAD system at this time.*
+
+  </TabItem>
+</Tabs>
+
+<br/>
+---
+<br/>
+
+## Final Notes
+
+- Ensure recruits are respectful and follow all KCRP rules during training.
+- FTOs must adhere to these procedures to maintain training consistency.
+- After successful training, recruits are ready for active duty under probation.
