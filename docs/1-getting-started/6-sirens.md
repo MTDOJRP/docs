@@ -18,11 +18,11 @@ Additionally, it increases the number of light object ID's allowed by FiveM nati
 
 <div class="two-images">
     <div class="left-img" style={{ width: '50%' }}>
-        <img src="/img/without.gif" alt="Left Image Loading.."/>
+        <img src="/imgs/32sirens-without.gif" alt="Left Image Loading.."/>
         <p>Default GTA Lighting (32-Sirens Disabled)</p>
     </div>
     <div class="right-img" style={{ width: '50%' }}>
-        <img src="/img/with.gif" alt="Right Image Loading.."/>
+        <img src="/imgs/32sirens-with.gif" alt="Right Image Loading.."/>
         <p>SirenSetting Limit Adjuster (32-Sirens Enabled)</p>
     </div>
 </div>

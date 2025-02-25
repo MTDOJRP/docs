@@ -103,4 +103,20 @@ Here's a list of 10-codes that are very commonly used over the radio. Perfect fo
 :::
 
   </TabItem>
+  <TabItem value="status" label="Status 10-Codes">
+
+:::info Common 10-Codes
+Here's a list of 10-codes that are very commonly used over the radio. Perfect for a cheat sheet!
+
+- **10-6** Busy
+- **10-7** Out of Service
+- **10-8** In Service
+- **10-10** Out of Service, Off Duty
+- **10-33** Officer Emergency / Panic
+- **10-38** Are you OK / Status Check
+- **10-49** En route
+- **10-97** Arriving at scene
+:::
+
+  </TabItem>
 </Tabs>

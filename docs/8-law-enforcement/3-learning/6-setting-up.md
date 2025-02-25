@@ -59,7 +59,7 @@ When creating a new citizen (or using an existing one), your citizen **must** me
 
   <br/>
 
-  ![Showcase of the Create with Officer button](/img/create-citizen-with-officer.png)
+  ![Showcase of the Create with Officer button](/imgs/citizen-setting-up-with-officer.png)
 
   <div class="text--center">
     <i>Make sure to enter the call-sign of your officer in the `Callsign` field!<br/></i>
@@ -90,7 +90,7 @@ If while creating your citizen, you did not select `Create with Officer`, or, if
 
   <br/>
 
-  ![Showcase of the Create Officer button](/img/find-create-officer.png)
+  ![Showcase of the Create Officer button](/imgs/find-create-officer.png)
 
   <div class="text--center">
     <i>If you can't see the `Officer` tab, try to log out of the CAD System and log back in! If that doesn't work, contact your supervisor!</i>
@@ -100,7 +100,7 @@ If while creating your citizen, you did not select `Create with Officer`, or, if
 
   Proceed to fill out the form on your screen, and make sure to select the correct citizen! Here's a screenshot of what you should see when you've filled out the form.
 
-  ![Showcase of the Create Officer form](/img/create-officer-example.png)
+  ![Showcase of the Create Officer form](/imgs/create-officer-example.png)
 
   <div class="text--center">
     <i>Make sure to enter the call-sign of your officer in the `Callsign` field!<br/></i>

@@ -22,7 +22,7 @@ Unless you have changed the settings in the past, Voice Chat will (by default) b
 <br/>
 
 ### 👀 Your settings should look like this
-![](/img/voice-chat-settings.png)
+![](/imgs/voice-chat-settings.png)
 
 <br/>
 ---
@@ -54,7 +54,7 @@ In the bottom right corner of the screen you will see `Normal [Range]`, this sho
 - `Shouting` is loud, meant for others to hear over long distances and over noisy environments.
 
 ### 👀 Your voice range should look like this
-![](/img/voice-range.png)
+![](/imgs/voice-range.png)
 
 *You can find your voice range in the bottom right corner of the screen.*
 
