@@ -78,7 +78,7 @@ The recruit will now be instructed to follow the [Officer Setup](/docs/law-enfor
 <details>
   <summary>FTO - Approving the recruit in the CAD System</summary>
 
-  A supervisor will need to accept the officer's request to be added to the CAD System. You can do this by finding the user under `Admin > Manage Units > Pending Units` and clicking the `Approve` button.
+  A supervisor will need to accept the officer's request to be added to the CAD System. You can do this by finding the user under `Admin > Manage Units > Department Whitelisting` and clicking the `Approve` button.
 
   **Beware!** Make sure that the user has put in the correct call-sign! If they haven't, notify the user of the mistake and deny the officer request. They should re-submit their request on the CAD following the instructions in the [Officer Setup](/docs/law-enforcement/learning/setting-up) guide.
 

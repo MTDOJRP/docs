@@ -148,35 +148,3 @@ If you know of any commands that are not listed here, please let us know on our 
 
 If you're feeling adventurous, you can also [contribute to the docs yourself](https://github.com/MTDOJRP/docs/blob/main/README.md)! 💪
 :::
-
-<br/>
----
-<br/>
-
-<!-- <div class="message-container left">
-  <img src="/av1.png" alt="Law Enforcement Officer" class="profile-image"></img>
-  <div class="message left">
-    <div class="message-name">You (2N-40)</div> <p>651 2N-40 Traffic</p>
-  </div>
-</div>
-
-<div class="message-container right">
-  <div class="message right">
-    <div class="message-name">Dispatch (651)</div> <p>2N-40, go ahead</p>
-  </div>
-  <img src="/av2.png" alt="Dispatch (651)" class="profile-image"></img>
-</div>
-
-<div class="message-container left">
-  <img src="/av1.png" alt="Law Enforcement Officer (2N-40)" class="profile-image"></img>
-  <div class="message left">
-    <div class="message-name">You (2N-40)</div> <p>2N-40 I'll be out on traffic at [postal] [street/location] with a [color] [make/model/type] [plate type] [plate] occupied times [count]</p>
-  </div>
-</div>
-
-<div class="message-container right">
-  <div class="message right">
-    <div class="message-name">Dispatch (651)</div> <p>Copy 2N-40 out at [postal] standby for return.</p>
-  </div>
-  <img src="/av2.png" alt="Dispatch (651)" class="profile-image"></img>
-</div> -->
