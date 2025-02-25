@@ -109,7 +109,7 @@ If while creating your citizen, you did not select `Create with Officer`, or, if
 
   <br/>
 
-  Once you've filled out the form, hit `Create Officer` and a request will be sent to your supervisor to approve your request.
+  Once you've filled out the form, hit `Create` and a request will be sent to your supervisor to approve your request.
 </details>
 
 <br/>
