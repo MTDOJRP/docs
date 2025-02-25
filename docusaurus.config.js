@@ -74,19 +74,19 @@ const config = {
             label: 'Getting Started',
             items: [
               {
-                href: '/docs/introduction/getting-started',
+                href: '/docs/getting-started/joining-server',
                 label: 'First Join',
               },
               {
-                href: '/docs/leo/apply',
+                href: '/docs/law-enforcement/apply',
                 label: 'Apply for LEO',
               },
               {
-                href: '/docs/leo/information/codes',
+                href: '/docs/law-enforcement/learning/ten-codes',
                 label: 'LEO Codes',
               },
               {
-                href: '/docs/leo/information/directory',
+                href: '/docs/law-enforcement/roster',
                 label: 'LEO Roster',
               },
             ]

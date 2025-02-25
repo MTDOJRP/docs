@@ -95,8 +95,8 @@ You should now be connected to the server! If you have any issues, please join o
 :::tip What's Next?
 Explore our documentation to discover all the features and opportunities awaiting you in KCDOJRP!<br/>
 Here's some useful links to get you started:
-- [Character Creation Guide](#)
-- [Vehicle Registration Guide](#)
-- [In-Game Commands](/docs/introduction/in-game-commands)
-- [Our Server Rules](/docs/introduction/server-rules)
+- [Character Creation Guide](/docs/your-characters/creating)
+- [Vehicle Registration Guide](/docs/your-vehicles/creating)
+- [In-Game Commands](/docs/getting-started/in-game-commands)
+- [Our Server Rules](/docs/getting-started/server-rules)
 :::

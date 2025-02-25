@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Table of Contents
 
 Welcome to the **KCDOJRP** documentation! 🎉 Dive into our comprehensive guide that provides insights into the myriad of features and functionalities available within KCDOJRP server.
@@ -10,7 +6,7 @@ We are doing our absolute best to make sure we cover everything you may need to 
 
 <br/>
 
-:::danger Documentaion is still under construction!
+:::danger Documentation is still under construction!
 We are still working on the documentation! Some links may not work, and some sections may be missing.
 :::
 
