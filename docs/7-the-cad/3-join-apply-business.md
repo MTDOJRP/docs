@@ -1,4 +1,4 @@
-# Join/Apply To Business
+# Join / Apply To Business
 
 <br/>
 
