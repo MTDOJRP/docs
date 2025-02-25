@@ -74,12 +74,6 @@ Also known as the "SOP".
 
 
     #### General Procedures
-
-     #### Reporting and Communication
-    - **Progress Updates:** Providing regular updates to supervisors and stakeholders on case developments.
-    - **Collaboration:** Communicating effectively with patrol units, other CID divisions, and external agencies.
-    - **Report Writing:** Drafting clear, detailed reports of investigations for internal use and court proceedings.
-
     #### Professional Development
    
     - **Continuing Education:** Participating in ongoing training programs to enhance investigative skills and stay updated on legal developments.
