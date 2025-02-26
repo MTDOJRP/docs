@@ -81,13 +81,13 @@ These are rules that apply to in-game roleplay to help keep the gameplay fun and
 <br/>
 
 ### Usernames / In-Game Names
-Usernames and in-game names should be appropriate and not offensive.<br/>
-They should also not be attempting to advertise or impersonate other players / staff.
+- Usernames and in-game names should be appropriate and not offensive.<br/>
+- They should also not be attempting to advertise or impersonate other players / staff.
 
 <br/>
 
 ### Attacks, Botting, DDoS, etc.
-Any attempt of an attack, botting, DDoS, etc., will result in a global blacklist and a report to the appropriate authorities.
+- Any attempt of an attack, botting, DDoS, etc., will result in a global blacklist and a report to the appropriate authorities.
 
 <br/>
 
@@ -109,8 +109,8 @@ These are all bannable offenses.
 <br/>
 
 ### Microphone
-Your microphone must be clear and audible. If you are asked to fix your microphone please do so.<br/>
-If you are unable to fix your microphone, you may be muted until you can fix it.
+- Your microphone must be clear and audible. If you are asked to fix your microphone please do so.<br/>
+- If you are unable to fix your microphone, you may be muted until you can fix it.
 
 <br/>
 

@@ -42,11 +42,10 @@ These commands are used to communicate with all players on the server.
 
 ### Action Commands
 These are commands that are used to perform actions in the game (such as raising your hands)
-- `/handsup`: Puts your hands up
-- `/huk`: Puts your hands up and kneel down on the ground
-- `/dry` or `/wet`: Makes your character's clothing either wet or dry
+- `/huk`: Raises your hands up and kneels to the ground
 - `/handsup`: Put your hands up
 - `/handsupknees`: Put your hands up and drop onto your knees
+- `/dry` or `/wet`: Makes your character's clothing either wet or dry
 - `/pcam`: Equips the phone camera
 - `/emote (emote_name)`: Allows you to play a specific emote by name (e.g. 'dance')
 - `/crouch`: Makes your character crouch
@@ -94,10 +93,10 @@ These commands are used to interact with the game in various ways.
 - `/cad`: Opens the in-game CAD
 - `/911 (message)`: Calls 911 with the specified message and your location
 - `/emotemenu`: Opens the emotes menu
-- `/takepicture`: Takes a picture (saves to your GTA Gallery)
+- `/takepicture`: Takes a picture and saves to your GTA Gallery
 - `/record`: Records and saves to your GTA Gallery
-- `/radio`: Open the radio
-- `/attach`: Attach tow vehicles
+- `/radio`: Opens the radio
+- `/attach`: Attaches tow vehicles
 - `/postal (postal)`: Puts a marker on the map to a specified postal
 - `/aop`: Tells you what the current 'Area of Play' is
 
@@ -126,7 +125,7 @@ Commands that are only available to law enforcement officers.
 
 ### Fire & Emergency Commands
 Commands that are only available to fire and emergency personnel.
-- `/fire`: Open the configuration to create a fire.
+- `/fire`: Opens the configuration to create a fire.
 - `/carry`: Carries the nearest player.
 - `/hose`: Gives you a fire hose.
 
