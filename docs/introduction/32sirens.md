@@ -8,7 +8,7 @@ Welcome to the installation guide for the SirenSetting Limit Adjuster 2.0.2, als
 
 ## 📥 **Download Links**
 
-- **[Click Here to Download (cdn.skyy.cc)](https://cdn.skyy.cc/FiveM/SirenSetting_Limit_Adjuster_v2.zip)**
+- **[Click Here to Download (cdn.skyy.cc)](https://cdn.skyy.cc/SirenSetting_Limit_Adjuster_v3.zip)**
 - **[Official Download and Page](https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/)**.
 - **[Virus Total Scan](https://www.virustotal.com/gui/file/74fec47012be517504fb515abc913ece559f0ad680d0f16058ae6fb2ea46a9aa)**
 
