@@ -21,6 +21,9 @@ While the **NATO Phonetic Alphabet** (Alpha, Bravo, Charlie, etc.) is also well-
 ---
 <br/>
 
+<details open>
+  <summary>Phonetic Alphabet - **Civilian**</summary>
+
 <div style={{ float: 'left' }}>
 
 | Letter | Word    |
@@ -56,3 +59,5 @@ While the **NATO Phonetic Alphabet** (Alpha, Bravo, Charlie, etc.) is also well-
 | X      | X-Ray   |
 | Y      | Young   |
 | Z      | Zebra   |
+
+</details>

@@ -9,8 +9,6 @@ Think of them as a shorthand to keep radio chatter efficient and professional.
 :::
 
 <br/>
----
-<br/>
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

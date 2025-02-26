@@ -9,8 +9,6 @@ Think of them as a quick summary of what happened.
 :::
 
 <br/>
----
-<br/>
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
