@@ -306,15 +306,15 @@ You should **re-do the traffic stop(s) with your recruit** if they're struggling
   <br/>
 
   #### Without Dispatch:
-  Firstly complete a traffic stop [without dispatch](/docs/law-enforcement/learning/first-shift)
-  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/law-enforcement/learning/first-shift)
+  Firstly complete a traffic stop [without dispatch](/docs/law-enforcement/learning/first-shift#traffic-stops)
+  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/law-enforcement/learning/first-shift#traffic-stops)
   - In this traffic stop the recruit shall issue a ticket/citation.
 
   <br/>
 
   #### With Dispatch:
-  Then complete a traffic stop [with dispatch](/docs/law-enforcement/learning/first-shift)
-  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/law-enforcement/learning/first-shift)
+  Then complete a traffic stop [with dispatch](/docs/law-enforcement/learning/first-shift#traffic-stops)
+  - The recruit will make radio calls as outlined in [LEO First Shift](/docs/law-enforcement/learning/first-shift#traffic-stops)
   - In this traffic stop the recruit shall issue a verbal warning.
   - The training officer should be the dispatcher in this scenario.
 </details>
@@ -325,8 +325,8 @@ You should **re-do the traffic stop(s) with your recruit** if they're struggling
 
 Simulate a scenario where the speeding vehicle (the training officer) fails to yield.
 
-1. The recruit should engage in a [pursuit](/docs/law-enforcement/learning/first-shift), following all traffic laws and maintaining personal and public safety.<br/>
-   *You can review the [Pursuit Procedures here](/docs/law-enforcement/learning/first-shift)*
+1. The recruit should engage in a [pursuit](/docs/law-enforcement/learning/first-shift#vehicle-pursuit-procedures), following all traffic laws and maintaining personal and public safety.<br/>
+   *You can review the [Pursuit Procedures here](/docs/law-enforcement/learning/first-shift#vehicle-pursuit-procedures)*
 2. After a reasonable period, the recruit will execute a PIT manoeuver on the fleeing vehicle.
 
 <br/>
@@ -343,7 +343,7 @@ Lethal Force is **Not Authorized** at all during this training.<br/>
 The recruit will conduct a felony (Code 5) traffic stop on the previously fleeing vehicle.
 
 1. Utilize proper procedures to ensure officer safety.<br/>
-   *Review the [Felony Traffic Stop Procedures here](/docs/law-enforcement/learning/first-shift)*
+   *Review the [Felony Traffic Stop Procedures here](/docs/law-enforcement/learning/first-shift#felony-traffic-stop-code-5)*
 2. The recruit should communicate effectively and control the scene.
 
 <br/>
