@@ -26,7 +26,7 @@ Make sure that you meet all of our requirements before you apply. If you do not 
   - Active participation in the community for at least one day.
   - At least one character and a registered vehicle in the CAD.
   - No staff punishments within the past week ([check here](https://punishments.kcdojrp.com/)).
-  - Have a basic knowledge of our [departments](https://docs.kcdojrp.com/docs/leo/information/directory) and [codes](https://docs.kcdojrp.com/docs/leo/information/codes).
+  - Have basic knowledge of our [departments](https://docs.kcdojrp.com/docs/leo/information/directory) and [codes](https://docs.kcdojrp.com/docs/leo/information/codes).
 </details>
 
 :::warning Role Transfers Notice

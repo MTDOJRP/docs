@@ -1,7 +1,6 @@
 paneedah:
   name: Paneedah
   title: Development Manager @ KCDOJRP
-  url: https://github.com/Paneedah
   image_url: https://github.com/Paneedah.png
   socials:
     github: Paneedah
@@ -12,7 +11,6 @@ paneedah:
 skyy:
   name: Skyy
   title: General Manager @ KCDOJRP
-  url: https://github.com/BurnhamR
   image_url: https://cdn.discordapp.com/avatars/704900355804102746/24f7bc67eba80f613b01aff786a7cd43.webp
   socials:
     github: BurnhamR
@@ -23,8 +21,15 @@ skyy:
 mindvoid:
   name: MindVoid
   title: Community Manager @ KCDOJRP
-  url: https://github.com/OGMindVoid
   image_url: https://github.com/OGMindVoid.png
   socials:
     github: OGMindVoid
     Website: https://kcdojrp.com
+
+ace:
+  name: Ace
+  title: Contributor
+  image_url: https://cdn.discordapp.com/avatars/165151342355152896/df88e602fec9b96834c33d9a21a47f02.webp
+  socials:
+    github: AceJoker303
+    youtube: KCDOJRP
