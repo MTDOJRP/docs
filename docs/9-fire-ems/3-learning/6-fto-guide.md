@@ -21,7 +21,7 @@ Recruits are to be respectful and professional, obeying all KCDOJRP rules during
 2. [Discord Roles](#discord-roles)
 3. [CAD Registration & On-duty](#cad-registration)
 4. [CAD Usage](#cad-usage)
-5. [LEO Menu & LEO Commands](#leo-menu--commands)
+5. [FD Menu & FD Commands](#FD-menu--commands)
 6. [Radio Usage & Radios Codes](#radio-usage)
 7. [Driving Tests](#map-knowledge--driving-test)
 8. [Fire Fighting](#fire-fighting)
@@ -54,14 +54,12 @@ If the recruit doesn't already have a citizen in the CAD they will need to [crea
 
 Next, Head over to the "Deputy" tab and then "[My Deputies](https://cad.kcdojrp.com/officer/my-officers)". Select "Create Deputy" select the citizen, and give the call sign based off the [roster](https://docs.kcdojrp.com/docs/fire-ems/roster).
 
-![Create Deputy Box]({3FD7C6A1-6BED-41B8-9FC5-C7D7B530B6DA}.png)
-
-From here, Have the recruit go Busy for the first time on the Officer Dashboard!
+From here, Have the recruit go Busy for the first time on the Deputy Dashboard!
 
 <br/>
-### 3. Officer & CAD Setup
+### 3. Deputy & CAD Setup
 
-The recruit will now be instructed to follow the [Officer Setup](/docs/law-enforcement/learning/setting-up) guide to set up their officer on the CAD System with the information provided by the supervisor.
+The recruit will now be instructed to follow the [Deputy Setup](/docs/fire-ems/learning/setting-up) guide to set up their Deputy on the CAD System with the information provided by the supervisor.
 
 <br/>
 
@@ -159,7 +157,7 @@ Next you'll show the recruit through the in-game FD menu and commands! Guide the
     - Explain that for the 2017 Tahoe, the 2017 Ford F350, 2018 Dodge Charger, and the 2016 Ford Explorer are only to be used by the proper rank or with the permission of an Officer. 
 </details>
 
-*Also, review the commands for all of the actions additionally basic commands such as  `/carry`, `/dv`, `/me`, `/gme`, `/hu`, `/huk`, etc., and their keybinds.*
+*Also, review the commands for all of the actions additionally basic commands such as  `/drag`, `/dv`, `/me`, `/gme`, `/hu`, `/huk`, etc., and their keybinds.*
 
 <br/>
 
@@ -181,3 +179,30 @@ Additionally, review the [Active Roster](/docs/fire-ems/roster) for a better und
 <br/>
 ---
 <br/>
+
+
+### 7. Driving Test
+
+  This part is important to make sure the Cadet(s) know how to drive the various apparatus's such as the Engine, the Ladder Truck, the Ambulance and the Brush Truck. During this test, you will ensure you teach them how to operate the water cannons on the engine, and the brush truck. Ensure they know how to turn on the lights and sirens, and teach them about the speed limiter. To guage them on their driving, start the test from the station in Paleto and drive the engine, ladder or ambulance to the station in Sandy Shores. Make sure they follow the speedlimit, and while driving, ask some questions about them, get to know them. Make sure to tell them how to clear an intersection using the lights, sirens and horn. 
+
+
+  ### 8. Fire Fighting
+
+  Using the Tower at the station in Sandy Shores, teach the Cadet(s) about fires, going into detail about how to call out the details, such as the side of the fire, the direction of smoke, the amount of floors the fire is on, and the color of the smoke. Indicate the various different smoke colors and what they indicate, black being a regular fire, and green being a electrical fire or a chemical fire. Ensure they know how to fight the various fires, using water on the regular fire, and foam on the electrical and chemical fire. Teach them how to do /hose, or use the FD Menu to get it. Teach them to do a primary search, going through the fire with a hose, clearing the way searching for any surivors, making sure they call out and asking if anyone is there. Simulate a scenario where a person is in the fire, and teach them how to extricate the person and bring them to safety. If you feel they need to do it again, have them do it again until they feel comfortable with it. Afterwards, teach them to do a secondary search, making sure they didnt miss any victims inside. After doing this, and making sure they are comfortable, have them put out the fire. After the fire is completely out, teach them to check for "hotspots" by going around the building. **Use /e camera**. 
+
+
+  ### 9. Medical Procedures
+
+    Medical is a big part of being a member of the San Andreas Fire Department. It is important that all Cadet(s) learn how to do basic medical.  Teach the Cadets the following. 
+
+    When arriving on a scene it is important to do the following :
+
+   - Assess the paitent. Make sure they are concious and alert. If they are, ask if they feel dizzy, or if they have a headache or if their vision is blurry. 
+   - If a paitent is on the ground for a unknown or known reason, always put on a C-Collar to protect the victims spinal integrity. 
+   - Check the persons blood pressure and their heart rate. For reference, a normal blood pressure is 120/80 and a normal heart rate is 60-100 bpm. 
+   - Ask if the person has any allergies to medication. Make sure to ask if they are alert, as some medication allergies can be life threatning. 
+
+
+  ### 10. Questions and Evaluations
+
+    Once all sections are done, evaluate whether the Cadet(s) are ready to be Firefighters. If you feel they need more training in medical or firefighting, you can have them redo that portion in a different training, and let them pass on the other section, with a warning that they cannot do that failed section until they pass it. If they have any questions, make sure to answer them in as much detail as possible, to ensure they are not confused. 
