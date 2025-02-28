@@ -2,6 +2,16 @@
 
 <br/>
 
+:::tip Setting Up Your Officer
+Setting up your officer on the CAD System is a crucial step in the process of joining the Law Enforcement team. This guide will walk you through the steps you need to take to set up your officer on the CAD System.
+
+**Note:** This guide assumes that you have already __been accepted__ into the KCDOJRP LEO program. If you have not been accepted as an Law Enforcement Officer, feel free to check out the [Application Form](/docs/law-enforcement/apply) to see if you qualify.
+:::
+
+<br/>
+---
+<br/> 
+
 <details open>
   <summary>Check out the Video Guide!</summary>
 
