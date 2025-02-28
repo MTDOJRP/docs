@@ -14,9 +14,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="all" label="All David Codes" default>
+<TabItem value="all" label="All David Codes" default>
 
-:::info All D-Codes (David Codes)
 A full and extensive list of all the available D-codes can be found below.
 
 - **D1** Arrested
@@ -65,12 +64,9 @@ A full and extensive list of all the available D-codes can be found below.
 - **D47** Officer needs assistance
 - **D48** Officer needs immediate assistance
 
-:::
+</TabItem>
+<TabItem value="common" label="Common David Codes">
 
-  </TabItem>
-  <TabItem value="common" label="Common David Codes">
-
-:::info Common D-Codes (David Codes)
 Here's a list of D-codes that are very commonly used over the radio.
 
 - **D1** Arrested
@@ -81,7 +77,6 @@ Here's a list of D-codes that are very commonly used over the radio.
 - **D33** Unable to locate
 - **D47** Officer needs assistance
 - **D48** Officer needs immediate assistance
-:::
 
-  </TabItem>
+</TabItem>
 </Tabs>

@@ -14,9 +14,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="all" label="All 10-Codes" default>
+<TabItem value="all" label="All 10-Codes" default>
 
-:::info All 10-Codes
 A full and extensive list of all the available 10-codes can be found below.
 
 - **10-1** Receiving Poorly
@@ -67,12 +66,10 @@ A full and extensive list of all the available 10-codes can be found below.
 - **10-80** Pursuit
 - **10-97** Arriving at scene
 - **10-98** Finished last assignment
-:::
 
-  </TabItem>
-  <TabItem value="common" label="Common 10-Codes">
+</TabItem>
+<TabItem value="common" label="Common 10-Codes">
 
-:::info Common 10-Codes
 Here's a list of 10-codes that are very commonly used over the radio. Perfect for a cheat sheet!
 
 - **10-1** Receiving Poorly
@@ -98,12 +95,10 @@ Here's a list of 10-codes that are very commonly used over the radio. Perfect fo
 - **10-80** Pursuit
 - **10-97** Arriving at scene
 - **10-98** Finished last assignment
-:::
 
-  </TabItem>
-  <TabItem value="status" label="Status 10-Codes">
+</TabItem>
+<TabItem value="status" label="Status 10-Codes">
 
-:::info Common 10-Codes
 Here's a list of 10-codes that are very commonly used over the radio. Perfect for a cheat sheet!
 
 - **10-6** Busy
@@ -114,7 +109,6 @@ Here's a list of 10-codes that are very commonly used over the radio. Perfect fo
 - **10-38** Are you OK / Status Check
 - **10-49** En route
 - **10-97** Arriving at scene
-:::
 
-  </TabItem>
+</TabItem>
 </Tabs>

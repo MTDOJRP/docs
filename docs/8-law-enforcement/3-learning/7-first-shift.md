@@ -71,13 +71,12 @@ Let's get you started! Before we begin, we need to make sure you've got the basi
 
 Now that you're in service, it's time for some traffic stops! Let's get you started with some basics.
 
-<br/>
-
-:::info The main things to say when on a traffic stop
+#### The main things to say when on a traffic stop
 - **Who you are** - *(your callsign)*
 - **Your location** - *(street name, nearest postal, etc.)*
 - **Vehicle description** - *(make, model, color, plate, etc.)*
-:::
+
+<br/>
 
 :::tip Top Tips!
 - You'll always say the **unit you are calling first**, then your call-sign.

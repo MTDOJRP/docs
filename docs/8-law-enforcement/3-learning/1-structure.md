@@ -43,24 +43,8 @@ A callsign is a unique identifier for each officer/deputy. It is used to communi
 
 <br/>
 
-<details open>
-  <summary>Callsigns - **Examples**</summary>
-
-  Callsigns will follow the following format: *`{department}{rank/unit type}`-`{2 digit unit number}`*<br/>
-  **For Example:** `2C-03`
-
-  <br/>
-
-  #### Let's break this down:
-  - The first two characters `2C` represent the department and rank/unit type. In this case, it's the `BCSO (Blaine County Sheriff's Office)` with a `Chief Deputy` rank.
-
-  - The last two characters `03` represent the unit number. There isn't a hidden meaning to this, it's just a unique number for each unit within the department.
-</details>
-
-<br/>
-
-<details open>
-  <summary>Callsigns - **Definitions**</summary>
+<!-- <details open>
+  <summary>Callsigns - **Definitions**</summary> -->
 
   #### Department Codes:
   - `1` = **San Andreas Highway Patrol (SAHP)**
@@ -86,6 +70,20 @@ A callsign is a unique identifier for each officer/deputy. It is used to communi
   - `M` = **Marine**<br/><br/>
   *These codes are found as the **second character** within the callsign.*<br/>
   *For example, the callsign `2C-03` has a rank/unit type of `C` - which is the **Captain/Command**.*
+<!-- </details> -->
+
+<br/>
+
+<details open>
+  <summary>Callsigns - **Examples**</summary>
+
+  Callsigns will follow the following format: *`{department}{rank/unit type}`-`{2 digit unit number}`*<br/>
+  **For Example:** `2C-03`
+
+  <br/>
+
+  #### Let's break this down:
+  - The first two characters `2C` represent the department and rank/unit type. In this case, it's the `BCSO (Blaine County Sheriff's Office)` with a `Chief Deputy` rank.
+
+  - The last two characters `03` represent the unit number. There isn't a hidden meaning to this, it's just a unique number for each unit within the department.
 </details>
-
-
