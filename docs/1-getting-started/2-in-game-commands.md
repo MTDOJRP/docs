@@ -95,9 +95,9 @@ These commands are used to interact with the game in various ways.
 - `/emotemenu`: Opens the emotes menu
 - `/takepicture`: Takes a picture and saves to your GTA Gallery
 - `/record`: Records and saves to your GTA Gallery
-- `/radio`: Opens the radio
+- `/radio`: Opens the [radio](/docs/law-enforcement/tools/radio)
 - `/attach`: Attaches tow vehicles
-- `/postal (postal)`: Puts a marker on the map to a specified postal
+- `/postal (postal)`: Puts a marker on the map to a specified [postal](/docs/postal-codes/postal-cmd)
 - `/aop`: Tells you what the current 'Area of Play' is
 
 <br/>

@@ -15,6 +15,7 @@ We are doing our absolute best to make sure we cover everything you may need to 
 - 📕 [Our server rules](/docs/getting-started/server-rules)
 - 🎤 [Microphone setup and usage](/docs/getting-started/microphone-setup)
 - 🌟 [Trusted civilians](/docs/getting-started/trusted-civs)
+- 🗺️ [Priority Status](/docs/getting-started/priority)
 - 🛡️ [Joining the Staff Team](https://docs.kcdojrp.com/application/staff)
 - 🚨 [Installing 32-Sirens](/docs/getting-started/sirens)
 - 💬 [Join our Discord Server](https://discord.gg/kcdojrp)
@@ -41,8 +42,9 @@ We are doing our absolute best to make sure we cover everything you may need to 
 
 ### Postal Codes & Map Blips
 - 🗺️ [What are Postals?](/docs/postal-codes/postals)
-- 📌 [What are Map Blips?](/docs/postal-codes/blips)
 - 📍 [Using `/postal`](/docs/postal-codes/postal-cmd)
+- 📌 [What are Map Blips?](/docs/postal-codes/blips)
+- 🎮 [What is the Area of Play?](/docs/postal-codes/aop)
 
 <br/>
 
