@@ -20,10 +20,14 @@ We are doing our absolute best to make sure we cover everything you may need to 
 - 💬 [Join our Discord Server](https://discord.gg/kcdojrp)
 - 👀 [What's New?](/blog/)
 
+<br/>
+
 ### Create & Manage your character
 - 📝 [Creating a character](/docs/your-characters/creating)
 - 👕 [Clothing Reel & Usage](/docs/your-characters/clothing-reel)
 - 🛍️ [Acquiring & registering weapons](/docs/your-characters/ammunation)
+
+<br/>
 
 ### Create & Manage your vehicle
 - 📝 [Creating a vehicle](/docs/your-vehicles/creating)
@@ -33,20 +37,28 @@ We are doing our absolute best to make sure we cover everything you may need to 
 - 🧲 [Tow / Vehicle attachment](/docs/your-vehicles/tow-veh-attach)
 - 🚁 [Helicopter camera and HUD](/docs/your-vehicles/heli-hud)
 
+<br/>
+
 ### Postal Codes & Map Blips
 - 🗺️ [What are Postals?](/docs/postal-codes/postals)
 - 📌 [What are Map Blips?](/docs/postal-codes/blips)
 - 📍 [Using `/postal`](/docs/postal-codes/postal-cmd)
 
+<br/>
+
 ### Things to do & functionality
 - 💰 [Robbing Stores and Silent Alarms](/docs/things-to-do/robberies)
 - 📷 [`/cam`, `/pcam`, `/vcam` Commands](/docs/things-to-do/camera)
+
+<br/>
 
 ### Getting started with KC-Menu
 This section will cover the basics of the KC Menu & the majority of what you need to know about it.
 Want to find out more about how to use KC-Menu?
 - 💬 [What is KC Menu?](/docs/kc-menu/kcmenu)
 - 📝 [How to use KC Menu](/docs/kc-menu/how-use)
+
+<br/>
 
 ### Using the CAD
 The CAD is the main hub for all of your Law Enforcement, Fire / EMS, and business needs! Most (if not all) of the civilian features are now built into the game itself; which means you no longer need to use the CAD to tweak your civilians & characters.
@@ -55,6 +67,8 @@ The CAD is the main hub for all of your Law Enforcement, Fire / EMS, and busines
 - 📝 [Join / Apply to a business](/docs/the-cad/join-apply-business)
 - 📝 [Using the CAD as a LEO / Fire / EMS](/docs/the-cad/fire-ems-leo)
 - 📝 [Using the CAD as a dispatcher](/docs/the-cad/dispatch)
+
+<br/>
 
 ### Law Enforcement
 This section will cover the basics of the Law Enforcement / LEO features & the majority of what you need to know about it. We highly recommend you read through this section if you are looking to join the Law Enforcement team!
@@ -73,6 +87,8 @@ This section will cover the basics of the Law Enforcement / LEO features & the m
 - 🛠️ [(Useful Tool) Law enforcement actions](/docs/law-enforcement/tools/leo-actions)
 - 🚓 [(Your Exam) Field training guide](/docs/law-enforcement/learning/fto-guide)
 
+<br/>
+
 ### Fire & Emergency Services
 This section will cover the basics of the Fire & Emergency Services features & the majority of what you need to know about it. We highly recommend you read through this section if you are looking to join the Fire & Emergency Services team!
 - 📝 [How do I apply?](/docs/fire-ems/apply)
@@ -87,18 +103,20 @@ This section will cover the basics of the Fire & Emergency Services features & t
 - 🛠️ [(Useful Tool) How do I use the radio?](/docs/law-enforcement/tools/radio)
 - 🚑 [(Your Exam) Field training guide](/docs/fire-ems/learning/fto-guide)
 
+<br/>
+
 ### Our Anti-cheat & Player Safety
-- 🚫 [About our Anti-Cheat](#)
-- 💬 [Warning, kick & ban messages](#)
-- 📊 [Public punishment history](https://punishments.kcdojrp.com/)
-- ⚠️ [How can I report someone?](#)
-- 📝 [How can I appeal my punishment?](#)
+- 🚫 [About our Anti-Cheat](/docs/anticheat/the-ac)
+- 💬 [Warning, kick & ban messages](/docs/anticheat/messages)
+- 📊 [Public punishment history](/docs/anticheat/punishments)
+- ⚠️ [How can I report someone?](/docs/anticheat/reporting)
+- 📝 [How can I appeal my punishment?](/docs/anticheat/appeal)
 
 <br/>
 ---
 <br/>
 
-:::note Found a problem with the docs (or want to add something)?
+:::info Found a problem with the docs (or want to add something)?
 We are always looking to improve the docs, so if you have any suggestions, please open [an issue](https://github.com/MTDOJRP/docs/issues) on our GitHub Issues Tracker!
 You can find out how to contribute to the docs [here](https://github.com/MTDOJRP/docs/blob/main/README.md).
 :::
