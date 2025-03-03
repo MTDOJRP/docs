@@ -73,6 +73,16 @@ Without our community's support, development of our Anti-Cheat will get very dif
 ---
 <br/>
 
+### Understanding Anti-Cheat Messages
+
+:::danger Anti-Cheat Messages
+This section is still under development. We will be adding more information as soon as it is available.
+:::
+
+<br/>
+---
+<br/>
+
 :::tip You've Reached The End Of This Page!
 If you're still interested in learning more about our Anti-Cheat, we recommend some of these resources:
 - [Anti-Cheat Messages](/docs/anticheat/messages) - Find out what kick/ban messages mean and how to use them.

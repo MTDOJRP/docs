@@ -109,7 +109,7 @@ This section will cover the basics of the Fire & Emergency Services features & t
 
 ### Our Anti-cheat & Player Safety
 - 🚫 [About our Anti-Cheat](/docs/anticheat/the-ac)
-- 💬 [Warning, kick & ban messages](/docs/anticheat/messages)
+- 💬 [Warning, kick & ban messages](/docs/anticheat/the-ac#understanding-anti-cheat-messages)
 - 📊 [Public punishment history](/docs/anticheat/punishments)
 - ⚠️ [How can I report someone?](/docs/anticheat/reporting)
 - 📝 [How can I appeal my punishment?](/docs/anticheat/appeal)
