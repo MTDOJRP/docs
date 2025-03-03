@@ -85,7 +85,6 @@ This section is still under development. We will be adding more information as s
 
 :::tip You've Reached The End Of This Page!
 If you're still interested in learning more about our Anti-Cheat, we recommend some of these resources:
-- [Anti-Cheat Messages](/docs/anticheat/messages) - Find out what kick/ban messages mean and how to use them.
 - [Punishments](/docs/anticheat/punishments) - Help us poke fun at cheaters by viewing the live punishment tracker.
 - [Reporting Issues](/docs/anticheat/reporting) - Learn how to report players and bugs within KCRP.
 - [Appeal a Punishment](/docs/anticheat/appeal) - Learn how to appeal a punishment if you feel it was unfair.
