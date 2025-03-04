@@ -75,8 +75,28 @@ Without our community's support, development of our Anti-Cheat will get very dif
 
 ### Understanding Anti-Cheat Messages
 
-:::danger Anti-Cheat Messages
-This section is still under development. We will be adding more information as soon as it is available.
+When you receive an Anti-Cheat message, it will always provide you with an "Anti-Cheat Violation Code". This is a unique code that will help us identify what exactly resulted in the violation and how to resolve it.
+
+For example, you receive an Anti-Cheat message that says "**Anti-Cheat Violation: S001A**". These codes allow us, the developers, to know what exactly you did, while not giving you that information directly.
+
+<br/>
+
+<details open>
+  <summary>KCAC - **Understanding Anti-Cheat Messages**</summary>
+
+#### AntiCheat Violation Codes are divided into two categories:
+- **S (Server)** - These codes are related to the system itself, such as the game server or the Anti-Cheat system.
+- **C (Client)** - These codes are related to the client-side, such as the game client or the Anti-Cheat system.
+
+<br/>
+
+That will then follow by a number **between 000 and 999**, which is the specific type of violation, and finally, **a letter (A-Z)** that represents the specific check that was violated (if there are multiple checks involved).
+</details>
+
+<br/>
+
+:::danger I Am Not a Cheater!
+If you have received an automated kick/ban, you can appeal it [here](/docs/anticheat/appeal). Additionally, if you believe that a violation was unfair, you can contact us directly through our [Discord Server](https://discord.gg/kcdojrp) by opening a support ticket in the [#support-and-information](https://discord.com/channels/1132847710282727565/1134209356708196392) channel.
 :::
 
 <br/>
