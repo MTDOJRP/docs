@@ -53,6 +53,10 @@ import TabItem from '@theme/TabItem';
 The following departments are currently active and accepting new applicants for the KCDOJRP Law Enforcement program.
 
 - **DPS** (Department of Public Safety)
+
+The Department of Public Safety will be the only available department until the server population justifies more units and LEO. Thank you for your understanding!
+
+Please note that the DPS has access to uniforms & vehicles for all departments.
 :::
 
   </TabItem>

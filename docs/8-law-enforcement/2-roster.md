@@ -10,7 +10,7 @@ The roster **may take a second or two to load if you're on a slower connection**
 
 <br/>
 
-import Roster from '@site/src/components/Roster';
+import Roster from '@site/src/components/RosterDPS';
 
 <Roster />
 
