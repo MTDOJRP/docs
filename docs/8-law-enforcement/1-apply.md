@@ -52,9 +52,7 @@ import TabItem from '@theme/TabItem';
 :::info Open Departments
 The following departments are currently active and accepting new applicants for the KCDOJRP Law Enforcement program.
 
-- **BCSO** (Blaine County Sheriff's Office)
-- **LSPD** (Los Santos Police Department)
-- **SAHP** (San Andreas Highway Patrol // State Police)
+- **DPS** (Department of Public Safety)
 :::
 
   </TabItem>
@@ -63,8 +61,11 @@ The following departments are currently active and accepting new applicants for 
 :::info Closed Departments
 The following departments are currently closed, and will be managed by the departments above until further notice.
 
-- **SSPD** (Sandy Shores Police Department) - managed by **BCSO/LSPD/SAHP** until further notice.
-- **LSSO** (Los Santos Sheriff's Office) - managed by **BCSO/LSPD/SAHP** until further notice.
+- **BCSO** (Blaine County Sheriff's Office) - managed by **DPS** until further notice.
+- **LSPD** (Los Santos Police Department) - managed by **DPS** until further notice.
+- **SAHP** (San Andreas Highway Patrol // State Police) - managed by **DPS** until further notice.
+- **SSPD** (Sandy Shores Police Department) - managed by **DPS** until further notice.
+- **LSSO** (Los Santos Sheriff's Office) - managed by **DPS** until further notice.
 :::
 
   </TabItem>
