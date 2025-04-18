@@ -36,10 +36,12 @@ jobs:
           COMMIT_AUTHOR: ${{ steps.commit_info.outputs.COMMIT_AUTHOR }}
           TARGET_BRANCH: ${{ github.base_ref }}
         run: |
-          discord_title="Commit to branch '${TARGET_BRANCH}' by ${PR_AUTHOR}: ${PR_TITLE}"
+          discord_title="Commit to branch '${TARGET_BRANCH}' by ${COMMIT_AUTHOR}"
 
           discord_description=$(cat <<EOF
           ${COMMIT_MESSAGE}
+          EOF
+          )
 
           payload=$(jq -n \
             --arg title "$discord_title" \
