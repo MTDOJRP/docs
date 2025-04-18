@@ -25,6 +25,7 @@ jobs:
         id: build
         run: |
           npm run build 2>&1 | tee build.log
+          echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> "$GITHUB_OUTPUT"
 
       - name: Check for errors in log
         id: check_log
@@ -58,3 +59,28 @@ jobs:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
             $(cat build-summary.md)
+      
+      - name: Notify Discord
+        env:
+          COMMIT_MESSAGE: ${{ steps.build.outputs.COMMIT_MESSAGE }}
+        run: |
+          payload=$(jq -n \
+            --arg title "Documentation Update (in-dev)" \
+            --arg description "$(cat <<EOF
+          ${{ env.COMMIT_MESSAGE }}
+          EOF
+          )" \
+            --arg color "16711680" \
+            '{
+              "embeds": [
+                {
+                  "title": $title,
+                  "description": $description,
+                  "color": ($color | tonumber)
+                }
+              ]
+            }')
+
+          curl -X POST -H "Content-Type: application/json" \
+            -d "$payload" \
+            "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS"
