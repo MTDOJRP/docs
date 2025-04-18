@@ -1,41 +1,69 @@
 name: Notify Discord
 
 on:
-  pull_request:
+  push:
     branches:
+      - main
       - dev
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - name: Grab Commit Message
-        id: build
-        run: |
-          echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> "$GITHUB_OUTPUT"
-          
-      - name: Notify Discord
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Send Notification
         env:
-          COMMIT_MESSAGE: ${{ steps.build.outputs.COMMIT_MESSAGE }}
+          DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS" # <-- Insecure: Hardcoded URL
+
+          # --- Commit details ---
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+          COMMIT_AUTHOR_NAME: ${{ github.event.head_commit.author.name }}
+          COMMIT_TIMESTAMP: ${{ github.event.head_commit.timestamp }}
+          COMMIT_URL: ${{ github.event.head_commit.url }}
+
+          # --- Branch details ---
+          TARGET_BRANCH: ${{ github.ref_name }}
+
+          # --- Pusher details (User who ran 'git push') ---
+          PUSHER_USERNAME: ${{ github.actor }}
+          PUSHER_AVATAR_URL: "https://github.com/${{ github.actor }}.png"
+
         run: |
-          payload=$(jq -n \
-            --arg title "Documentation Update (Branch: 'dev')" \
-            --arg description "$(cat <<EOF
-          ${{ env.COMMIT_MESSAGE }}
+          discord_title="Push to '${TARGET_BRANCH}' on 'MTDOJRP/docs'"
+
+          discord_description=$(cat <<EOF
+          **Message:**
+          ${COMMIT_MESSAGE}
           EOF
-          )" \
-            --arg color "16711680" \
+          )
+
+          payload=$(jq -n \
+            --arg username "GitHub - $PUSHER_USERNAME" \
+            --arg avatar_url "$PUSHER_AVATAR_URL" \
+            --arg title "$discord_title" \
+            --arg description "$discord_description" \
+            --arg timestamp "$COMMIT_TIMESTAMP" \
+            --argjson color 3066993 \
             '{
+              "username": $username,
+              "avatar_url": $avatar_url,
               "embeds": [
                 {
                   "title": $title,
                   "description": $description,
-                  "color": ($color | tonumber)
+                  "timestamp": $timestamp,
+                  "footer": { "text": "docs | Kelly County" },  
+                  "color": $color
                 }
               ]
             }')
 
+          echo "Sending notification for push to branch: $TARGET_BRANCH by $PUSHER_USERNAME"
           curl -X POST -H "Content-Type: application/json" \
             -d "$payload" \
-            "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS"
+            "$DISCORD_WEBHOOK_URL"
