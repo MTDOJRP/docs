@@ -4,38 +4,60 @@ on:
   pull_request:
     branches:
       - main
+      - dev
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - name: Grab Commit Message
-        id: build
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Get Commit Message
+        id: commit_info
         run: |
-          echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> "$GITHUB_OUTPUT"
-          
+          # Get Author Name of the latest commit
+          COMMIT_AUTHOR=$(git log -1 --pretty=%an)
+          echo "COMMIT_AUTHOR=$COMMIT_AUTHOR" >> $GITHUB_OUTPUT
+
+          # Get Commit Message of the latest commit
+          COMMIT_MSG=$(git log -1 --pretty=%B)
+          echo "COMMIT_MESSAGE<<EOF" >> $GITHUB_OUTPUT
+          echo "$COMMIT_MSG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
       - name: Notify Discord
         env:
-          COMMIT_MESSAGE: ${{ steps.build.outputs.COMMIT_MESSAGE }}
+          DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS"
+          COMMIT_MESSAGE: ${{ steps.commit_info.outputs.COMMIT_MESSAGE }}
+          COMMIT_AUTHOR: ${{ steps.commit_info.outputs.COMMIT_AUTHOR }}
+          TARGET_BRANCH: ${{ github.base_ref }}
         run: |
+          discord_title="Commit to branch '${TARGET_BRANCH}' by ${PR_AUTHOR}: ${PR_TITLE}"
+
+          discord_description=$(cat <<EOF
+          ${COMMIT_MESSAGE}
+
           payload=$(jq -n \
-            --arg title "Documentation Update (Branch: 'main')" \
-            --arg description "$(cat <<EOF
-          ${{ env.COMMIT_MESSAGE }}
-          EOF
-          )" \
-            --arg color "16711680" \
+            --arg title "$discord_title" \
+            --arg description "$discord_description" \
+            --argjson color 16711680 \
             '{
               "embeds": [
                 {
                   "title": $title,
                   "description": $description,
-                  "color": ($color | tonumber)
+                  "color": $color
                 }
               ]
             }')
 
+          echo "Sending notification for PR targeting branch: $TARGET_BRANCH"
+          echo "Payload: $payload"
+
           curl -X POST -H "Content-Type: application/json" \
             -d "$payload" \
-            "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS"
+            "$DISCORD_WEBHOOK_URL"
