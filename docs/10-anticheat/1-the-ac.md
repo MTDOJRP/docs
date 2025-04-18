@@ -85,8 +85,8 @@ For example, you receive an Anti-Cheat message that says "**Anti-Cheat Violation
   <summary>KCAC - **Understanding Anti-Cheat Messages**</summary>
 
 #### AntiCheat Violation Codes are divided into two categories:
-- **S (Server)** - These codes are related to the system itself, such as the game server or the Anti-Cheat system.
-- **C (Client)** - These codes are related to the client-side, such as the game client or the Anti-Cheat system.
+- **S (Server)** - These codes indicate that the violation was caught by the server-side Anti-Cheat system.
+- **C (Client)** - These codes indicate that the violation was caught by the client-side Anti-Cheat system.
 
 <br/>
 
