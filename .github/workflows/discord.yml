@@ -1,0 +1,41 @@
+name: Notify Discord
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Grab Commit Message
+        id: build
+        run: |
+          echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> "$GITHUB_OUTPUT"
+          
+      - name: Notify Discord
+        env:
+          COMMIT_MESSAGE: ${{ steps.build.outputs.COMMIT_MESSAGE }}
+        run: |
+          payload=$(jq -n \
+            --arg title "Documentation Update (Branch: 'main')" \
+            --arg description "$(cat <<EOF
+          ${{ env.COMMIT_MESSAGE }}
+          EOF
+          )" \
+            --arg color "16711680" \
+            '{
+              "embeds": [
+                {
+                  "title": $title,
+                  "description": $description,
+                  "color": ($color | tonumber)
+                }
+              ]
+            }')
+
+          curl -X POST -H "Content-Type: application/json" \
+            -d "$payload" \
+            "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS"
