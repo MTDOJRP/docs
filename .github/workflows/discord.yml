@@ -57,7 +57,7 @@ jobs:
                   "title": $title,
                   "description": $description,
                   "timestamp": $timestamp,
-                  "footer": "Kelly County Documentation",
+                  "footer": { "text": "docs | Kelly County" }
                   "color": $color
                 }
               ]
