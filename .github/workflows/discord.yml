@@ -34,9 +34,8 @@ jobs:
           PUSHER_AVATAR_URL: "https://github.com/${{ github.actor }}.png"
 
         run: |
-          discord_title="Push to '${TARGET_BRANCH}' by ${PUSHER_USERNAME}"
+          discord_title="Push to '${TARGET_BRANCH}' on 'MTDOJRP/docs'"
 
-          COMMIT_SHA_SHORT=$(echo "${{ github.sha }}" | cut -c1-7)
           discord_description=$(cat <<EOF
           **Message:**
           ${COMMIT_MESSAGE}
@@ -44,12 +43,11 @@ jobs:
           )
 
           payload=$(jq -n \
-            --arg username "$PUSHER_USERNAME" \
+            --arg username "GitHub - $PUSHER_USERNAME" \
             --arg avatar_url "$PUSHER_AVATAR_URL" \
             --arg title "$discord_title" \
             --arg description "$discord_description" \
             --arg timestamp "$COMMIT_TIMESTAMP" \
-            --arg commit_url "$COMMIT_URL" \
             --argjson color 3066993 \
             '{
               "username": $username,
@@ -58,8 +56,8 @@ jobs:
                 {
                   "title": $title,
                   "description": $description,
-                  "url": $commit_url, # Link embed title to commit
                   "timestamp": $timestamp,
+                  "footer": "Kelly County Documentation",
                   "color": $color
                 }
               ]
