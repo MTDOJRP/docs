@@ -2,7 +2,7 @@
 title: v2.0.0 - Welcome to the Docs!
 description: Welcome to KCRP v2!
 slug: v2.0.0-welcome-to-kcrp-docs
-authors: [paneedah, skyy]
+authors: [paneedah, skyy, mindvoid, ace]
 tags: [v2.0.0, Major Update]
 hide_table_of_contents: false
 ---
