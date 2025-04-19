@@ -10,7 +10,7 @@ hide_table_of_contents: false
 <br/><br/>
 
 <div class="text--center">
-    <img src="/imgs/blog-docs-v2-update.jpg" style={{ width: '100%' }}></img>
+    <img src="/imgs/blog-docs-v2-update.png" style={{ width: '100%' }}></img>
 </div>
 
 <br/>
