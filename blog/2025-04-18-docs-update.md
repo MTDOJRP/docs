@@ -94,7 +94,7 @@ Excited to inform you all that we now have **Video Guides** (for LEO)! We are ho
 
 ### (New!) Public Commits on Discord!
 
-We've added a new channel on our [Discord Server](https://discord.gg/kcdojrp) called **[#project-commits](1362605191353991380)**. Every time we make a commit to a project (currently only the Kelly County Documentation & the Core Script for the FiveM Server), we'll automagically post a message describing the commit and the reasoning behind it.
+We've added a new channel on our [Discord Server](https://discord.gg/kcdojrp) called **[#project-commits](https://discord.com/channels/1132847710282727565/1362605191353991380)**. Every time we make a commit to a project (currently only the Kelly County Documentation & the Core Script for the FiveM Server), we'll automagically post a message describing the commit and the reasoning behind it.
 
 This is a great way to keep track of what we're working on and what's coming up next by looking at the in-development branches!
 
