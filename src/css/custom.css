@@ -9,6 +9,7 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
+
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -20,6 +21,11 @@
   --ifm-navbar-background-color: #20232A;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+html[data-theme="dark"] {
+  --ifm-background-color: #1a1a1a;
+}
+
 .discord-icon {
   filter: invert(0%);
 }
@@ -27,10 +33,12 @@
 html[data-theme='dark'] .discord-icon {
   filter: invert(100%);
 }
+
 label {
   display: block;
   margin: 10px 0 5px;
 }
+
 input[type="text"],
 textarea {
   width: 100%;
@@ -39,6 +47,7 @@ textarea {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+
 input[type="submit"] {
   border: none;
   padding: 10px 20px;
@@ -48,12 +57,21 @@ input[type="submit"] {
   width: 100%;
   margin-top: 20px;
 }
+
 input[type="submit"]:hover {
   background-color: #0056b3;
 }
+
 .DocSearch-Logo {
   display: none;
 }
+
 a[href="https://www.algolia.com/"] {
   display: none;
+}
+
+.two-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }

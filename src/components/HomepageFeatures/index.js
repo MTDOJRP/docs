@@ -6,11 +6,11 @@ const FeatureList = [
   {
     title: (
       <>
-        <a href="/docs/leo/apply">LEO : Getting Started</a>
+        <a href="/docs/law-enforcement/apply">LEO : Getting Started</a>
       </>
     ),
     Svg: require('@site/static/img/user-police-tie-duotone.svg').default,
-    link: '/docs/leo/apply',
+    link: '/docs/law-enforcement/apply',
     description: (
       <>
         How to get started as a Law Enforcement Officer on the Kelly County Department of Justice RP Fivem Server.
@@ -20,11 +20,11 @@ const FeatureList = [
   {
     title: (
       <>
-        <a href="/docs/introduction/getting-started">First Join : Getting Started</a>
+        <a href="/docs/getting-started/joining-server">First Join : Getting Started</a>
       </>
     ),
     Svg: require('@site/static/img/right-to-bracket-duotone.svg').default,
-    link: '/docs/introduction/getting-started',
+    link: '/docs/getting-started/joining-server',
     description: (
       <>
         Are you a brand new member looking on how to get started on the Kelly County Department of Justice RP? This is the place for you!
@@ -34,7 +34,7 @@ const FeatureList = [
   {
     title: (
       <>
-        <a href="/docs/introduction/rules">Rules & TOS</a>
+        <a href="/docs/getting-started/server-rules">Rules & TOS</a>
       </>
     ),
     Svg: require('@site/static/img/scale-balanced-duotone.svg').default,

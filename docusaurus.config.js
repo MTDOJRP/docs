@@ -61,6 +61,13 @@ const config = {
         searchPagePath: 'search',
         insights: true,
       },
+      announcementBar: {
+        id: 'under_construction',
+        content:'<b>⚠️ Our Documentation is currently under construction! Expect frequent updates and changes! ⚠️</b>',
+        backgroundColor: '#29d5b0',
+        textColor: '#1b1b1b',
+        isCloseable: true,
+      },
       image: 'img/KCDOJRP.png',
       navbar: {
         title: 'KCDOJRP',
@@ -70,32 +77,85 @@ const config = {
         },
         items: [
           {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Docs',
+          },
+          {
+            to: 'blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
             position: 'left',
             label: 'Getting Started',
             items: [
               {
-                href: '/docs/introduction/getting-started',
+                href: '/docs/getting-started/joining-server',
                 label: 'First Join',
               },
               {
-                href: '/docs/leo/apply',
-                label: 'Apply for LEO',
+                href: '/docs/getting-started/server-rules',
+                label: 'Server Rules',
               },
               {
-                href: '/docs/leo/information/codes',
-                label: 'LEO Codes',
+                href: '/docs/getting-started/microphone-setup',
+                label: 'Voice Chat',
               },
               {
-                href: '/docs/leo/information/directory',
-                label: 'LEO Roster',
+                href: '/docs/getting-started/trusted-civs',
+                label: 'Civilian Levels',
+              },
+              {
+                href: '/docs/intro',
+                label: 'Table of Contents',
               },
             ]
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Law Enforcement',
+            items: [
+              {
+                href: '/docs/law-enforcement/apply',
+                label: 'Apply for LEO',
+              },
+              {
+                href: '/docs/law-enforcement/roster',
+                label: 'Active Roster',
+              },
+              {
+                href: '/docs/law-enforcement/learning/structure',
+                label: 'Department Structure',
+              },
+              {
+                href: '/docs/law-enforcement/learning/ten-codes',
+                label: '10-Codes',
+              },
+              {
+                href: '/docs/law-enforcement/learning/d-codes',
+                label: 'David-Codes',
+              }
+            ]
+          },
+          {
+            position: 'left',
+            label: 'Fire & EMS',
+            items: [
+              {
+                href: '/docs/fire-ems/apply',
+                label: 'Apply for Fire / EMS',
+              },
+              {
+                href: '/docs/fire-ems/roster',
+                label: 'Active Roster',
+              },
+              {
+                href: '/docs/fire-ems/learning/structure',
+                label: 'Department Structure',
+              },
+            ]
           },
           {
             href: 'https://CAD.KCDOJRP.com',

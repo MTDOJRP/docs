@@ -25,6 +25,7 @@ jobs:
         id: build
         run: |
           npm run build 2>&1 | tee build.log
+          echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> "$GITHUB_OUTPUT"
 
       - name: Check for errors in log
         id: check_log

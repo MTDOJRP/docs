@@ -1,0 +1,8 @@
+{
+    "label": "Things To Do",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Some of the best things to do in the area."
+    }
+  }
