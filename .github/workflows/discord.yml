@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - backup-v1
       - dev
 
 jobs:
@@ -18,7 +19,7 @@ jobs:
 
       - name: Send Notification
         env:
-          DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1362607277441552517/2WT7hZBlyQ6boJejURiRxAYMr12PEp3S5I2KtvBmO_IKL5oktZ-pXE5xAo5twEktVRAS" # <-- Insecure: Hardcoded URL
+          DISCORD_WEBHOOK_URL: ${{ secrets.COMMIT_WEBHOOK_URL }}
 
           # --- Commit details ---
           COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
