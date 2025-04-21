@@ -2,7 +2,7 @@
 title: v2.0.0 - Welcome to the Docs!
 description: Welcome to KCRP v2!
 slug: v2.0.0-welcome-to-kcrp-docs
-authors: [paneedah, skyy, mindvoid, ace]
+authors: [paneedah, skyy, mindvoid, ace, core70]
 tags: [v2.0.0, Major Update]
 hide_table_of_contents: false
 ---
@@ -110,6 +110,10 @@ We cleaned up everything within the **Law Enforcement** and **Fire & EMS** secti
 - **Added a new section labelled "Tools"** - This is where you can find all of the tools and resources that we've created for you to use in the various roles and responsibilities of each department.
 
 - **Fully re-worded all documentation** - We've gone through and re-worded all of the documentation to make it more clear and concise. We've also added more detailed explanations and examples wherever possible.
+
+:::tip Thank You, Core70!
+I'd also love to thank [Core70](https://github.com/Core70) for his contributions to the documentation on the Fire/EMS side of things!
+:::
 
 Why am I listing, let's just show you a small snippet!
 

@@ -1,6 +1,6 @@
 paneedah:
   name: Paneedah
-  title: Development Manager @ KCDOJRP
+  title: Development Manager @ Kelly County
   image_url: https://github.com/Paneedah.png
   socials:
     github: Paneedah
@@ -10,21 +10,21 @@ paneedah:
 
 skyy:
   name: Skyy
-  title: General Manager @ KCDOJRP
+  title: General Manager @ Kelly County
   image_url: https://cdn.discordapp.com/avatars/704900355804102746/24f7bc67eba80f613b01aff786a7cd43.webp
   socials:
     github: BurnhamR
     x: KCDOJRP
-    Website: https://kcdojrp.com
+    Website: https://kellycountyrp.com
     youtube: KCDOJRP
 
 mindvoid:
   name: MindVoid
-  title: Community Manager @ KCDOJRP
+  title: Community Manager @ Kelly County
   image_url: https://github.com/OGMindVoid.png
   socials:
     github: OGMindVoid
-    Website: https://kcdojrp.com
+    Website: https://kellycountyrp.com
 
 ace:
   name: Ace
@@ -33,3 +33,10 @@ ace:
   socials:
     github: AceJoker303
     youtube: KCDOJRP
+
+core70:
+  name: Core70
+  title: Contributor
+  image_url: https://cdn.discordapp.com/avatars/259548216964415488/95df92d890b540b70c153951c47970b7.webp
+  socials:
+    github: Core70
