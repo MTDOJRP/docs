@@ -19,7 +19,7 @@ hide_table_of_contents: false
 
 Welcome to the new Kelly County Documentation (v2.0)! We are super excited to share all the **awesome features** and **improvements** that we have been working on throughout the last year and a bit.
 
-It's not quite ready yet, but all of the old information and content has been fully moved over and migrated to the new documentation and layout. We are excited to share it with you all!
+It's not quite ready yet, but all of the old information and content has been fully migrated to the new documentation and layout. We are excited to share it with you all!
 
 <!-- truncate -->
 
@@ -28,8 +28,6 @@ It's not quite ready yet, but all of the old information and content has been fu
 <br/>
 
 ## 📚 What's New?
-
-<br/>
 
 ### (New!) Layout & Contents Page
 
