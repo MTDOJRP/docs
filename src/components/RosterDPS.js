@@ -39,6 +39,7 @@ const staticDpsRoster = [
     { callSign: '1N-30', rank: '3nd Class Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '1N-31', rank: '3nd Class Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
     { callSign: '1N-32', rank: '3nd Class Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
+    { callSign: '1N-33', rank: '3nd Class Officer', status: 'Vacant', role: 'Probationary', startDate: '', fto: '', hours: '' },
 ];
 
 useEffect(() => {
