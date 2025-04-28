@@ -32,7 +32,7 @@ Additionally, it increases the number of light object ID's allowed by FiveM nati
 <br/>
 
 ## 📥 Download Links
-- **[Click here to download (cdn.skyy.cc)](https://cdn.skyy.cc/SirenSetting_Limit_Adjuster_v3.zip)**
+- **[Click here to download (cdn.skyy.cc)](https://cdn.skyy.cc/SirenSetting_Limit_Adjuster.asi)**
 - **[Official download and page](https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/)**
 - **[Virus Total Scan](https://www.virustotal.com/gui/file/74fec47012be517504fb515abc913ece559f0ad680d0f16058ae6fb2ea46a9aa)**
 
