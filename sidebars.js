@@ -3,7 +3,6 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   tutorialSidebar: [
-    // Single page ./intro.md - Table of Contents
     'intro',
     {
       type: "link",
