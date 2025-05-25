@@ -30,8 +30,19 @@ Make sure that you meet all of our requirements before you apply. If you do not 
 </details>
 
 :::warning Role Transfers Notice
-Please note that we **do not** currently offer role transfers for the KCDOJRP Law Enforcement program. **All applicants** must be accepted and go through the same application process as everyone else.
+Please note that we **do not** currently offer role transfers for the KCDOJRP Law Enforcement program. **All applicants** must be accepted and go through the same application process as everyone else.This means that you can not trasnfer your role to a diffrent department.
 :::
+
+
+:::warning Temporary Department combination
+Right Now as of   **3/2/2025 7:41 PM EST** All Departments including **BCSO**, **LSPD**,  **SAHP**, **SSPD**, and **LSSO** will be put into one department called **Department of Public Safety (DPS)** What does this mean for you?
+This means all units will be apart of 1 larger department allowing you to patrol any vehicle, any jurisdiction, and any uniform!
+The department will now follow 1 chain of command with 1 SOP.
+We will also be updating some peoples callsigns, ranks, and more! So keep an eye out for what your callsign changes to!
+
+If you have any questions or concerns feel free to ask in [#support-and-information](https://discord.com/channels/1132847710282727565/1134209356708196392)
+
+
 
 <br/>
 ---
