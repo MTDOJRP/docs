@@ -3,7 +3,7 @@
 <br/>
 
 :::tip What is the Priority Status?
-Priority Status is a system we use to help balance the action on the server. It ensures that our Law Enforcment officer's (cops) aren’t overwhelmed by too many Large scenes happening all at once.
+Priority Status is a system we use to help balance the action on the server. It ensures that our Law Enforcement Officers aren’t overwhelmed by too many Large scenes happening all at once.
 
 When you have Priority Status, it’s your time to shine, allowing you to create and run large, exciting scenes like pursuits, shootings, bank robberies, and more!
 :::
@@ -20,7 +20,7 @@ When you have Priority Status, it’s your time to shine, allowing you to create
 
 The priority status should be requested any time that you plan to have a **large scene** happening which may involve multiple players and take up a **decent amount of LEO/FIRE/EMS resources**.
 
-A good example of this would be a pursuit, where you are running from a group of Officer's, or even a robbery, where you are trying to get the money from the bank. In these cases, you will need Priority Status to ensure that you can run the scene smoothly.
+A good example of this would be a pursuit, where you are running from a group of officers, or even a robbery, where you are trying to get the money from the bank. In these cases, you will need Priority Status to ensure that you can run the scene smoothly.
 
 <br/>
 
