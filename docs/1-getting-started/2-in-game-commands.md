@@ -43,7 +43,7 @@ These commands are used to communicate with all players on the server.
 ### Action Commands
 These are commands that are used to perform actions in the game (such as raising your hands)
 - `/huk`: Raises your hands up and kneels to the ground
-- `/handsup`: Put your hands up
+- `/handsup` or `/hu`: Put your hands up
 - `/handsupknees`: Put your hands up and drop onto your knees
 - `/dry` or `/wet`: Makes your character's clothing either wet or dry
 - `/pcam`: Equips the phone camera
