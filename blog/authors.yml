@@ -5,7 +5,7 @@ paneedah:
   socials:
     github: Paneedah
     x: KCDOJRP
-    Website: https://kcdojrp.com
+    website: https://kcdojrp.com
     youtube: KCDOJRP
 
 skyy:
@@ -15,24 +15,25 @@ skyy:
   socials:
     github: BurnhamR
     x: KCDOJRP
-    Website: https://kellycountyrp.com
+    website: https://kellycountyrp.com
+    youtube: KCDOJRP
+
+ace:
+  name: Ace
+  title: Community Manager @ Kelly County
+  image_url: https://cdn.discordapp.com/guilds/1132847710282727565/users/165151342355152896/avatars/d9678d195440982fada97e77c925239a.webp?size=1024
+  socials:
+    website: https://kellycountyrp.com
+    github: AceJoker303
     youtube: KCDOJRP
 
 mindvoid:
   name: MindVoid
-  title: Community Manager @ Kelly County
+  title: Contributor
   image_url: https://github.com/OGMindVoid.png
   socials:
     github: OGMindVoid
     Website: https://kellycountyrp.com
-
-ace:
-  name: Ace
-  title: Contributor
-  image_url: https://cdn.discordapp.com/guilds/1132847710282727565/users/165151342355152896/avatars/d4868626dbd5481c81d884f110e2edf3.webp
-  socials:
-    github: AceJoker303
-    youtube: KCDOJRP
 
 core70:
   name: Core70
